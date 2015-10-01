@@ -1,3 +1,7 @@
+#Google
+2404:6800:4005:800::2000 android.clients.google.com
+#Microsoft
+#2600:1417:9:192::e59 download.microsoft.com #WHITELISTED
 #Reddit
 2400:cb00:2048:1::c629:d188 reddit.com
 2400:cb00:2048:1::c629:d188 www.reddit.com
@@ -11,3 +15,427 @@
 2400:cb00:2048:1::6810:c08 secure.adzerk.net
 2400:cb00:2048:1::6810:c08 static.adzerk.net
 2406:da00:ff00::b849:d9c4 engine.adzerk.net
+#GitHub(Partial)
+2406:da00:ff00::36af:6485 collector.githubapp.com
+#Dropbox(Partial)
+2406:da00:ff00::1715:7cb1 api-content.dropbox.com
+2406:da00:ff00::1715:7cb1 dl.dropbox.com
+2406:da00:ff00::1715:7cb1 dl-web.dropbox.com
+2406:da00:ff00::36f3:dc9a photos-1.dropbox.com
+2406:da00:ff00::36f3:dc9a photos-2.dropbox.com
+2406:da00:ff00::36f3:dc9a photos-3.dropbox.com
+2406:da00:ff00::36f3:dc9a photos-4.dropbox.com
+2406:da00:ff00::36f3:dc9a photos-5.dropbox.com
+2406:da00:ff00::36f3:dc9a photos-6.dropbox.com
+2406:da00:ff00::3211:dc1b api-content-photos.dropbox.com
+2406:da00:ff00::6b15:d8d1 dl.dropboxusercontent.com
+#Vine
+2406:da00:ff00::6b15:d80f vine.co
+2406:da00:ff00::36e1:a3e6 platform.vine.co
+2606:2800:21f:dc2:1fe1:23fc:954:1461 v.cdn.vine.co
+2606:2800:21f:dc2:1fe1:23fc:954:1461 mtc.cdn.vine.co
+#Twitter
+2001:778:0:ffff:64::b92d:52b twitter.com
+2001:778:0:ffff:64::b92d:52b www.twitter.com
+2001:778:0:ffff:64::b92d:52c api.twitter.com
+2001:778:0:ffff:64::b92d:52d about.twitter.com
+2001:778:0:ffff:64::b92d:52d ads.twitter.com
+2001:778:0:ffff:64::b92d:52d analytics.twitter.com
+2001:778:0:ffff:64::b92d:52d blog.twitter.com
+2001:778:0:ffff:64::b92d:52d business.twitter.com
+2001:778:0:ffff:64::b92d:52d dev.twitter.com
+2001:778:0:ffff:64::b92d:52d media.twitter.com
+2001:778:0:ffff:64::b92d:52d pic.twitter.com
+2001:778:0:ffff:64::b92d:52d s.twitter.com
+2001:778:0:ffff:64::b92d:52d search.twitter.com
+2001:778:0:ffff:64::b92d:52d transparency.twitter.com
+2001:778:0:ffff:64::b92d:52e api.tweetdeck.com
+2001:778:0:ffff:64::b92d:52e downloads.tweetdeck.com
+2001:778:0:ffff:64::b92d:52e tdweb.twitter.com
+2001:778:0:ffff:64::b92d:52e td.twitter.com
+2001:778:0:ffff:64::b92d:52e tweetdeck.com
+2001:778:0:ffff:64::b92d:52e tweetdeck.twitter.com
+2001:778:0:ffff:64::b92d:52e web.tweetdeck.com
+2001:778:0:ffff:64::b92d:52e www.tweetdeck.com
+2001:778:0:ffff:64::b92d:52f t.co
+2001:778:0:ffff:64::b92d:530 mobile.twitter.com
+2001:778:0:ffff:64::b92d:531 support.twitter.com
+2001:778:0:ffff:64::c710:9e6f r.twimg.com
+2001:778:0:ffff:64::b92d:532 syndication.twimg.com
+2001:778:0:ffff:64::b92d:532 cdn.syndication.twimg.com
+2001:778:0:ffff:64::b92d:532 syndication.twitter.com
+2001:778:0:ffff:64::b92d:532 syndication-o.twimg.com
+2001:778:0:ffff:64::b92d:532 syndication-o.twitter.com
+2001:778:0:ffff:64::c710:9e73 urls-real.api.twitter.com
+2001:778:0:ffff:64::b92d:533 upload.twitter.com
+2606:2800:220:131d:1d30:1f1d:238b:1e56 cdn.api.twitter.com
+2606:2800:220:131d:1d30:1f1d:238b:1e56 platform.twitter.com
+2606:2800:220:18bf:6c7:9b1:1836:15fb cdn.syndication.twitter.com
+2606:2800:220:18bf:6c7:9b1:1836:15fb status.twitter.com
+2606:2800:220:1ead:1a38:1bef:134c:172c widgets.platform.twitter.com
+2001:778:0:ffff:64::c710:9c2e betastream.twitter.com
+2001:778:0:ffff:64::c710:9c4c sitestream.twitter.com
+2001:778:0:ffff:64::c710:9c14 stream.twitter.com
+2001:778:0:ffff:64::c710:9c3a ton.twitter.com
+2001:778:0:ffff:64::c710:9c30 userstream.twitter.com
+2001:778:0:ffff:64::c760:3906 urls.api.twitter.com
+2001:778:0:ffff:64::c710:9d50 pay.twitter.com
+2001:778:0:ffff:64::c710:9c11 image-proxy-origin.twimg.com
+2606:2800:220:131d:1d30:1f1d:238b:1e56 a0.twimg.com
+2606:2800:220:131d:1d30:1f1d:238b:1e56 a1.twimg.com
+2606:2800:220:131d:1d30:1f1d:238b:1e56 a2.twimg.com
+2606:2800:220:131d:1d30:1f1d:238b:1e56 a3.twimg.com
+2606:2800:220:131d:1d30:1f1d:238b:1e56 a4.twimg.com
+2606:2800:220:131d:1d30:1f1d:238b:1e56 a5.twimg.com
+2606:2800:220:131d:1d30:1f1d:238b:1e56 abs.twimg.com
+#2606:2800:220:131d:1d30:1f1d:238b:1e56 abs-0.twimg.com
+2606:2800:220:131d:1d30:1f1d:238b:1e56 amp.twimg.com
+2606:2800:220:131d:1d30:1f1d:238b:1e56 dnt.twimg.com
+2606:2800:220:131d:1d30:1f1d:238b:1e56 ea.twimg.com
+2606:2800:220:131d:1d30:1f1d:238b:1e56 g.twimg.com
+2606:2800:220:131d:1d30:1f1d:238b:1e56 g2.twimg.com
+2606:2800:220:131d:1d30:1f1d:238b:1e56 gu.twimg.com
+2606:2800:220:131d:1d30:1f1d:238b:1e56 hca.twimg.com
+2606:2800:220:131d:1d30:1f1d:238b:1e56 jp.twimg.com
+2606:2800:220:131d:1d30:1f1d:238b:1e56 ma.twimg.com
+2606:2800:220:131d:1d30:1f1d:238b:1e56 o.twimg.com
+2606:2800:220:131d:1d30:1f1d:238b:1e56 p.twimg.com
+2606:2800:220:131d:1d30:1f1d:238b:1e56 pbs.twimg.com
+2606:2800:220:131d:1d30:1f1d:238b:1e56 pbs-ec.twimg.com
+2606:2800:220:131d:1d30:1f1d:238b:1e56 si0.twimg.com
+2606:2800:220:131d:1d30:1f1d:238b:1e56 si1.twimg.com
+2606:2800:220:131d:1d30:1f1d:238b:1e56 si2.twimg.com
+2606:2800:220:131d:1d30:1f1d:238b:1e56 si3.twimg.com
+2606:2800:220:131d:1d30:1f1d:238b:1e56 si4.twimg.com
+2606:2800:220:131d:1d30:1f1d:238b:1e56 si5.twimg.com
+2606:2800:220:131d:1d30:1f1d:238b:1e56 tailfeather.twimg.com
+2606:2800:220:131d:1d30:1f1d:238b:1e56 ton.twimg.com
+2606:2800:220:131d:1d30:1f1d:238b:1e56 video.twimg.com
+2606:2800:220:131d:1d30:1f1d:238b:1e56 widgets.twimg.com
+
+## Facebook
+2a03:2880:f002:109:face:b00c:0:2 facebook.com
+2a03:2880:f002:109:face:b00c:0:2 www.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c:0:2 edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c:0:2 0-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c:0:2 1-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c:0:2 2-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c:0:2 3-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c:0:2 4-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c:0:2 5-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c:0:2 6-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c:0:2 api.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c:0:2 api-read.facebook.com #api.facebook.com
+2a03:2880:f002:109:face:b00c:0:2 apps.facebook.com #star.facebook.com
+2a03:2880:f002:109:face:b00c:0:2 attachments.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:10d:face:b00c:0:91 b-api.facebook.com #z-m.facebook.com
+2a03:2880:f002:10d:face:b00c:0:91 b-graph.facebook.com #z-m.facebook.com
+2a03:2880:f002:109:face:b00c:0:2 check6.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c:0:2 code.facebook.com #star.facebook.com
+2a03:2880:f002:109:face:b00c:0:2 connect.facebook.com #www.facebook.com
+2a03:2880:f002:109:face:b00c:0:2 developers.facebook.com #star.facebook.com
+2a03:2880:f002:109:face:b00c:0:2 graph.facebook.com #api.facebook.com
+2a03:2880:f002:109:face:b00c:0:2 login.facebook.com #star.facebook.com
+2a03:2880:f002:109:face:b00c:0:2 m.facebook.com #star.c10r.facebook.com
+2a03:2880:20:8f07:face:b00c:0:1 mqtt.facebook.com #mqtt.vvv.facebook.com
+2a03:2880:f002:105:face:b00c:0:8e edge-mqtt.facebook.com
+2a03:2880:f002:109:face:b00c:0:2 pixel.facebook.com #star.facebook.com
+2a03:2880:f002:109:face:b00c:0:2 star.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c:0:2 upload.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c:0:2 zh-cn.facebook.com #star.facebook.com
+2a03:2880:f002:109:face:b00c:0:2 zh-tw.facebook.com #star.facebook.com
+2a03:2880:f002:109:face:b00c:0:2 star.c10r.facebook.com
+2a03:2880:10:ef01:face:b00c:0:1 vupload.facebook.com #vupload2.facebook.com
+2a03:2880:10:df01:face:b00c:0:1 vupload2.vvv.facebook.com
+2a03:2880:20:8f08:face:b00c:0:1 apps.v6.facebook.com #v6.vvv.facebook.com
+2a03:2880:20:8f08:face:b00c:0:1 m.v6.facebook.com #v6.vvv.facebook.com
+2a03:2880:20:8f08:face:b00c:0:1 pixel.v6.facebook.com #v6.vvv.facebook.com
+2a03:2880:20:8f08:face:b00c:0:1 www.v6.facebook.com #v6.vvv.facebook.com
+2a03:2880:20:8f08:face:b00c:0:1 v6.vvv.facebook.com
+2a03:2880:f002:109:face:b00c:0:2 attachment.fbsbx.com #star.c10r.facebook.com
+2600:1417:9::b833:f93 static.ak.facebook.com #a749.dsw4.akamai.net
+2600:1417:9:18e::236 s-static.ak.facebook.com #e566.dspe1.akamaiedge.net
+2610:d0:face::9 www.lisp6.facebook.com
+2610:d0:face::9 m.lisp6.facebook.com #www.lisp6.facebook.com
+## fbcdn.net
+2a03:2880:f002:110:face:b00c:0:3 scontent-a.xx.fbcdn.net
+2a03:2880:f002:110:face:b00c:0:3 scontent-b.xx.fbcdn.net
+2a03:2880:f00c:b:face:b00c:0:3 scontent-a-sin.xx.fbcdn.net
+2a03:2880:f00c:b:face:b00c:0:3 scontent-b-sin.xx.fbcdn.net
+2a03:2880:f00d:8:face:b00c:0:1 scontent-a-lax.xx.fbcdn.net
+2a03:2880:f00d:8:face:b00c:0:1 scontent-b-lax.xx.fbcdn.net
+2a03:2880:f002:110:face:b00c:0:3 ent-a.xx.fbcdn.net
+2a03:2880:f002:110:face:b00c:0:3 ent-b.xx.fbcdn.net
+2a03:2880:f002:110:face:b00c:0:3 scontent.xx.fbcdn.net
+2a03:2880:f002:110:face:b00c:0:3 external.xx.fbcdn.net
+2a03:2880:f002:110:face:b00c:0:3 static.xx.fbcdn.net
+2a03:2880:f002:110:face:b00c:0:3 video.xx.fbcdn.net
+2600:1417:9:18e::eed connect.facebook.net #e3821.dspe1.akamaiedge.net
+2600:1417:9::b833:fc3 creative.ak.fbcdn.net #a34.dsw4.akamai.net
+2600:1417:9::b833:fc3 external.ak.fbcdn.net #a1920.dsw4.akamai.net
+2600:1417:9::b833:fc3 platform.ak.fbcdn.net #a1814.dsw4.akamai.net
+2600:1417:9::b833:fc3 profile.ak.fbcdn.net #a2047.dspl.akamai.net
+2600:1417:9:18e::38a s-external.ak.fbcdn.net #e906.dspe1.akamaiedge.net
+2600:1417:9:18e::d19 s-static.ak.fbcdn.net #e3353.dspe1.akamaiedge.net
+2600:1417:9::b833:fc3 static.ak.fbcdn.net #a749.dsw4.akamai.net
+2600:1417:9::b833:fc3 vthumb.ak.fbcdn.net #a591.dspda2.akamai.net
+2600:1417:9::b833:f6d fbcdn-photos-a.akamaihd.net #a995.dspmm1.akamai.net
+2600:1417:9::b833:f6d fbcdn-photos-a-a.akamaihd.net #a1854.dspmm1.akamai.net
+2600:1417:9::b833:f6d fbcdn-photos-b-a.akamaihd.net #a1854.dspmm1.akamai.net
+2600:1417:9::b833:f6d fbcdn-photos-c-a.akamaihd.net #a1854.dspmm1.akamai.net
+2600:1417:9::b833:f6d fbcdn-photos-d-a.akamaihd.net #a1854.dspmm1.akamai.net
+2600:1417:9::b833:f6d fbcdn-photos-e-a.akamaihd.net #a1854.dspmm1.akamai.net
+2600:1417:9::b833:f6d fbcdn-photos-f-a.akamaihd.net #a1854.dspmm1.akamai.net
+2600:1417:9::b833:f6d fbcdn-photos-g-a.akamaihd.net #a1854.dspmm1.akamai.net
+2600:1417:9::b833:f6d fbcdn-photos-h-a.akamaihd.net #a1854.dspmm1.akamai.net
+2600:1417:9::b833:f6d fbcdn-profile-a.akamaihd.net #a2047.dspl.akamai.net
+2600:1417:9::b833:f6d fbcdn-sphotos-a.akamaihd.net #a1001.dspw40.akamai.net
+2600:1417:9::b833:f6d fbcdn-sphotos-b-a.akamaihd.net #a1402.dspw40.akamai.net
+2600:1417:9::b833:f6d fbcdn-sphotos-c-a.akamaihd.net #a1003.dspw41.akamai.net
+2600:1417:9::b833:f6d fbcdn-sphotos-d-a.akamaihd.net #a1404.dspw41.akamai.net
+2600:1417:9::b833:f6d fbcdn-sphotos-e-a.akamaihd.net #a1406.dspw42.akamai.net
+2600:1417:9::b833:f6d fbcdn-sphotos-f-a.akamaihd.net #a1406.dspw42.akamai.net
+2600:1417:9::b833:f6d fbcdn-sphotos-g-a.akamaihd.net #a1007.dspw43.akamai.net
+2600:1417:9::b833:f6d fbcdn-sphotos-h-a.akamaihd.net #a1408.dspw43.akamai.net
+2600:1417:9::b833:f6d fbcdn-video-a-a.akamaihd.net #a1281.dspda2.akamai.net
+2600:1417:9::b833:f6d fbcdn-video-b-a.akamaihd.net #a1691.dspda2.akamai.net
+2600:1417:9::b833:f6d fbcdn-video-c-a.akamaihd.net #a1372.dspda2.akamai.net
+2600:1417:9::b833:f6d fbcdn-video-d-a.akamaihd.net #a1779.dspda2.akamai.net
+2600:1417:9::b833:f6d fbcdn-video-e-a.akamaihd.net #a1125.dspda2.akamai.net
+2600:1417:9::b833:f6d fbcdn-video-f-a.akamaihd.net #a1923.dspda2.akamai.net
+2600:1417:9::b833:f6d fbcdn-video-g-a.akamaihd.net #a1960.dspda2.akamai.net
+2600:1417:9::b833:f6d fbcdn-video-h-a.akamaihd.net #a1752.dspda2.akamai.net
+2600:1417:9::b833:f6d fbcdn-video-i-a.akamaihd.net #a1882.dspda2.akamai.net
+2600:1417:9::b833:f6d fbcdn-video-j-a.akamaihd.net #a1439.dspda2.akamai.net
+2600:1417:9::b833:f6d fbcdn-video-k-a.akamaihd.net #a1475.dspda2.akamai.net
+2600:1417:9::b833:f6d fbcdn-video-l-a.akamaihd.net #a1409.dspda2.akamai.net
+2600:1417:9::b833:f6d fbcdn-video-m-a.akamaihd.net #a1261.dspda2.akamai.net
+2600:1417:9::b833:f6d fbcdn-video-n-a.akamaihd.net #a1318.dspda2.akamai.net
+2600:1417:9::b833:f6d fbcdn-video-o-a.akamaihd.net #a1020.dspda2.akamai.net
+2600:1417:9::b833:f6d fbcdn-video-p-a.akamaihd.net #a1013.dspda2.akamai.net
+2600:1417:9::b833:f6d fbcdn-vthumb-a.akamaihd.net #a591.dspda2.akamai.net
+2600:1417:9::b833:f6d fbstatic-a.akamaihd.net #a1168.dsw4.akamai.net
+2600:1417:9::b833:f6d fbexternal-a.akamaihd.net #a1531.dsw4.akamai.net
+2600:1417:9::b833:f6d fbcdn-creative-a.akamaihd.net #a1073.dsw4.akamai.net
+2600:1417:9::b833:fc3 photos-a.ak.fbcdn.net #a995.dspmm1.akamai.net
+2600:1417:9::b833:fc3 photos-b.ak.fbcdn.net #a996.dspmm1.akamai.net
+2600:1417:9::b833:fc3 photos-c.ak.fbcdn.net #a997.dspmm1.akamai.net
+2600:1417:9::b833:fc3 photos-e.ak.fbcdn.net #a995.dspmm1.akamai.net
+2600:1417:9::b833:fc3 photos-f.ak.fbcdn.net #a996.dspmm1.akamai.net
+2600:1417:9::b833:fc3 photos-g.ak.fbcdn.net #a997.dspmm1.akamai.net
+2600:1417:9::b833:fc3 photos-h.ak.fbcdn.net #a998.dspmm1.akamai.net
+## Instagram
+2a03:2880:f002:113:face:b00c:0:43fe instagram.com
+2a03:2880:f002:113:face:b00c:0:43fe www.instagram.com
+2a03:2880:f002:113:face:b00c:0:43fe i.instagram.com
+2a03:2880:f002:113:face:b00c:0:43fe api.instagram.com
+2a03:2880:f002:113:face:b00c:0:43fe help.instagram.com
+2a03:2880:f002:113:face:b00c:0:43fe blog.instagram.com
+2a03:2880:f002:113:face:b00c:0:43fe logger.instagram.com
+2a03:2880:f002:113:face:b00c:0:43fe badges.instagram.com
+2a03:2880:f002:113:face:b00c:0:43fe scontent-a.cdninstagram.com
+2a03:2880:f002:113:face:b00c:0:43fe scontent-b.cdninstagram.com
+2a03:2880:f022:14:face:b00c:0:43fe scontent-a-sjc.cdninstagram.com
+2a03:2880:f022:14:face:b00c:0:43fe scontent-b-sjc.cdninstagram.com
+2a03:2880:f00b:14:face:b00c:0:43fe scontent-a-ord.cdninstagram.com
+2a03:2880:f00b:14:face:b00c:0:43fe scontent-b-ord.cdninstagram.com
+2001:778:0:ffff:64::36ad:2427 telegraph-ec2proxy.instagram.com
+2600:1417:9::b833:f6e igcdn-photos-a-a.akamaihd.net
+2600:1417:9::b833:f6e igcdn-photos-b-a.akamaihd.net
+2600:1417:9::b833:f6e igcdn-photos-c-a.akamaihd.net
+2600:1417:9::b833:f6e igcdn-photos-d-a.akamaihd.net
+2600:1417:9::b833:f6e igcdn-photos-e-a.akamaihd.net
+2600:1417:9::b833:f6e igcdn-photos-f-a.akamaihd.net
+2600:1417:9::b833:f6e igcdn-photos-g-a.akamaihd.net
+2600:1417:9::b833:f6e igcdn-photos-h-a.akamaihd.net
+2600:1417:9::b833:f6e igcdn-videos-a-0-a.akamaihd.net
+2600:1417:9::b833:f6e igcdn-videos-b-0-a.akamaihd.net
+2600:1417:9::b833:f6e igcdn-videos-c-0-a.akamaihd.net
+2600:1417:9::b833:f6e igcdn-videos-d-0-a.akamaihd.net
+2600:1417:9::b833:f6e igcdn-videos-e-0-a.akamaihd.net
+2600:1417:9::b833:f6e igcdn-videos-f-0-a.akamaihd.net
+2600:1417:9::b833:f6e igcdn-videos-g-0-a.akamaihd.net
+2600:1417:9::b833:f6e igcdn-videos-h-0-a.akamaihd.net
+2600:1417:9::b833:f6e instagramimages-a.akamaihd.net
+2600:1417:9::b833:f6e instagramstatic-a.akamaihd.net
+2600:1417:9::b833:f6f photos-a.ak.instagram.com
+2600:1417:9::b833:f6f photos-b.ak.instagram.com
+2600:1417:9::b833:f6f photos-c.ak.instagram.com
+2600:1417:9::b833:f6f photos-d.ak.instagram.com
+2600:1417:9::b833:f6f photos-e.ak.instagram.com
+2600:1417:9::b833:f6f photos-f.ak.instagram.com
+2600:1417:9::b833:f6f photos-g.ak.instagram.com
+2600:1417:9::b833:f6f photos-h.ak.instagram.com
+2600:1417:9::b833:f66 videos-a-0.ak.instagram.com
+2600:1417:9::b833:f66 videos-a-1.ak.instagram.com
+2600:1417:9::b833:f66 videos-a-2.ak.instagram.com
+2600:1417:9::b833:f66 videos-a-3.ak.instagram.com
+2600:1417:9::b833:f66 videos-a-4.ak.instagram.com
+2600:1417:9::b833:f66 videos-a-5.ak.instagram.com
+2600:1417:9::b833:f66 videos-a-6.ak.instagram.com
+2600:1417:9::b833:f66 videos-a-7.ak.instagram.com
+2600:1417:9::b833:f66 videos-a-8.ak.instagram.com
+2600:1417:9::b833:f66 videos-a-9.ak.instagram.com
+2600:1417:9::b833:f66 videos-a-10.ak.instagram.com
+2600:1417:9::b833:f66 videos-a-11.ak.instagram.com
+2600:1417:9::b833:f66 videos-a-12.ak.instagram.com
+2600:1417:9::b833:f66 videos-a-13.ak.instagram.com
+2600:1417:9::b833:f66 videos-a-14.ak.instagram.com
+2600:1417:9::b833:f66 videos-a-15.ak.instagram.com
+2600:1417:9::b833:f66 videos-a-16.ak.instagram.com
+2600:1417:9::b833:f66 videos-a-17.ak.instagram.com
+2600:1417:9::b833:f66 videos-a-18.ak.instagram.com
+2600:1417:9::b833:f66 videos-a-19.ak.instagram.com
+2600:1417:9::b833:f66 videos-b-0.ak.instagram.com
+2600:1417:9::b833:f66 videos-b-1.ak.instagram.com
+2600:1417:9::b833:f66 videos-b-2.ak.instagram.com
+2600:1417:9::b833:f66 videos-b-3.ak.instagram.com
+2600:1417:9::b833:f66 videos-b-4.ak.instagram.com
+2600:1417:9::b833:f66 videos-b-5.ak.instagram.com
+2600:1417:9::b833:f66 videos-b-6.ak.instagram.com
+2600:1417:9::b833:f66 videos-b-7.ak.instagram.com
+2600:1417:9::b833:f66 videos-b-8.ak.instagram.com
+2600:1417:9::b833:f66 videos-b-9.ak.instagram.com
+2600:1417:9::b833:f66 videos-b-10.ak.instagram.com
+2600:1417:9::b833:f66 videos-b-11.ak.instagram.com
+2600:1417:9::b833:f66 videos-b-12.ak.instagram.com
+2600:1417:9::b833:f66 videos-b-13.ak.instagram.com
+2600:1417:9::b833:f66 videos-b-14.ak.instagram.com
+2600:1417:9::b833:f66 videos-b-15.ak.instagram.com
+2600:1417:9::b833:f66 videos-b-16.ak.instagram.com
+2600:1417:9::b833:f66 videos-b-17.ak.instagram.com
+2600:1417:9::b833:f66 videos-b-18.ak.instagram.com
+2600:1417:9::b833:f66 videos-b-19.ak.instagram.com
+2600:1417:9::b833:f66 videos-c-0.ak.instagram.com
+2600:1417:9::b833:f66 videos-c-1.ak.instagram.com
+2600:1417:9::b833:f66 videos-c-2.ak.instagram.com
+2600:1417:9::b833:f66 videos-c-3.ak.instagram.com
+2600:1417:9::b833:f66 videos-c-4.ak.instagram.com
+2600:1417:9::b833:f66 videos-c-5.ak.instagram.com
+2600:1417:9::b833:f66 videos-c-6.ak.instagram.com
+2600:1417:9::b833:f66 videos-c-7.ak.instagram.com
+2600:1417:9::b833:f66 videos-c-8.ak.instagram.com
+2600:1417:9::b833:f66 videos-c-9.ak.instagram.com
+2600:1417:9::b833:f66 videos-c-10.ak.instagram.com
+2600:1417:9::b833:f66 videos-c-11.ak.instagram.com
+2600:1417:9::b833:f66 videos-c-12.ak.instagram.com
+2600:1417:9::b833:f66 videos-c-13.ak.instagram.com
+2600:1417:9::b833:f66 videos-c-14.ak.instagram.com
+2600:1417:9::b833:f66 videos-c-15.ak.instagram.com
+2600:1417:9::b833:f66 videos-c-16.ak.instagram.com
+2600:1417:9::b833:f66 videos-c-17.ak.instagram.com
+2600:1417:9::b833:f66 videos-c-18.ak.instagram.com
+2600:1417:9::b833:f66 videos-c-19.ak.instagram.com
+2600:1417:9::b833:f66 videos-d-0.ak.instagram.com
+2600:1417:9::b833:f66 videos-d-1.ak.instagram.com
+2600:1417:9::b833:f66 videos-d-2.ak.instagram.com
+2600:1417:9::b833:f66 videos-d-3.ak.instagram.com
+2600:1417:9::b833:f66 videos-d-4.ak.instagram.com
+2600:1417:9::b833:f66 videos-d-5.ak.instagram.com
+2600:1417:9::b833:f66 videos-d-6.ak.instagram.com
+2600:1417:9::b833:f66 videos-d-7.ak.instagram.com
+2600:1417:9::b833:f66 videos-d-8.ak.instagram.com
+2600:1417:9::b833:f66 videos-d-9.ak.instagram.com
+2600:1417:9::b833:f66 videos-d-10.ak.instagram.com
+2600:1417:9::b833:f66 videos-d-11.ak.instagram.com
+2600:1417:9::b833:f66 videos-d-12.ak.instagram.com
+2600:1417:9::b833:f66 videos-d-13.ak.instagram.com
+2600:1417:9::b833:f66 videos-d-14.ak.instagram.com
+2600:1417:9::b833:f66 videos-d-15.ak.instagram.com
+2600:1417:9::b833:f66 videos-d-16.ak.instagram.com
+2600:1417:9::b833:f66 videos-d-17.ak.instagram.com
+2600:1417:9::b833:f66 videos-d-18.ak.instagram.com
+2600:1417:9::b833:f66 videos-d-19.ak.instagram.com
+2600:1417:9::b833:f66 videos-e-0.ak.instagram.com
+2600:1417:9::b833:f66 videos-e-1.ak.instagram.com
+2600:1417:9::b833:f66 videos-e-2.ak.instagram.com
+2600:1417:9::b833:f66 videos-e-3.ak.instagram.com
+2600:1417:9::b833:f66 videos-e-4.ak.instagram.com
+2600:1417:9::b833:f66 videos-e-5.ak.instagram.com
+2600:1417:9::b833:f66 videos-e-6.ak.instagram.com
+2600:1417:9::b833:f66 videos-e-7.ak.instagram.com
+2600:1417:9::b833:f66 videos-e-8.ak.instagram.com
+2600:1417:9::b833:f66 videos-e-9.ak.instagram.com
+2600:1417:9::b833:f66 videos-e-10.ak.instagram.com
+2600:1417:9::b833:f66 videos-e-11.ak.instagram.com
+2600:1417:9::b833:f66 videos-e-12.ak.instagram.com
+2600:1417:9::b833:f66 videos-e-13.ak.instagram.com
+2600:1417:9::b833:f66 videos-e-14.ak.instagram.com
+2600:1417:9::b833:f66 videos-e-15.ak.instagram.com
+2600:1417:9::b833:f66 videos-e-16.ak.instagram.com
+2600:1417:9::b833:f66 videos-e-17.ak.instagram.com
+2600:1417:9::b833:f66 videos-e-18.ak.instagram.com
+2600:1417:9::b833:f66 videos-e-19.ak.instagram.com
+2600:1417:9::b833:f66 videos-f-0.ak.instagram.com
+2600:1417:9::b833:f66 videos-f-1.ak.instagram.com
+2600:1417:9::b833:f66 videos-f-2.ak.instagram.com
+2600:1417:9::b833:f66 videos-f-3.ak.instagram.com
+2600:1417:9::b833:f66 videos-f-4.ak.instagram.com
+2600:1417:9::b833:f66 videos-f-5.ak.instagram.com
+2600:1417:9::b833:f66 videos-f-6.ak.instagram.com
+2600:1417:9::b833:f66 videos-f-7.ak.instagram.com
+2600:1417:9::b833:f66 videos-f-8.ak.instagram.com
+2600:1417:9::b833:f66 videos-f-9.ak.instagram.com
+2600:1417:9::b833:f66 videos-f-10.ak.instagram.com
+2600:1417:9::b833:f66 videos-f-11.ak.instagram.com
+2600:1417:9::b833:f66 videos-f-12.ak.instagram.com
+2600:1417:9::b833:f66 videos-f-13.ak.instagram.com
+2600:1417:9::b833:f66 videos-f-14.ak.instagram.com
+2600:1417:9::b833:f66 videos-f-15.ak.instagram.com
+2600:1417:9::b833:f66 videos-f-16.ak.instagram.com
+2600:1417:9::b833:f66 videos-f-17.ak.instagram.com
+2600:1417:9::b833:f66 videos-f-18.ak.instagram.com
+2600:1417:9::b833:f66 videos-f-19.ak.instagram.com
+2600:1417:9::b833:f66 videos-g-0.ak.instagram.com
+2600:1417:9::b833:f66 videos-g-1.ak.instagram.com
+2600:1417:9::b833:f66 videos-g-2.ak.instagram.com
+2600:1417:9::b833:f66 videos-g-3.ak.instagram.com
+2600:1417:9::b833:f66 videos-g-4.ak.instagram.com
+2600:1417:9::b833:f66 videos-g-5.ak.instagram.com
+2600:1417:9::b833:f66 videos-g-6.ak.instagram.com
+2600:1417:9::b833:f66 videos-g-7.ak.instagram.com
+2600:1417:9::b833:f66 videos-g-8.ak.instagram.com
+2600:1417:9::b833:f66 videos-g-9.ak.instagram.com
+2600:1417:9::b833:f66 videos-g-10.ak.instagram.com
+2600:1417:9::b833:f66 videos-g-11.ak.instagram.com
+2600:1417:9::b833:f66 videos-g-12.ak.instagram.com
+2600:1417:9::b833:f66 videos-g-13.ak.instagram.com
+2600:1417:9::b833:f66 videos-g-14.ak.instagram.com
+2600:1417:9::b833:f66 videos-g-15.ak.instagram.com
+2600:1417:9::b833:f66 videos-g-16.ak.instagram.com
+2600:1417:9::b833:f66 videos-g-17.ak.instagram.com
+2600:1417:9::b833:f66 videos-g-18.ak.instagram.com
+2600:1417:9::b833:f66 videos-g-19.ak.instagram.com
+2600:1417:9::b833:f66 videos-h-0.ak.instagram.com
+2600:1417:9::b833:f66 videos-h-1.ak.instagram.com
+2600:1417:9::b833:f66 videos-h-2.ak.instagram.com
+2600:1417:9::b833:f66 videos-h-3.ak.instagram.com
+2600:1417:9::b833:f66 videos-h-4.ak.instagram.com
+2600:1417:9::b833:f66 videos-h-5.ak.instagram.com
+2600:1417:9::b833:f66 videos-h-6.ak.instagram.com
+2600:1417:9::b833:f66 videos-h-7.ak.instagram.com
+2600:1417:9::b833:f66 videos-h-8.ak.instagram.com
+2600:1417:9::b833:f66 videos-h-9.ak.instagram.com
+2600:1417:9::b833:f66 videos-h-10.ak.instagram.com
+2600:1417:9::b833:f66 videos-h-11.ak.instagram.com
+2600:1417:9::b833:f66 videos-h-12.ak.instagram.com
+2600:1417:9::b833:f66 videos-h-13.ak.instagram.com
+2600:1417:9::b833:f66 videos-h-14.ak.instagram.com
+2600:1417:9::b833:f66 videos-h-15.ak.instagram.com
+2600:1417:9::b833:f66 videos-h-16.ak.instagram.com
+2600:1417:9::b833:f66 videos-h-17.ak.instagram.com
+2600:1417:9::b833:f66 videos-h-18.ak.instagram.com
+2600:1417:9::b833:f66 videos-h-19.ak.instagram.com
+2600:1417:9::b833:faf images.ak.instagram.com
+2600:1417:9::b833:faf distilleryimage0.ak.instagram.com
+2600:1417:9::b833:faf distilleryimage1.ak.instagram.com
+2600:1417:9::b833:faf distilleryimage2.ak.instagram.com
+2600:1417:9::b833:faf distilleryimage3.ak.instagram.com
+2600:1417:9::b833:faf distilleryimage4.ak.instagram.com
+2600:1417:9::b833:faf distilleryimage5.ak.instagram.com
+2600:1417:9::b833:faf distilleryimage6.ak.instagram.com
+2600:1417:9::b833:faf distilleryimage7.ak.instagram.com
+2600:1417:9::b833:faf distilleryimage8.ak.instagram.com
+2600:1417:9::b833:faf distilleryimage9.ak.instagram.com
+2600:1417:9::b833:faf distilleryimage10.ak.instagram.com
+2600:1417:9::b833:faf distilleryimage11.ak.instagram.com
