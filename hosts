@@ -2,6 +2,8 @@
 2404:6800:4005:800::2000 android.clients.google.com
 #Microsoft
 #2600:1417:9:192::e59 download.microsoft.com #WHITELISTED
+#Akamai
+2600:1417:9::6007:3628 a248.e.akamai.net
 #Reddit
 2400:cb00:2048:1::c629:d188 reddit.com
 2400:cb00:2048:1::c629:d188 www.reddit.com
@@ -32,6 +34,8 @@
 #Vine
 2406:da00:ff00::6b15:d80f vine.co
 2406:da00:ff00::36e1:a3e6 platform.vine.co
+2406:da00:ff00::6b14:e0f0 api.vineapp.com
+2406:da00:ff00::6b14:e0f0 config.vineapp.com
 2606:2800:21f:dc2:1fe1:23fc:954:1461 v.cdn.vine.co
 2606:2800:21f:dc2:1fe1:23fc:954:1461 mtc.cdn.vine.co
 #Twitter
@@ -169,7 +173,7 @@
 2a03:2880:f002:110:face:b00c:0:3 scontent.xx.fbcdn.net
 2a03:2880:f002:110:face:b00c:0:3 external.xx.fbcdn.net
 2a03:2880:f002:110:face:b00c:0:3 static.xx.fbcdn.net
-2a03:2880:f002:110:face:b00c:0:3 video.xx.fbcdn.net
+2a03:2880:f002:112:face:b00c:0:1823 video.xx.fbcdn.net
 2600:1417:9:18e::eed connect.facebook.net #e3821.dspe1.akamaiedge.net
 2600:1417:9::b833:fc3 creative.ak.fbcdn.net #a34.dsw4.akamai.net
 2600:1417:9::b833:fc3 external.ak.fbcdn.net #a1920.dsw4.akamai.net
@@ -233,6 +237,7 @@
 2a03:2880:f002:113:face:b00c:0:43fe blog.instagram.com
 2a03:2880:f002:113:face:b00c:0:43fe logger.instagram.com
 2a03:2880:f002:113:face:b00c:0:43fe badges.instagram.com
+2a03:2880:f002:113:face:b00c:0:43fe scontent.cdninstagram.com
 2a03:2880:f002:113:face:b00c:0:43fe scontent-a.cdninstagram.com
 2a03:2880:f002:113:face:b00c:0:43fe scontent-b.cdninstagram.com
 2a03:2880:f022:14:face:b00c:0:43fe scontent-a-sjc.cdninstagram.com
