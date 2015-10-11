@@ -1,7 +1,23 @@
 #Google
 2404:6800:4005:800::2000 android.clients.google.com
-#Microsoft
-#2600:1417:9:192::e59 download.microsoft.com #WHITELISTED
+2404:6800:4005:800::2000 google.org
+2404:6800:4005:800::2000 www.google.org
+2404:6800:4005:800::2000 chromium.org
+2404:6800:4005:800::2000 www.chromium.org
+2404:6800:4005:800::2000 dev.chromium.org
+2404:6800:4005:800::2000 blog.chromium.org
+2404:6800:4005:800::2000 codereview.chromium.org
+#Microsoft (WHITELISTED, use in local DNS proxy or router)
+2600:1417:9:192::e59 download.microsoft.com
+2600:1417:9:192::10 store-images.microsoft.com
+2600:1417:9:192::7b store-images.s-microsoft.com
+2600:1417:9:192::2768 www.microsoft.com
+2600:1417:9::6007:360a download.windowsupdate.com
+2600:1417:9::6007:360a iso.esd.microsoft.com
+2600:1417:9::6007:360a officecdn.microsoft.com
+2600:1417:9::6007:360a fullproduct.download.microsoft.com
+2600:1417:9::6007:360a tlu.dl.delivery.mp.microsoft.com
+2600:1417:9::6007:360a ctldl.windowsupdate.com
 #Akamai
 2600:1417:9::6007:3628 a248.e.akamai.net
 #Reddit
@@ -17,8 +33,20 @@
 2400:cb00:2048:1::6810:c08 secure.adzerk.net
 2400:cb00:2048:1::6810:c08 static.adzerk.net
 2406:da00:ff00::b849:d9c4 engine.adzerk.net
+#Flickr(Partial)
+2406:2000:f016:1fe::3001 flickr.com
+2406:2000:f016:1fe::3001 www.flickr.com
+2406:2000:f016:1fe::3001 up.flickr.com
+2406:2000:f016:1fe::3001 api.flickr.com
+2406:2000:f016:1fe::3001 secure.flickr.com
+2406:2000:f016:1fe::3001 m.flickr.com
 #GitHub(Partial)
-2406:da00:ff00::36af:6485 collector.githubapp.com
+#2406:da00:ff00::36af:6485 collector.githubapp.com
+#Oneplus.net
+2400:cb00:2048:1::c629:bca2 www.oneplus.net
+2400:cb00:2048:1::c629:bca2 oneplus.net
+2400:cb00:2048:1::c629:bca2 forums.oneplus.net
+2400:cb00:2048:1::c629:bca2 content.oneplus.net
 #Dropbox(Partial)
 2406:da00:ff00::1715:7cb1 api-content.dropbox.com
 2406:da00:ff00::1715:7cb1 dl.dropbox.com
@@ -33,58 +61,63 @@
 2406:da00:ff00::6b15:d8d1 dl.dropboxusercontent.com
 #Vine
 2406:da00:ff00::6b15:d80f vine.co
-2406:da00:ff00::36e1:a3e6 platform.vine.co
+2406:da00:ff00::6b15:d80f platform.vine.co
 2406:da00:ff00::6b14:e0f0 api.vineapp.com
 2406:da00:ff00::6b14:e0f0 config.vineapp.com
 2606:2800:21f:dc2:1fe1:23fc:954:1461 v.cdn.vine.co
 2606:2800:21f:dc2:1fe1:23fc:954:1461 mtc.cdn.vine.co
-#Twitter
-2001:778:0:ffff:64::b92d:52b twitter.com
-2001:778:0:ffff:64::b92d:52b www.twitter.com
-2001:778:0:ffff:64::b92d:52c api.twitter.com
-2001:778:0:ffff:64::b92d:52d about.twitter.com
-2001:778:0:ffff:64::b92d:52d ads.twitter.com
-2001:778:0:ffff:64::b92d:52d analytics.twitter.com
-2001:778:0:ffff:64::b92d:52d blog.twitter.com
-2001:778:0:ffff:64::b92d:52d business.twitter.com
-2001:778:0:ffff:64::b92d:52d dev.twitter.com
-2001:778:0:ffff:64::b92d:52d media.twitter.com
-2001:778:0:ffff:64::b92d:52d pic.twitter.com
-2001:778:0:ffff:64::b92d:52d s.twitter.com
-2001:778:0:ffff:64::b92d:52d search.twitter.com
-2001:778:0:ffff:64::b92d:52d transparency.twitter.com
-2001:778:0:ffff:64::b92d:52e api.tweetdeck.com
-2001:778:0:ffff:64::b92d:52e downloads.tweetdeck.com
-2001:778:0:ffff:64::b92d:52e tdweb.twitter.com
-2001:778:0:ffff:64::b92d:52e td.twitter.com
-2001:778:0:ffff:64::b92d:52e tweetdeck.com
-2001:778:0:ffff:64::b92d:52e tweetdeck.twitter.com
-2001:778:0:ffff:64::b92d:52e web.tweetdeck.com
-2001:778:0:ffff:64::b92d:52e www.tweetdeck.com
-2001:778:0:ffff:64::b92d:52f t.co
-2001:778:0:ffff:64::b92d:530 mobile.twitter.com
-2001:778:0:ffff:64::b92d:531 support.twitter.com
-2001:778:0:ffff:64::c710:9e6f r.twimg.com
-2001:778:0:ffff:64::b92d:532 syndication.twimg.com
-2001:778:0:ffff:64::b92d:532 cdn.syndication.twimg.com
-2001:778:0:ffff:64::b92d:532 syndication.twitter.com
-2001:778:0:ffff:64::b92d:532 syndication-o.twimg.com
-2001:778:0:ffff:64::b92d:532 syndication-o.twitter.com
-2001:778:0:ffff:64::c710:9e73 urls-real.api.twitter.com
-2001:778:0:ffff:64::b92d:533 upload.twitter.com
+#Misc
+2600:1417:9:192::19f0 cdn.optimizely.com
+2600:1417:9:192::2106 cdn.mxpnl.com
+2406:da00:ff00::6b16:b9c7 in.treasuredata.com
+2400:cb00:2048:1::8d65:71e6 js.intercomcdn.com
+#Twitter(Partial)
+::ffff:b92d:52b twitter.com
+::ffff:b92d:52b www.twitter.com
+::ffff:b92d:52c api.twitter.com
+::ffff:b92d:52d about.twitter.com
+::ffff:b92d:52d ads.twitter.com
+::ffff:b92d:52d analytics.twitter.com
+::ffff:b92d:52d blog.twitter.com
+::ffff:b92d:52d business.twitter.com
+::ffff:b92d:52d dev.twitter.com
+::ffff:b92d:52d media.twitter.com
+::ffff:b92d:52d pic.twitter.com
+::ffff:b92d:52d s.twitter.com
+::ffff:b92d:52d search.twitter.com
+::ffff:b92d:52d transparency.twitter.com
+::ffff:b92d:52e api.tweetdeck.com
+::ffff:b92d:52e downloads.tweetdeck.com
+::ffff:b92d:52e tdweb.twitter.com
+::ffff:b92d:52e td.twitter.com
+::ffff:b92d:52e tweetdeck.com
+::ffff:b92d:52e tweetdeck.twitter.com
+::ffff:b92d:52e web.tweetdeck.com
+::ffff:b92d:52e www.tweetdeck.com
+::ffff:b92d:52f t.co
+::ffff:b92d:530 mobile.twitter.com
+::ffff:b92d:531 support.twitter.com
+::ffff:c710:9e6f r.twimg.com
+::ffff:b92d:532 syndication.twimg.com
+::ffff:b92d:532 cdn.syndication.twimg.com
+::ffff:b92d:532 syndication.twitter.com
+::ffff:b92d:532 syndication-o.twimg.com
+::ffff:b92d:532 syndication-o.twitter.com
+::ffff:c710:9e73 urls-real.api.twitter.com
+::ffff:b92d:533 upload.twitter.com
 2606:2800:220:131d:1d30:1f1d:238b:1e56 cdn.api.twitter.com
 2606:2800:220:131d:1d30:1f1d:238b:1e56 platform.twitter.com
 2606:2800:220:18bf:6c7:9b1:1836:15fb cdn.syndication.twitter.com
 2606:2800:220:18bf:6c7:9b1:1836:15fb status.twitter.com
 2606:2800:220:1ead:1a38:1bef:134c:172c widgets.platform.twitter.com
-2001:778:0:ffff:64::c710:9c2e betastream.twitter.com
-2001:778:0:ffff:64::c710:9c4c sitestream.twitter.com
-2001:778:0:ffff:64::c710:9c14 stream.twitter.com
-2001:778:0:ffff:64::c710:9c3a ton.twitter.com
-2001:778:0:ffff:64::c710:9c30 userstream.twitter.com
-2001:778:0:ffff:64::c760:3906 urls.api.twitter.com
-2001:778:0:ffff:64::c710:9d50 pay.twitter.com
-2001:778:0:ffff:64::c710:9c11 image-proxy-origin.twimg.com
+::ffff:c710:9c2e betastream.twitter.com
+::ffff:c710:9c4c sitestream.twitter.com
+::ffff:c710:9c14 stream.twitter.com
+::ffff:c710:9c3a ton.twitter.com
+::ffff:c710:9c30 userstream.twitter.com
+::ffff:c760:3906 urls.api.twitter.com
+::ffff:c710:9d50 pay.twitter.com
+::ffff:c710:9c11 image-proxy-origin.twimg.com
 2606:2800:220:131d:1d30:1f1d:238b:1e56 a0.twimg.com
 2606:2800:220:131d:1d30:1f1d:238b:1e56 a1.twimg.com
 2606:2800:220:131d:1d30:1f1d:238b:1e56 a2.twimg.com
@@ -118,62 +151,64 @@
 2606:2800:220:131d:1d30:1f1d:238b:1e56 widgets.twimg.com
 
 ## Facebook
-2a03:2880:f002:109:face:b00c:0:2 facebook.com
-2a03:2880:f002:109:face:b00c:0:2 www.facebook.com #star.c10r.facebook.com
-2a03:2880:f002:109:face:b00c:0:2 edge-chat.facebook.com #star.c10r.facebook.com
-2a03:2880:f002:109:face:b00c:0:2 0-edge-chat.facebook.com #star.c10r.facebook.com
-2a03:2880:f002:109:face:b00c:0:2 1-edge-chat.facebook.com #star.c10r.facebook.com
-2a03:2880:f002:109:face:b00c:0:2 2-edge-chat.facebook.com #star.c10r.facebook.com
-2a03:2880:f002:109:face:b00c:0:2 3-edge-chat.facebook.com #star.c10r.facebook.com
-2a03:2880:f002:109:face:b00c:0:2 4-edge-chat.facebook.com #star.c10r.facebook.com
-2a03:2880:f002:109:face:b00c:0:2 5-edge-chat.facebook.com #star.c10r.facebook.com
-2a03:2880:f002:109:face:b00c:0:2 6-edge-chat.facebook.com #star.c10r.facebook.com
-2a03:2880:f002:109:face:b00c:0:2 api.facebook.com #star.c10r.facebook.com
-2a03:2880:f002:109:face:b00c:0:2 api-read.facebook.com #api.facebook.com
-2a03:2880:f002:109:face:b00c:0:2 apps.facebook.com #star.facebook.com
-2a03:2880:f002:109:face:b00c:0:2 attachments.facebook.com #star.c10r.facebook.com
-2a03:2880:f002:10d:face:b00c:0:91 b-api.facebook.com #z-m.facebook.com
-2a03:2880:f002:10d:face:b00c:0:91 b-graph.facebook.com #z-m.facebook.com
-2a03:2880:f002:109:face:b00c:0:2 check6.facebook.com #star.c10r.facebook.com
-2a03:2880:f002:109:face:b00c:0:2 code.facebook.com #star.facebook.com
-2a03:2880:f002:109:face:b00c:0:2 connect.facebook.com #www.facebook.com
-2a03:2880:f002:109:face:b00c:0:2 developers.facebook.com #star.facebook.com
-2a03:2880:f002:109:face:b00c:0:2 graph.facebook.com #api.facebook.com
-2a03:2880:f002:109:face:b00c:0:2 login.facebook.com #star.facebook.com
-2a03:2880:f002:109:face:b00c:0:2 m.facebook.com #star.c10r.facebook.com
-2a03:2880:20:8f07:face:b00c:0:1 mqtt.facebook.com #mqtt.vvv.facebook.com
-2a03:2880:f002:105:face:b00c:0:8e edge-mqtt.facebook.com
-2a03:2880:f002:109:face:b00c:0:2 pixel.facebook.com #star.facebook.com
-2a03:2880:f002:109:face:b00c:0:2 star.facebook.com #star.c10r.facebook.com
-2a03:2880:f002:109:face:b00c:0:2 upload.facebook.com #star.c10r.facebook.com
-2a03:2880:f002:109:face:b00c:0:2 zh-cn.facebook.com #star.facebook.com
-2a03:2880:f002:109:face:b00c:0:2 zh-tw.facebook.com #star.facebook.com
-2a03:2880:f002:109:face:b00c:0:2 star.c10r.facebook.com
-2a03:2880:10:ef01:face:b00c:0:1 vupload.facebook.com #vupload2.facebook.com
-2a03:2880:10:df01:face:b00c:0:1 vupload2.vvv.facebook.com
-2a03:2880:20:8f08:face:b00c:0:1 apps.v6.facebook.com #v6.vvv.facebook.com
-2a03:2880:20:8f08:face:b00c:0:1 m.v6.facebook.com #v6.vvv.facebook.com
-2a03:2880:20:8f08:face:b00c:0:1 pixel.v6.facebook.com #v6.vvv.facebook.com
-2a03:2880:20:8f08:face:b00c:0:1 www.v6.facebook.com #v6.vvv.facebook.com
-2a03:2880:20:8f08:face:b00c:0:1 v6.vvv.facebook.com
-2a03:2880:f002:109:face:b00c:0:2 attachment.fbsbx.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 facebook.com
+2a03:2880:f002:109:face:b00c::2 www.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 0-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 1-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 2-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 3-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 4-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 5-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 6-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 api.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 api-read.facebook.com #api.facebook.com
+2a03:2880:f002:109:face:b00c::2 apps.facebook.com #star.facebook.com
+2a03:2880:f002:109:face:b00c::2 attachments.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:10d:face:b00c::91 b-api.facebook.com #z-m.facebook.com
+2a03:2880:f002:10d:face:b00c::91 b-graph.facebook.com #z-m.facebook.com
+2a03:2880:f002:109:face:b00c::2 check6.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 code.facebook.com #star.facebook.com
+2a03:2880:f002:109:face:b00c::2 connect.facebook.com #www.facebook.com
+2a03:2880:f002:109:face:b00c::2 developers.facebook.com #star.facebook.com
+2a03:2880:f002:109:face:b00c::2 graph.facebook.com #api.facebook.com
+2a03:2880:f002:109:face:b00c::2 login.facebook.com #star.facebook.com
+2a03:2880:f002:109:face:b00c::2 m.facebook.com #star.c10r.facebook.com
+2a03:2880:20:8f07:face:b00c::1 mqtt.facebook.com #mqtt.vvv.facebook.com
+2a03:2880:f002:105:face:b00c::8e edge-mqtt.facebook.com
+2a03:2880:f002:109:face:b00c::2 pixel.facebook.com #star.facebook.com
+2a03:2880:f002:109:face:b00c::2 star.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 upload.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 zh-cn.facebook.com #star.facebook.com
+2a03:2880:f002:109:face:b00c::2 zh-tw.facebook.com #star.facebook.com
+2a03:2880:f002:109:face:b00c::2 star.c10r.facebook.com
+2a03:2880:f002:107:face:b00c::4381 snaptu-p1.facebook.com
+2a03:2880:f002:107:face:b00c::4382 snaptu-p2.facebook.com
+2a03:2880:10:ef01:face:b00c::1 vupload.facebook.com #vupload2.facebook.com
+2a03:2880:10:df01:face:b00c::1 vupload2.vvv.facebook.com
+2a03:2880:20:8f08:face:b00c::1 apps.v6.facebook.com #v6.vvv.facebook.com
+2a03:2880:20:8f08:face:b00c::1 m.v6.facebook.com #v6.vvv.facebook.com
+2a03:2880:20:8f08:face:b00c::1 pixel.v6.facebook.com #v6.vvv.facebook.com
+2a03:2880:20:8f08:face:b00c::1 www.v6.facebook.com #v6.vvv.facebook.com
+2a03:2880:20:8f08:face:b00c::1 v6.vvv.facebook.com
+2a03:2880:f002:109:face:b00c::2 attachment.fbsbx.com #star.c10r.facebook.com
 2600:1417:9::b833:f93 static.ak.facebook.com #a749.dsw4.akamai.net
 2600:1417:9:18e::236 s-static.ak.facebook.com #e566.dspe1.akamaiedge.net
 2610:d0:face::9 www.lisp6.facebook.com
 2610:d0:face::9 m.lisp6.facebook.com #www.lisp6.facebook.com
 ## fbcdn.net
-2a03:2880:f002:110:face:b00c:0:3 scontent-a.xx.fbcdn.net
-2a03:2880:f002:110:face:b00c:0:3 scontent-b.xx.fbcdn.net
-2a03:2880:f00c:b:face:b00c:0:3 scontent-a-sin.xx.fbcdn.net
-2a03:2880:f00c:b:face:b00c:0:3 scontent-b-sin.xx.fbcdn.net
-2a03:2880:f00d:8:face:b00c:0:1 scontent-a-lax.xx.fbcdn.net
-2a03:2880:f00d:8:face:b00c:0:1 scontent-b-lax.xx.fbcdn.net
-2a03:2880:f002:110:face:b00c:0:3 ent-a.xx.fbcdn.net
-2a03:2880:f002:110:face:b00c:0:3 ent-b.xx.fbcdn.net
-2a03:2880:f002:110:face:b00c:0:3 scontent.xx.fbcdn.net
-2a03:2880:f002:110:face:b00c:0:3 external.xx.fbcdn.net
-2a03:2880:f002:110:face:b00c:0:3 static.xx.fbcdn.net
-2a03:2880:f002:112:face:b00c:0:1823 video.xx.fbcdn.net
+2a03:2880:f002:110:face:b00c::3 scontent-a.xx.fbcdn.net
+2a03:2880:f002:110:face:b00c::3 scontent-b.xx.fbcdn.net
+2a03:2880:f00c:b:face:b00c::3 scontent-a-sin.xx.fbcdn.net
+2a03:2880:f00c:b:face:b00c::3 scontent-b-sin.xx.fbcdn.net
+2a03:2880:f00d:8:face:b00c::1 scontent-a-lax.xx.fbcdn.net
+2a03:2880:f00d:8:face:b00c::1 scontent-b-lax.xx.fbcdn.net
+2a03:2880:f002:110:face:b00c::3 ent-a.xx.fbcdn.net
+2a03:2880:f002:110:face:b00c::3 ent-b.xx.fbcdn.net
+2a03:2880:f002:110:face:b00c::3 scontent.xx.fbcdn.net
+2a03:2880:f002:110:face:b00c::3 external.xx.fbcdn.net
+2a03:2880:f002:110:face:b00c::3 static.xx.fbcdn.net
+2a03:2880:f002:112:face:b00c::1823 video.xx.fbcdn.net
 2600:1417:9:18e::eed connect.facebook.net #e3821.dspe1.akamaiedge.net
 2600:1417:9::b833:fc3 creative.ak.fbcdn.net #a34.dsw4.akamai.net
 2600:1417:9::b833:fc3 external.ak.fbcdn.net #a1920.dsw4.akamai.net
@@ -229,22 +264,22 @@
 2600:1417:9::b833:fc3 photos-g.ak.fbcdn.net #a997.dspmm1.akamai.net
 2600:1417:9::b833:fc3 photos-h.ak.fbcdn.net #a998.dspmm1.akamai.net
 ## Instagram
-2a03:2880:f002:113:face:b00c:0:43fe instagram.com
-2a03:2880:f002:113:face:b00c:0:43fe www.instagram.com
-2a03:2880:f002:113:face:b00c:0:43fe i.instagram.com
-2a03:2880:f002:113:face:b00c:0:43fe api.instagram.com
-2a03:2880:f002:113:face:b00c:0:43fe help.instagram.com
-2a03:2880:f002:113:face:b00c:0:43fe blog.instagram.com
-2a03:2880:f002:113:face:b00c:0:43fe logger.instagram.com
-2a03:2880:f002:113:face:b00c:0:43fe badges.instagram.com
-2a03:2880:f002:113:face:b00c:0:43fe scontent.cdninstagram.com
-2a03:2880:f002:113:face:b00c:0:43fe scontent-a.cdninstagram.com
-2a03:2880:f002:113:face:b00c:0:43fe scontent-b.cdninstagram.com
-2a03:2880:f022:14:face:b00c:0:43fe scontent-a-sjc.cdninstagram.com
-2a03:2880:f022:14:face:b00c:0:43fe scontent-b-sjc.cdninstagram.com
-2a03:2880:f00b:14:face:b00c:0:43fe scontent-a-ord.cdninstagram.com
-2a03:2880:f00b:14:face:b00c:0:43fe scontent-b-ord.cdninstagram.com
-2001:778:0:ffff:64::36ad:2427 telegraph-ec2proxy.instagram.com
+2a03:2880:f002:113:face:b00c::43fe instagram.com
+2a03:2880:f002:113:face:b00c::43fe www.instagram.com
+2a03:2880:f002:113:face:b00c::43fe i.instagram.com
+2a03:2880:f002:113:face:b00c::43fe api.instagram.com
+2a03:2880:f002:113:face:b00c::43fe help.instagram.com
+2a03:2880:f002:113:face:b00c::43fe blog.instagram.com
+2a03:2880:f002:113:face:b00c::43fe logger.instagram.com
+2a03:2880:f002:113:face:b00c::43fe badges.instagram.com
+2a03:2880:f002:113:face:b00c::43fe scontent.cdninstagram.com
+2a03:2880:f002:113:face:b00c::43fe scontent-a.cdninstagram.com
+2a03:2880:f002:113:face:b00c::43fe scontent-b.cdninstagram.com
+2a03:2880:f022:14:face:b00c::43fe scontent-a-sjc.cdninstagram.com
+2a03:2880:f022:14:face:b00c::43fe scontent-b-sjc.cdninstagram.com
+2a03:2880:f00b:14:face:b00c::43fe scontent-a-ord.cdninstagram.com
+2a03:2880:f00b:14:face:b00c::43fe scontent-b-ord.cdninstagram.com
+::ffff:36ad:2427 telegraph-ec2proxy.instagram.com
 2600:1417:9::b833:f6e igcdn-photos-a-a.akamaihd.net
 2600:1417:9::b833:f6e igcdn-photos-b-a.akamaihd.net
 2600:1417:9::b833:f6e igcdn-photos-c-a.akamaihd.net
