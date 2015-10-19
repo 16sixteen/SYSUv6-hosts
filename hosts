@@ -95,6 +95,11 @@
 2406:da00:ff00::6b14:e0f0 config.vineapp.com
 2606:2800:21f:dc2:1fe1:23fc:954:1461 v.cdn.vine.co
 2606:2800:21f:dc2:1fe1:23fc:954:1461 mtc.cdn.vine.co
+#DigitalOcean
+2400:cb00:2048:1::8d65:7208 digitalocean.com
+2400:cb00:2048:1::6810:1904 www.digitalocean.com
+2400:cb00:2048:1::6810:1904 api.digitalocean.com
+2400:cb00:2048:1::6810:1904 cloud.digitalocean.com
 #FlipBoard
 2406:da00:ff00::36cc:f93 flipboard.com
 2406:da00:ff00::36cc:f93 www.flipboard.com
