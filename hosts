@@ -227,27 +227,63 @@
 2001:4860:4802:32::15 ghs46.google.com #ghs46.l.google.com
 ## Mashups/App Engine GAE
 2001:4860:4802:38::7b appengine.google.com
-2404:6800:4003:c00::8d appspot.com
-2404:6800:4003:c02::8d *.appspot.com
-2404:6800:4003:c01::8d www.appspot.com
-2404:6800:4003:c00::8d betaspike.appspot.com
-2404:6800:4003:c00::8d chrometophone.appspot.com
-2404:6800:4003:c01::8d codereview.appspot.com
-2404:6800:4003:c02::8d evolutionofweb.appspot.com
-2404:6800:4003:c00::8d feedly-beta.appspot.com
-2404:6800:4003:c00::8d googcloudlabs.appspot.com
-2404:6800:4003:c00::8d googlesharedspaces.appspot.com
-2404:6800:4003:c01::8d gv-gadget.appspot.com
-2404:6800:4003:c02::8d haiticrisis.appspot.com
-2404:6800:4003:c00::8d i18napis.appspot.com
-2404:6800:4003:c01::8d moderator.appspot.com
-2404:6800:4003:c00::8d newsfeed-dot-latest-dot-rovio-ad-engine.appspot.com
-2404:6800:4003:c00::8d productideas.appspot.com
-2404:6800:4003:c00::8d project-slingshot-gp.appspot.com
-2404:6800:4003:c01::8d r3269-dot-latest-dot-project-slingshot-gp.appspot.com
-2404:6800:4003:c01::8d storegadgetwizard.appspot.com
-2404:6800:4003:c00::8d welcome-cros.appspot.com
-2404:6800:4003:c00::8d yt-debates.appspot.com
+2404:6800:4005:800::2011 appspot.com
+2404:6800:4005:800::2011 *.appspot.com
+2404:6800:4005:800::2011 www.appspot.com
+2404:6800:4005:800::2011 betaspike.appspot.com
+2404:6800:4005:800::2011 chrometophone.appspot.com
+2404:6800:4005:800::2011 codereview.appspot.com
+2404:6800:4005:800::2011 evolutionofweb.appspot.com
+2404:6800:4005:800::2011 feedly-beta.appspot.com
+2404:6800:4005:800::2011 googcloudlabs.appspot.com
+2404:6800:4005:800::2011 googlesharedspaces.appspot.com
+2404:6800:4005:800::2011 gv-gadget.appspot.com
+2404:6800:4005:800::2011 haiticrisis.appspot.com
+2404:6800:4005:800::2011 i18napis.appspot.com
+2404:6800:4005:800::2011 moderator.appspot.com
+2404:6800:4005:800::2011 newsfeed-dot-latest-dot-rovio-ad-engine.appspot.com
+2404:6800:4005:800::2011 productideas.appspot.com
+2404:6800:4005:800::2011 project-slingshot-gp.appspot.com
+2404:6800:4005:800::2011 r3269-dot-latest-dot-project-slingshot-gp.appspot.com
+2404:6800:4005:800::2011 storegadgetwizard.appspot.com
+2404:6800:4005:800::2011 welcome-cros.appspot.com
+2404:6800:4005:800::2011 yt-debates.appspot.com
+#WithGoogle↓
+2404:6800:4005:800::2011 withgoogle.com
+2404:6800:4005:800::2011 accelerate.withgoogle.com
+2404:6800:4005:800::2011 atmosphere.withgoogle.com
+2404:6800:4005:800::2011 atmospheretokyo.withgoogle.com
+2404:6800:4005:800::2011 brasilfreewifi.withgoogle.com
+2404:6800:4005:800::2011 candidatos.withgoogle.com
+2404:6800:4005:800::2011 cardboard.withgoogle.com
+2404:6800:4005:800::2011 chinesenewyear.withgoogle.com
+2404:6800:4005:800::2011 connectedclassrooms.withgoogle.com
+2404:6800:4005:800::2011 datasense.withgoogle.com
+2404:6800:4005:800::2011 devart.withgoogle.com
+2404:6800:4005:800::2011 docchinogame.withgoogle.com
+2404:6800:4005:800::2011 edudirectory.withgoogle.com
+2404:6800:4005:800::2011 foobar.withgoogle.com
+2404:6800:4005:800::2011 fvm.withgoogle.com
+2404:6800:4005:800::2011 impactchallenge.withgoogle.com
+2404:6800:4005:800::2011 insgruene.withgoogle.com
+2404:6800:4005:800::2011 insideabbeyroad.withgoogle.com
+2404:6800:4005:800::2011 interstellar.withgoogle.com
+2404:6800:4005:800::2011 kickwithchrome.withgoogle.com
+2404:6800:4005:800::2011 mapping.withgoogle.com
+2404:6800:4005:800::2011 nikhelp.withgoogle.com
+2404:6800:4005:800::2011 projectshield.withgoogle.com
+2404:6800:4005:800::2011 smartypins.withgoogle.com
+2404:6800:4005:800::2011 spellup.withgoogle.com
+2404:6800:4005:800::2011 streetart.withgoogle.com
+2404:6800:4005:800::2011 takeaction.withgoogle.com
+2404:6800:4005:800::2011 think.withgoogle.com
+2404:6800:4005:800::2011 trendstw.withgoogle.com
+2404:6800:4005:800::2011 yourtour.withgoogle.com
+2404:6800:4005:800::2011 whichphone.withgoogle.com
+2404:6800:4005:800::2011 whichphone-api.withgoogle.com
+2404:6800:4005:800::2011 www.fvm.withgoogle.com
+2404:6800:4005:800::2011 www.thinkwithgoogle.com
+2404:6800:4005:800::2011 thinkwithgoogle.com
 ## Answers/Guru/WenDa 问答社区（国际版已停止运营）
 2001:4860:4802:38::7b answers.google.com
 #2404:6800:4008:c00::62 guru.google.com
@@ -404,9 +440,9 @@
 2001:4860:4802:38::7b build.chromium.org #planet.chromium.org
 2001:4860:4802:32::15 codereview.chromium.org
 ## Chromium OS Chromium 操作系统
-2404:6800:4003:c02::79 goto.ext.google.com
+2001:4860:4802:32::15 goto.ext.google.com
 ## Code 代码
-2404:6800:4003:c00::8b code.google.com #code.l.google.com
+2001:4860:4802:38::7b code.google.com #code.l.google.com
 2404:6800:4003:c02::52 *.googlecode.com
 2404:6800:4003:c01::52 chromium.googlecode.com
 2404:6800:4003:c00::52 closure-library.googlecode.com
@@ -529,8 +565,8 @@
 ## Group 论坛
 2404:6800:4003:c01::8a groups.google.com #groups.l.google.com
 2404:6800:4003:c00::71 groups.google.com.hk #groups.google.com
-2404:6800:4003:c00::8a groups-beta.google.com #groups.l.google.com
-2404:6800:4003:c00::8a productforums.google.com #groups.l.google.com
+2001:4860:4802:38::7b groups-beta.google.com #groups.l.google.com
+2001:4860:4802:38::7b productforums.google.com #groups.l.google.com
 2404:6800:4003:c01::89 *.googlegroups.com #googlegroups.l.googleusercontent.com
 2404:6800:4003:c00::89 blob-s-docs.googlegroups.com #googlegroups.l.googleusercontent.com
 ## Health 健康
@@ -627,8 +663,8 @@
 2404:6800:4003:c01::55 promote.orkut.com #orkut-promote.l.google.com
 2404:6800:4003:c01::69 help.orkut.com
 2404:6800:4005:800::2001 officialorkutblog.blogspot.com
-2404:6800:4003:c00::79 blog.orkut.com
-2404:6800:4003:c00::79 en.blog.orkut.com
+2001:4860:4802:32::15 blog.orkut.com
+2001:4860:4802:32::15 en.blog.orkut.com
 ## Pack 软件精选
 2001:4860:4802:38::7b pack.google.com
 2001:4860:4802:38::7b cache.pack.google.com #redirector.c.pack.google.com
@@ -704,8 +740,8 @@
 2404:6800:4003:806::100c ig.gmodules.com
 2404:6800:4005:800::2001 ads.gmodules.com
 2404:6800:4005:800::2001 p.gmodules.com
-2404:6800:4003:804::2001 1.ig.gmodules.com
-2404:6800:4003:804::2001 2.ig.gmodules.com
+2404:6800:4005:800::2001 1.ig.gmodules.com
+2404:6800:4005:800::2001 2.ig.gmodules.com
 2404:6800:4005:800::2001 3.ig.gmodules.com
 2404:6800:4005:800::2001 4.ig.gmodules.com
 2404:6800:4005:800::2001 5.ig.gmodules.com
@@ -713,7 +749,7 @@
 2404:6800:4005:800::2001 maps.gmodules.com
 2404:6800:4005:800::2001 img0.gmodules.com
 2404:6800:4005:800::2001 img1.gmodules.com
-2404:6800:4003:804::2001 img2.gmodules.com
+2404:6800:4005:800::2001 img2.gmodules.com
 2404:6800:4005:800::2001 img3.gmodules.com
 2404:6800:4005:800::2001 skins.gmodules.com
 2404:6800:4003:c01::76 friendconnect.gmodules.com
@@ -838,7 +874,7 @@
 2001:4860:4802:38::7b analytics.google.com
 ## Google Art Project
 2001:4860:4802:38::7b www.googleartproject.com
-2404:6800:4003:c00::8d art-project-media.appspot.com
+2404:6800:4005:800::2011 art-project-media.appspot.com
 ## FeedBurner
 2001:4860:4802:38::7b feedburner.google.com
 2001:4860:4802:38::7b www.feedburner.com
@@ -857,30 +893,30 @@
 2001:4860:4802:38::7b g.co
 ## html5rocks HTML5 推广专题网站
 2001:4860:4802:32::15 www.html5rocks.com
-2404:6800:4003:c00::79 slides.html5rocks.com
-2404:6800:4003:c00::79 playground.html5rocks.com
-2404:6800:4003:c00::79 studio.html5rocks.com
+2001:4860:4802:32::15 slides.html5rocks.com
+2001:4860:4802:32::15 playground.html5rocks.com
+2001:4860:4802:32::15 studio.html5rocks.com
 ## Google.org Google 公益
 2001:4860:4802:38::7b google.org
 2001:4860:4802:38::7b www.google.org
 2001:4860:4802:32::15 blog.google.org
 ## Panoramio
-2404:6800:4003:c01::8d www.panoramio.com
+2404:6800:4005:800::2011 www.panoramio.com
 2404:6800:4005:800::2001 static.panoramio.com #c.storage.googleapis.com
-2404:6800:4003:c00::79 blog.panoramio.com
+2001:4860:4802:32::15 blog.panoramio.com
 ## Recaptcha 验证码服务
 2001:4860:4802:38::7b www.recaptcha.net
 2001:4860:4802:38::7b api.recaptcha.net
 2001:4860:4802:38::7b api-secure.recaptcha.net
 2404:6800:4005:80b::2004 mailhide.recaptcha.net
 ## Google Wave Federation Protocol · GWave 协议开源计划
-2404:6800:4003:c00::79 www.waveprotocol.org
+2001:4860:4802:32::15 www.waveprotocol.org
 ## The WebM Project WebM 开放多媒体项目
 2001:4860:4802:38::7b webmproject.org
 2001:4860:4802:38::7b www.webmproject.org
-2404:6800:4003:c02::79 lists.webmproject.org
-2404:6800:4003:c02::79 blog.webmproject.org
-2404:6800:4003:c02::79 www.webm-ccl.org
+2001:4860:4802:32::15 lists.webmproject.org
+2001:4860:4802:32::15 blog.webmproject.org
+2001:4860:4802:32::15 www.webm-ccl.org
 ## GoogleZip 数据压缩代理
 #2001:4860:4802:32::1d check.googlezip.net
 #2404:6800:4005:80a::200c compress.googlezip.net
@@ -891,7 +927,7 @@
 2001:4860:4802:32::15 www.chromeexperiments.com
 2001:4860:4802:32::15 chromeexperiments.com
 2001:4860:4802:32::15 vr.chromeexperiments.com
-2404:6800:4003:c00::79 www.20thingsilearned.com
+2001:4860:4802:32::15 www.20thingsilearned.com
 ## IPv6 专题
 #2404:6800:4008:c00::63 ipv6test.google.com #ipv6test.l.google.com
 #2404:6800:4008:c00::63 ipv4.google.com #ipv4.l.google.com
@@ -899,22 +935,22 @@
 2001:4860:4802:38::7b i2.ds.ipv6-exp.l.google.com
 2607:f8b0:400e:c01::97 chrome.googleechotest.com #chromeecho.l.google.com
 ## 其他专题站
-2404:6800:4003:c00::79 www.creativelab5.com
+2001:4860:4802:32::15 www.creativelab5.com
 2001:4860:4802:38::7b www.data-vocabulary.org
 2001:4860:4802:38::7b www.googleinsidesearch.com
 2001:4860:4802:38::7b www.teachparentstech.org
-2404:6800:4003:c00::79 www.agoogleaday.com
+2001:4860:4802:32::15 www.agoogleaday.com
 2001:4860:4802:32::15 www.gosetsuden.jp
-2404:6800:4003:c00::79 www.thegooglepuzzle.com
-2404:6800:4003:c00::79 www.thegobridgeoglepuzzle.com
-2404:6800:4003:c00::8d www.thinkwithgoogle.com
+2001:4860:4802:32::15 www.thegooglepuzzle.com
+2001:4860:4802:32::15 www.thegobridgeoglepuzzle.com
+2404:6800:4005:800::2011 www.thinkwithgoogle.com
 2001:4860:4802:38::7b www.oneworldmanystories.com
-2404:6800:4003:c02::79 www.googlezeitgeist.com
+2001:4860:4802:32::15 www.googlezeitgeist.com
 2001:4860:4802:38::7b www.googleinsidesearch.com
-#2404:6800:4008:c00::79 www.emailintervention.com
-#2404:6800:4008:c00::79 www.dartlang.org
-#2404:6800:4008:c00::79 try.dartlang.org
-2404:6800:4003:c00::79 news.dartlang.org
+#2001:4860:4802:32::15 www.emailintervention.com
+#2001:4860:4802:32::15 www.dartlang.org
+#2001:4860:4802:32::15 try.dartlang.org
+2001:4860:4802:32::15 news.dartlang.org
 2001:4860:4802:32::15 webrtc.org
 2001:4860:4802:32::15 www.webrtc.org
 2001:4860:4802:32::15 www.uproxy.org
@@ -936,7 +972,7 @@
 2001:4860:4802:38::7b android.l.google.com
 #2404:6800:4008:c00::64 android-china.l.google.com
 2404:6800:4008:c01::70 adwords.l.google.com #adwords-china.l.google.com
-2404:6800:4003:c02::8d appspot.l.google.com
+2404:6800:4005:800::2011 appspot.l.google.com
 2404:6800:4003:c00::1a aspmx.l.google.com
 2404:6800:4005:80b::2007 b.googlemail.l.google.com
 2001:4860:4802:38::7b bandaid-redirector.l.google.com
@@ -947,7 +983,7 @@
 2404:6800:4005:800::2007 browserchannel-docs.l.google.com
 2404:6800:4003:c02::8b cache.l.google.com
 2404:6800:4003:c02::8b cbk.l.google.com
-2404:6800:4003:c02::65 code.l.google.com
+2001:4860:4802:38::7b code.l.google.com
 #2404:6800:4008:c00::73 checkout.l.google.com
 2607:f8b0:400e:c01::97 chromeecho.l.google.com
 2001:4860:4802:38::7b clients.l.google.com #clients-china.l.google.com
@@ -975,8 +1011,8 @@
 2404:6800:4003:c02::10 googlemail-imap.l.google.com
 2404:6800:4003:c00::10 googlemail-pop.l.google.com
 2404:6800:4003:c01::10 googlemail-smtp.l.google.com
-2404:6800:4003:c00::8b groups.l.google.com #groups-china.l.google.com
-2404:6800:4003:c00::8a history.l.google.com
+2001:4860:4802:38::7b groups.l.google.com #groups-china.l.google.com
+2001:4860:4802:38::7b history.l.google.com
 2404:6800:4005:80b::2003 id.l.google.com
 2001:4860:4802:38::7b images.l.google.com
 #2404:6800:4008:c00::63 ipv4.l.google.com
@@ -1033,7 +1069,7 @@
 2404:6800:4003:c00::71 video.l.google.com #video-china.l.google.com
 2001:4860:4802:38::7b video-stats.l.google.com
 2404:6800:4003:806::1000 video-analytics.l.google.com
-2404:6800:4003:c00::8a video-thumbnails.l.google.com
+2001:4860:4802:38::7b video-thumbnails.l.google.com
 #2607:f8b0:400e:c04::7b wifi.l.google.com
 2001:4860:4802:38::7b writely.l.google.com #writely-china.l.google.com
 #2404:6800:4008:c00::62 writely-com.l.google.com
@@ -1080,7 +1116,7 @@
 2404:6800:4003:c01::55 orkut-opensocial.l.googleusercontent.com
 2404:6800:4005:80b::2001 photos-ugc.l.googleusercontent.com
 2404:6800:4005:800::2001 storage.l.googleusercontent.com
-2404:6800:4003:809::2001 storage-ugc.l.googleusercontent.com
+2404:6800:4005:800::2001 storage-ugc.l.googleusercontent.com
 2404:6800:4005:80a::2001 www-blogger-opensocial.googleusercontent.com
 2404:6800:4005:80a::2001 books.googleusercontent.com
 2404:6800:4005:800::2001 blogger.googleusercontent.com
@@ -1097,10 +1133,10 @@
 2404:6800:4005:80b::2001 clients6.googleusercontent.com
 2404:6800:4005:800::2001 code-opensocial.googleusercontent.com
 2404:6800:4005:80a::2001 doc-00-1k-docs.googleusercontent.com
-2404:6800:4003:806::100b doc-00-1o-docs.googleusercontent.com
-2404:6800:4003:807::100b doc-04-1o-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-00-1o-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-04-1o-docs.googleusercontent.com
 2404:6800:4005:800::2001 doc-08-1o-docs.googleusercontent.com
-2404:6800:4003:807::100a doc-0c-1o-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0c-1o-docs.googleusercontent.com
 2404:6800:4005:800::2001 doc-0g-1o-docs.googleusercontent.com
 2404:6800:4005:80a::2001 doc-0k-1o-docs.googleusercontent.com
 2404:6800:4005:80b::2001 doc-0o-1o-docs.googleusercontent.com
@@ -1110,7 +1146,7 @@
 2404:6800:4005:80b::2001 doc-10-2c-docs.googleusercontent.com
 2404:6800:4005:800::2001 doc-0k-38-docs.googleusercontent.com
 2404:6800:4005:808::2001 doc-14-48-docs.googleusercontent.com
-2404:6800:4003:807::100a doc-00-6c-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-00-6c-docs.googleusercontent.com
 2404:6800:4005:800::2001 doc-04-6c-docs.googleusercontent.com
 2404:6800:4005:80b::2001 doc-08-6c-docs.googleusercontent.com
 2404:6800:4005:80b::2001 doc-0c-6c-docs.googleusercontent.com
@@ -1130,26 +1166,26 @@
 2404:6800:4005:800::2001 doc-0k-7o-docs.googleusercontent.com
 2404:6800:4005:800::2001 doc-0o-7o-docs.googleusercontent.com
 2404:6800:4005:800::2001 doc-0s-7o-docs.googleusercontent.com
-2404:6800:4003:807::100b doc-10-7o-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-10-7o-docs.googleusercontent.com
 2404:6800:4005:80b::2001 doc-14-7o-docs.googleusercontent.com
 2404:6800:4005:80b::2001 doc-00-8k-docs.googleusercontent.com
-2404:6800:4003:806::100a doc-04-8k-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-04-8k-docs.googleusercontent.com
 2404:6800:4005:808::2001 doc-08-8k-docs.googleusercontent.com
 2404:6800:4005:808::2001 doc-0c-8k-docs.googleusercontent.com
-2404:6800:4003:805::100a doc-0g-8k-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0g-8k-docs.googleusercontent.com
 2404:6800:4005:80b::2001 doc-0k-8k-docs.googleusercontent.com
 2404:6800:4005:80b::2001 doc-0o-8k-docs.googleusercontent.com
-2404:6800:4003:807::100a doc-0s-8k-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0s-8k-docs.googleusercontent.com
 2404:6800:4005:808::2001 doc-10-8k-docs.googleusercontent.com
 2404:6800:4005:80b::2001 doc-14-8k-docs.googleusercontent.com
 2404:6800:4005:800::2001 doc-00-9k-docs.googleusercontent.com
-2404:6800:4003:809::2001 doc-04-9k-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-04-9k-docs.googleusercontent.com
 2404:6800:4005:80b::2001 doc-08-9k-docs.googleusercontent.com
 2404:6800:4005:808::2001 doc-0c-9k-docs.googleusercontent.com
 2404:6800:4005:808::2001 doc-0g-9k-docs.googleusercontent.com
 2404:6800:4005:80a::2001 doc-0k-9k-docs.googleusercontent.com
 2404:6800:4005:800::2001 doc-0o-9k-docs.googleusercontent.com
-2404:6800:4003:808::100c doc-0s-9k-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0s-9k-docs.googleusercontent.com
 2404:6800:4005:80a::2001 doc-10-9k-docs.googleusercontent.com
 2404:6800:4005:800::2001 doc-14-9k-docs.googleusercontent.com
 2404:6800:4005:80b::2001 doc-00-as-docs.googleusercontent.com
@@ -1171,7 +1207,7 @@
 2404:6800:4005:80a::2001 doc-0k-2g-3dwarehouse.googleusercontent.com
 2404:6800:4005:80b::2001 doc-0o-2g-3dwarehouse.googleusercontent.com
 2404:6800:4005:80a::2001 doc-0s-2g-3dwarehouse.googleusercontent.com
-2404:6800:4003:809::2001 doc-10-2g-3dwarehouse.googleusercontent.com
+2404:6800:4005:800::2001 doc-10-2g-3dwarehouse.googleusercontent.com
 2404:6800:4005:80a::2001 doc-14-2g-3dwarehouse.googleusercontent.com
 2404:6800:4005:80a::2001 feedback.googleusercontent.com
 2404:6800:4005:80b::2001 images1-esmobile-opensocial.googleusercontent.com
@@ -1184,8 +1220,8 @@
 2404:6800:4005:80a::2001 images8-esmobile-opensocial.googleusercontent.com
 2404:6800:4005:80a::2001 images9-esmobile-opensocial.googleusercontent.com
 2404:6800:4005:80a::2001 images1-hangout-opensocial.googleusercontent.com
-2404:6800:4003:804::2001 images2-hangout-opensocial.googleusercontent.com
-2404:6800:4003:809::2001 images3-hangout-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 images2-hangout-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 images3-hangout-opensocial.googleusercontent.com
 2404:6800:4005:80a::2001 images4-hangout-opensocial.googleusercontent.com
 2404:6800:4005:80a::2001 images5-hangout-opensocial.googleusercontent.com
 2404:6800:4005:80a::2001 images6-hangout-opensocial.googleusercontent.com
@@ -1210,7 +1246,7 @@
 2404:6800:4005:80a::2001 mua5.googleusercontent.com
 2404:6800:4005:80b::2001 mua6.googleusercontent.com
 2404:6800:4005:80b::2001 music.googleusercontent.com
-2404:6800:4003:805::100a music-onebox.googleusercontent.com
+2404:6800:4005:800::2001 music-onebox.googleusercontent.com
 2404:6800:4005:800::2001 newsstand.googleusercontent.com
 2404:6800:4005:800::2001 oauth.googleusercontent.com
 2404:6800:4005:800::2001 producer.googleusercontent.com
@@ -1220,16 +1256,16 @@
 2404:6800:4005:80a::2001 sj.googleusercontent.com
 2404:6800:4005:800::2001 spreadsheets-opensocial.googleusercontent.com
 2404:6800:4005:800::2001 static.googleusercontent.com
-2404:6800:4003:809::2001 themes.googleusercontent.com
+2404:6800:4005:800::2001 themes.googleusercontent.com
 2404:6800:4005:80b::2001 translate.googleusercontent.com
 2404:6800:4005:808::2001 video.googleusercontent.com
 2404:6800:4005:800::2001 wave.googleusercontent.com
 2404:6800:4005:80a::2001 webcache.googleusercontent.com
 2404:6800:4005:800::2001 ytimg.googleusercontent.com
 2404:6800:4005:800::2001 code-opensocial.googleusercontent.com
-2404:6800:4003:809::2001 spreadsheets-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 spreadsheets-opensocial.googleusercontent.com
 2404:6800:4005:80b::2001 www-opensocial.googleusercontent.com
-2404:6800:4003:809::2001 images-docs-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 images-docs-opensocial.googleusercontent.com
 2404:6800:4005:80a::2001 www-gm-opensocial.googleusercontent.com
 2404:6800:4005:800::2001 www-opensocial-sandbox.googleusercontent.com
 2404:6800:4005:80a::2001 www-fc-opensocial.googleusercontent.com
@@ -1272,7 +1308,7 @@
 2404:6800:4005:800::2001 59cbv4l9s05pbaks9v77vc3mengeqors-a-oz-opensocial.googleusercontent.com
 2404:6800:4005:800::2001 8kubpeu8314p2efdd7jlv09an9i2ljdo-a-oz-opensocial.googleusercontent.com
 2404:6800:4005:80b::2001 adstvca8k2ooaknjjmv89j22n9t676ve-a-oz-opensocial.googleusercontent.com
-2404:6800:4003:809::2001 bt26mravu2qpe56n8gnmjnpv2inl84bf-a-oz-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 bt26mravu2qpe56n8gnmjnpv2inl84bf-a-oz-opensocial.googleusercontent.com
 2404:6800:4005:80b::2001 debh8vg7vd93bco3prdajidmm7dhql3f-a-oz-opensocial.googleusercontent.com
 2404:6800:4005:80a::2001 hsco54a20sh11q9jkmb51ad2n3hmkmrg-a-oz-opensocial.googleusercontent.com
 2404:6800:4005:808::2001 i8brh95qor6r54nkl52hidj2ggcs4jgm-a-oz-opensocial.googleusercontent.com
@@ -1314,7 +1350,7 @@
 2404:6800:4005:80a::2001 23-wave-opensocial.googleusercontent.com
 2404:6800:4005:800::2001 24-wave-opensocial.googleusercontent.com
 2404:6800:4005:80b::2001 25-wave-opensocial.googleusercontent.com
-2404:6800:4003:806::100a 26-wave-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 26-wave-opensocial.googleusercontent.com
 2404:6800:4005:800::2001 27-wave-opensocial.googleusercontent.com
 2404:6800:4005:808::2001 28-wave-opensocial.googleusercontent.com
 2404:6800:4005:80b::2001 29-wave-opensocial.googleusercontent.com
@@ -1323,7 +1359,7 @@
 2404:6800:4005:800::2001 32-wave-opensocial.googleusercontent.com
 2404:6800:4005:800::2001 33-wave-opensocial.googleusercontent.com
 2404:6800:4005:80b::2001 34-wave-opensocial.googleusercontent.com
-2404:6800:4003:806::100b 35-wave-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 35-wave-opensocial.googleusercontent.com
 2404:6800:4005:80b::2001 36-wave-opensocial.googleusercontent.com
 2404:6800:4005:80a::2001 37-wave-opensocial.googleusercontent.com
 2404:6800:4005:80b::2001 38-wave-opensocial.googleusercontent.com
@@ -1353,7 +1389,7 @@
 2001:4860:4802:38::7b help.youtube.com #www.google.com
 2404:6800:4005:809::200f upload.youtube.com yt-video-upload.l.google.com
 2404:6800:4005:80a::200f uploads.stage.gdata.youtube.com #yt-video-upload.l.google.com
-2404:6800:4003:c02::65 insight.youtube.com #video-analytics.google.com
+2001:4860:4802:38::7b insight.youtube.com #video-analytics.google.com
 2001:4860:4802:38::7b apiblog.youtube.com
 #2404:6800:4008:c00::64 clients1.youtube.com
 2001:4860:4802:38::7b i.ytimg.com #ytimg.l.google.com
@@ -1363,18 +1399,19 @@
 2001:4860:4802:38::7b i4.ytimg.com #ytimg.l.google.com
 2001:4860:4802:38::7b s.ytimg.com #ytstatic.l.google.com
 ## Google Video
-2404:6800:4003:c00::8b video.google.com #video.l.google.com
-2404:6800:4003:c02::66 video.google.com.hk #video.l.google.com
+2001:4860:4802:38::7b video.google.com #video.l.google.com
+2001:4860:4802:38::7b video.google.com.hk #video.l.google.com
 2001:4860:4802:38::7b video.google.com.tw #video.l.google.com
-2404:6800:4003:807::1002 0.gvt0.com #video-thumbnails.l.google.com
-2404:6800:4003:c00::8a 1.gvt0.com #video-thumbnails.l.google.com
+2001:4860:4802:38::7b 0.gvt0.com #video-thumbnails.l.google.com
+2001:4860:4802:38::7b 1.gvt0.com #video-thumbnails.l.google.com
 2001:4860:4802:38::7b 2.gvt0.com #video-thumbnails.l.google.com
-2404:6800:4003:c00::8a 3.gvt0.com #video-thumbnails.l.google.com
-2404:6800:4003:c00::8b 4.gvt0.com #video-thumbnails.l.google.com
+2001:4860:4802:38::7b 3.gvt0.com #video-thumbnails.l.google.com
+2001:4860:4802:38::7b 4.gvt0.com #video-thumbnails.l.google.com
 2001:4860:4802:38::7b 5.gvt0.com #video-thumbnails.l.google.com
 2404:6800:4005:808::200f upload.video.google.com #sslvideo-upload.l.google.com
 2001:4860:4802:38::7b video-stats.video.google.com #video-stats.l.google.com
 2001:4860:4802:38::7b manifest.googlevideo.com
+## c.youtube.com和googlevideo.com指向的IP相同
 2001:4860:4802:38::7b redirector.googlevideo.com
 #Misc
 2600:1417:9:192::19f0 cdn.optimizely.com
