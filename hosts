@@ -25,6 +25,12 @@
 2400:cb00:2048:1::6810:c08 secure.adzerk.net
 2400:cb00:2048:1::6810:c08 static.adzerk.net
 2406:da00:ff00::b849:d9c4 engine.adzerk.net
+## Gravatar
+2606:2800:20d:1047:6cf:353:607:e8a www.gravatar.com
+2606:2800:20d:1047:6cf:353:607:e8a s.gravatar.com
+2606:2800:20d:1047:6cf:353:607:e8a 0.gravatar.com
+2606:2800:20d:1047:6cf:353:607:e8a 1.gravatar.com
+2606:2800:20d:1047:6cf:353:607:e8a 2.gravatar.com
 #Flickr(Partial)
 2406:2000:f016:1fe::3001 flickr.com
 2406:2000:f016:1fe::3001 www.flickr.com
@@ -55,7 +61,9 @@
 2600:1417:9:192::c8c blogs.nvidia.cn
 2600:1417:9::6007:3629 cn.nvidia.com
 2600:1417:9:192::778 services.gfe.nvidia.com
+2600:1417:9:192::778 shield.nvidia.com
 2600:1417:9::6007:3629 cn.download.nvidia.com
+2600:1417:9::6007:3629 international.download.nvidia.com
 2600:1417:9:192::7b4 www.geforce.com
 2600:1417:9:192::7b4 gfwsl.geforce.com
 2600:1417:9::6007:3629 www.geforce.cn
@@ -65,8 +73,6 @@
 2600:1417:9:192::2c4b community.amd.com
 2600:1417:9::6007:3629 ir.amd.com
 2600:1417:9::6007:3629 shop.amd.com
-2600:1417:9:192::b51 www.amd.com
-2600:1417:9:192::b51 www.amd.com
 2600:1417:9:192::b51 support.amd.com
 2600:1417:9:192::1c7b www2.ati.com
 #Intel
@@ -228,9 +234,11 @@
 ## Mashups/App Engine GAE
 2404:6800:4005:800::2000 appengine.google.com
 2404:6800:4005:800::2011 appspot.com
-2404:6800:4005:800::2011 *.appspot.com
 2404:6800:4005:800::2011 www.appspot.com
+2404:6800:4005:800::2011 402.appspot.com
+2404:6800:4005:800::2011 art-project-media.appspot.com
 2404:6800:4005:800::2011 betaspike.appspot.com
+2404:6800:4005:800::2011 chrome-devtools-frontend.appspot.com
 2404:6800:4005:800::2011 chrometophone.appspot.com
 2404:6800:4005:800::2011 codereview.appspot.com
 2404:6800:4005:800::2011 evolutionofweb.appspot.com
@@ -239,14 +247,23 @@
 2404:6800:4005:800::2011 googlesharedspaces.appspot.com
 2404:6800:4005:800::2011 gv-gadget.appspot.com
 2404:6800:4005:800::2011 haiticrisis.appspot.com
+2404:6800:4005:800::2011 hstspreload.appspot.com
 2404:6800:4005:800::2011 i18napis.appspot.com
+2404:6800:4005:800::2011 lfe-alpo-gm.appspot.com
+2404:6800:4005:800::2011 m-dot-betaspike.appspot.com
 2404:6800:4005:800::2011 moderator.appspot.com
 2404:6800:4005:800::2011 newsfeed-dot-latest-dot-rovio-ad-engine.appspot.com
 2404:6800:4005:800::2011 productideas.appspot.com
 2404:6800:4005:800::2011 project-slingshot-gp.appspot.com
 2404:6800:4005:800::2011 r3269-dot-latest-dot-project-slingshot-gp.appspot.com
+2404:6800:4005:800::2011 rs-leaderboards.appspot.com
+2404:6800:4005:800::2011 rs-xpromotion.appspot.com
 2404:6800:4005:800::2011 storegadgetwizard.appspot.com
+2404:6800:4005:800::2011 tetrisrushlive.appspot.com
+2404:6800:4005:800::2011 tnt-geoip-prod.appspot.com
+2404:6800:4005:800::2011 wcproxyx.appspot.com
 2404:6800:4005:800::2011 welcome-cros.appspot.com
+2404:6800:4005:800::2011 xxnet-update.appspot.com
 2404:6800:4005:800::2011 yt-debates.appspot.com
 #WithGoogle↓
 2404:6800:4005:800::2011 withgoogle.com
@@ -531,7 +548,7 @@
 ## Domains 域名
 2404:6800:4005:800::2000 domains.google.com
 ## Download 下载
-#2404:6800:4008:c01::88 dl.google.com #dl.l.google.com
+2404:6800:4005:800::2000 dl.google.com #dl.l.google.com
 2404:6800:4005:800::2000 dl-ssl.google.com #dl-ssl.l.google.com
 ## Google Earth 地球
 2404:6800:4005:800::2000 earth.google.com
@@ -826,7 +843,7 @@
 2404:6800:4005:80b::2004 t3.gstatic.com
 ## Google APIs 开发接口服务
 2404:6800:4005:800::2000 apis.google.com
-2404:6800:4005:800::2000 chart.apis.google.com
+#2404:6800:4005:800::2000 chart.apis.google.com
 2404:6800:4005:800::2000 googleapis.com
 2404:6800:4005:800::200a www.googleapis.com
 2404:6800:4005:800::200a *.googleapis.com
@@ -836,6 +853,7 @@
 2404:6800:4005:800::200a chart.googleapis.com
 2404:6800:4005:800::200a content.googleapis.com
 2404:6800:4005:800::200a fonts.googleapis.com
+2404:6800:4005:800::200a imasdk.googleapis.com
 2404:6800:4005:800::200a maps.googleapis.com
 2404:6800:4005:800::200a play.googleapis.com
 2404:6800:4005:800::200a plus.googleapis.com
@@ -1117,7 +1135,6 @@
 2404:6800:4005:80b::2001 photos-ugc.l.googleusercontent.com
 2404:6800:4005:800::2001 storage.l.googleusercontent.com
 2404:6800:4005:800::2001 storage-ugc.l.googleusercontent.com
-2404:6800:4005:80a::2001 www-blogger-opensocial.googleusercontent.com
 2404:6800:4005:80a::2001 books.googleusercontent.com
 2404:6800:4005:800::2001 blogger.googleusercontent.com
 2404:6800:4005:800::2001 ci1.googleusercontent.com
@@ -1132,73 +1149,216 @@
 2404:6800:4005:800::2001 clients5.googleusercontent.com
 2404:6800:4005:80b::2001 clients6.googleusercontent.com
 2404:6800:4005:800::2001 code-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 www-blogger-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 www-calendar-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 www-fc-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 www-focus-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 www-fusiontables-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 www-gm-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 www-ig-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 www-igprev-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 www-kix-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 www-onepick-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 www-open-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 www-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 www-opensocial-sandbox.googleusercontent.com
+2404:6800:4005:800::2001 www-oz-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 www-trixcopysheet-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 www-wave-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 3hdrrlnlknhi77nrmsjnjr152ueo3soc-a-calendar-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 ode25pfjgmvpquh3b1oqo31ti5ibg5fr-a-calendar.opensocial.googleusercontent.com-
+2404:6800:4005:800::2001 8fkcem1ves287v3g5lu9gep1j91p3kk1-a-fc-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 ol5u8o2ka38be34j62ktnefji390jhro-a-fc-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 r1rk9np7bpcsfoeekl0khkd2juj27q3o-a-fc-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 4lam9a1ki27mb9p1h5q3furvvf58ss02-a-gm-opensocial.googleusercontent.com
+2404:6800:4005:808::2001 nl3atn8402ncgahndqn8rb6qi2ld2g5a-a-gm-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 5t4qifajvtr6b5i0os7dl56bj0eoemvr-a-open-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 4098j3r7bdqqvlggmhbnlu6u5i8d08jq-a-oz-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 4fjvqid3r3oq66t548clrdj52df15coc-a-oz-opensocial.googleusercontent.com
+2404:6800:4005:80b::2001 53rd6p0catml6vat6qra84rs0del836d-a-oz-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 59cbv4l9s05pbaks9v77vc3mengeqors-a-oz-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 8kubpeu8314p2efdd7jlv09an9i2ljdo-a-oz-opensocial.googleusercontent.com
+2404:6800:4005:80b::2001 adstvca8k2ooaknjjmv89j22n9t676ve-a-oz-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 bt26mravu2qpe56n8gnmjnpv2inl84bf-a-oz-opensocial.googleusercontent.com
+2404:6800:4005:80b::2001 debh8vg7vd93bco3prdajidmm7dhql3f-a-oz-opensocial.googleusercontent.com
+2404:6800:4005:80a::2001 hsco54a20sh11q9jkmb51ad2n3hmkmrg-a-oz-opensocial.googleusercontent.com
+2404:6800:4005:808::2001 i8brh95qor6r54nkl52hidj2ggcs4jgm-a-oz-opensocial.googleusercontent.com
+2404:6800:4005:80b::2001 k6v18tjr24doa89b55o3na41kn4v73eb-a-oz-opensocial.googleusercontent.com
+2404:6800:4005:80b::2001 ob7f2qc0i50kbjnc81vkhgmb5hsv7a8l-a-oz-opensocial.googleusercontent.com
+2404:6800:4005:80b::2001 qhie5b8u979rnch1q0hqbrmbkn9estf7-a-oz-opensocial.googleusercontent.com
+2404:6800:4005:80b::2001 r70rmsn4s0rhk6cehcbbcbfbs31pu0va-a-oz-opensocial.googleusercontent.com
+2404:6800:4005:80b::2001 rbjhe237k979f79d87gmenp3gejfonu9-a-oz-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 u807isd5egseeabjccgcns005p2miucq-a-oz-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 upt14k1i2veesusrda9nfotcrbp9d7p5-a-oz-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 b7ne77alkeh3496in6pkg53temd2mja2-a-sites-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 jujo00obo2o234ungd3t8qjfcjrs3o6k-a-sites-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 mj89sp3sau2k7lj1eg3k40hkeppguj6j-a-sites-opensocial.googleusercontent.com
 2404:6800:4005:80a::2001 doc-00-1k-docs.googleusercontent.com
 2404:6800:4005:800::2001 doc-00-1o-docs.googleusercontent.com
-2404:6800:4005:800::2001 doc-04-1o-docs.googleusercontent.com
-2404:6800:4005:800::2001 doc-08-1o-docs.googleusercontent.com
-2404:6800:4005:800::2001 doc-0c-1o-docs.googleusercontent.com
-2404:6800:4005:800::2001 doc-0g-1o-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0k-1o-docs.googleusercontent.com
-2404:6800:4005:80b::2001 doc-0o-1o-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0s-1o-docs.googleusercontent.com
-2404:6800:4005:80b::2001 doc-10-1o-docs.googleusercontent.com
-2404:6800:4005:80b::2001 doc-14-1o-docs.googleusercontent.com
-2404:6800:4005:80b::2001 doc-10-2c-docs.googleusercontent.com
-2404:6800:4005:800::2001 doc-0k-38-docs.googleusercontent.com
-2404:6800:4005:808::2001 doc-14-48-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-00-1s-docs.googleusercontent.com
 2404:6800:4005:800::2001 doc-00-6c-docs.googleusercontent.com
-2404:6800:4005:800::2001 doc-04-6c-docs.googleusercontent.com
-2404:6800:4005:80b::2001 doc-08-6c-docs.googleusercontent.com
-2404:6800:4005:80b::2001 doc-0c-6c-docs.googleusercontent.com
-2404:6800:4005:800::2001 doc-0g-6c-docs.googleusercontent.com
-2404:6800:4005:80b::2001 doc-0k-6c-docs.googleusercontent.com
-2404:6800:4005:80b::2001 doc-0o-6c-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0s-6c-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-10-6c-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-14-6c-docs.googleusercontent.com
-2404:6800:4005:80b::2001 doc-0o-74-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-14-74-docs.googleusercontent.com
 2404:6800:4005:800::2001 doc-00-7o-docs.googleusercontent.com
-2404:6800:4005:80b::2001 doc-04-7o-docs.googleusercontent.com
-2404:6800:4005:800::2001 doc-08-7o-docs.googleusercontent.com
-2404:6800:4005:800::2001 doc-0c-7o-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0g-7o-docs.googleusercontent.com
-2404:6800:4005:800::2001 doc-0k-7o-docs.googleusercontent.com
-2404:6800:4005:800::2001 doc-0o-7o-docs.googleusercontent.com
-2404:6800:4005:800::2001 doc-0s-7o-docs.googleusercontent.com
-2404:6800:4005:800::2001 doc-10-7o-docs.googleusercontent.com
-2404:6800:4005:80b::2001 doc-14-7o-docs.googleusercontent.com
-2404:6800:4005:80b::2001 doc-00-8k-docs.googleusercontent.com
-2404:6800:4005:800::2001 doc-04-8k-docs.googleusercontent.com
-2404:6800:4005:808::2001 doc-08-8k-docs.googleusercontent.com
-2404:6800:4005:808::2001 doc-0c-8k-docs.googleusercontent.com
-2404:6800:4005:800::2001 doc-0g-8k-docs.googleusercontent.com
-2404:6800:4005:80b::2001 doc-0k-8k-docs.googleusercontent.com
-2404:6800:4005:80b::2001 doc-0o-8k-docs.googleusercontent.com
-2404:6800:4005:800::2001 doc-0s-8k-docs.googleusercontent.com
-2404:6800:4005:808::2001 doc-10-8k-docs.googleusercontent.com
-2404:6800:4005:80b::2001 doc-14-8k-docs.googleusercontent.com
-2404:6800:4005:800::2001 doc-00-9k-docs.googleusercontent.com
-2404:6800:4005:800::2001 doc-04-9k-docs.googleusercontent.com
-2404:6800:4005:80b::2001 doc-08-9k-docs.googleusercontent.com
-2404:6800:4005:808::2001 doc-0c-9k-docs.googleusercontent.com
-2404:6800:4005:808::2001 doc-0g-9k-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0k-9k-docs.googleusercontent.com
-2404:6800:4005:800::2001 doc-0o-9k-docs.googleusercontent.com
-2404:6800:4005:800::2001 doc-0s-9k-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-10-9k-docs.googleusercontent.com
-2404:6800:4005:800::2001 doc-14-9k-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-00-8k-docs.googleusercontent.com
+2404:6800:4005:80a::2001 doc-00-9k-docs.googleusercontent.com
 2404:6800:4005:80b::2001 doc-00-as-docs.googleusercontent.com
-2404:6800:4005:80b::2001 doc-04-as-docs.googleusercontent.com
-2404:6800:4005:80b::2001 doc-08-as-docs.googleusercontent.com
-2404:6800:4005:800::2001 doc-0c-as-docs.googleusercontent.com
-2404:6800:4005:800::2001 doc-0g-as-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-0k-as-docs.googleusercontent.com
-2404:6800:4005:80b::2001 doc-0o-as-docs.googleusercontent.com
-2404:6800:4005:80b::2001 doc-0s-as-docs.googleusercontent.com
-2404:6800:4005:80a::2001 doc-10-as-docs.googleusercontent.com
-2404:6800:4005:808::2001 doc-14-as-docs.googleusercontent.com
+2404:6800:4005:80a::2001 doc-00-bc-docs.googleusercontent.com
 2404:6800:4005:80b::2001 doc-00-bg-docs.googleusercontent.com
+2404:6800:4005:80b::2001 doc-01-1s-docs.googleusercontent.com
+2404:6800:4005:80b::2001 doc-01-7o-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-01-bc-docs.googleusercontent.com
+2404:6800:4005:808::2001 doc-02-1s-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-02-7o-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-02-bc-docs.googleusercontent.com
+2404:6800:4005:80b::2001 doc-03-1s-docs.googleusercontent.com
+2404:6800:4005:80b::2001 doc-03-7o-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-03-bc-docs.googleusercontent.com
+2404:6800:4005:80b::2001 doc-04-1o-docs.googleusercontent.com
+2404:6800:4005:80b::2001 doc-04-1s-docs.googleusercontent.com
+2404:6800:4005:80a::2001 doc-04-6c-docs.googleusercontent.com
+2404:6800:4005:80a::2001 doc-04-7c-docs.googleusercontent.com
+2404:6800:4005:80a::2001 doc-04-7o-docs.googleusercontent.com
+2404:6800:4005:80b::2001 doc-04-80-docs.googleusercontent.com
+2404:6800:4005:80a::2001 doc-04-8k-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-04-9k-docs.googleusercontent.com
+2404:6800:4005:80b::2001 doc-04-as-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-04-b8-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-04-bc-docs.googleusercontent.com
+2404:6800:4005:80a::2001 doc-05-1s-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-05-7o-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-05-bc-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-06-1s-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-06-7o-docs.googleusercontent.com
+2404:6800:4005:80b::2001 doc-06-bc-docs.googleusercontent.com
+2404:6800:4005:80b::2001 doc-07-1s-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-07-7o-docs.googleusercontent.com
+2404:6800:4005:808::2001 doc-07-bc-docs.googleusercontent.com
+2404:6800:4005:808::2001 doc-08-1o-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-08-1s-docs.googleusercontent.com
+2404:6800:4005:80b::2001 doc-08-6c-docs.googleusercontent.com
+2404:6800:4005:80b::2001 doc-08-6g-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-08-7c-docs.googleusercontent.com
+2404:6800:4005:808::2001 doc-08-7o-docs.googleusercontent.com
+2404:6800:4005:80b::2001 doc-08-8k-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-08-9k-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-08-as-docs.googleusercontent.com
+2404:6800:4005:80b::2001 doc-08-bc-docs.googleusercontent.com
+2404:6800:4005:808::2001 doc-09-1s-docs.googleusercontent.com
+2404:6800:4005:808::2001 doc-09-7o-docs.googleusercontent.com
+2404:6800:4005:80a::2001 doc-09-bc-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0a-1s-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0a-7o-docs.googleusercontent.com
+2404:6800:4005:80a::2001 doc-0a-bc-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0b-1s-docs.googleusercontent.com
+2404:6800:4005:80b::2001 doc-0b-7o-docs.googleusercontent.com
+2404:6800:4005:80b::2001 doc-0b-bc-docs.googleusercontent.com
+2404:6800:4005:80b::2001 doc-0c-10-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0c-1o-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0c-1s-docs.googleusercontent.com
+2404:6800:4005:80a::2001 doc-0c-6c-docs.googleusercontent.com
+2404:6800:4005:80b::2001 doc-0c-7o-docs.googleusercontent.com
+2404:6800:4005:80b::2001 doc-0c-8k-docs.googleusercontent.com
+2404:6800:4005:80a::2001 doc-0c-9k-docs.googleusercontent.com
+2404:6800:4005:808::2001 doc-0c-as-docs.googleusercontent.com
+2404:6800:4005:80b::2001 doc-0c-bc-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0d-1s-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0d-7o-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0d-bc-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0e-1s-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0e-7o-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0e-bc-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0f-1s-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0f-7o-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0f-bc-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0g-1o-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0g-1s-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0g-6c-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0g-7c-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0g-7o-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0g-8k-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0g-9k-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0g-as-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0g-bc-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0h-1s-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0h-7o-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0h-bc-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0i-1s-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0i-7o-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0i-bc-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0j-1s-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0j-7o-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0j-bc-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0k-1o-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0k-1s-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0k-38-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0k-4c-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0k-6c-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0k-7c-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0k-7o-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0k-8k-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0k-9k-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0k-as-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0k-bc-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0k-bk-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0l-1s-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0l-7o-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0l-bc-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0m-1s-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0m-7o-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0m-bc-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0n-1s-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0n-7o-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0n-bc-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0o-1o-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0o-1s-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0o-6c-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0o-74-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0o-7o-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0o-8k-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0o-9c-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0o-9k-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0o-as-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0o-bc-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0p-1s-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0p-7o-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0p-bc-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0q-1s-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0q-7o-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0q-bc-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0r-1s-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0r-7o-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0r-bc-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0s-1o-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0s-1s-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0s-6c-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0s-7c-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0s-7o-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0s-8k-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0s-9k-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0s-as-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0s-bc-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0t-1s-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0t-7o-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-0t-bc-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-10-00-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-10-1o-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-10-1s-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-10-2c-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-10-6c-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-10-6g-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-10-7c-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-10-7o-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-10-8k-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-10-9k-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-10-as-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-10-bc-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-14-1o-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-14-48-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-14-6c-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-14-74-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-14-7o-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-14-8k-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-14-9k-docs.googleusercontent.com
+2404:6800:4005:800::2001 doc-14-as-docs.googleusercontent.com
 2404:6800:4005:80a::2001 doc-00-2g-3dwarehouse.googleusercontent.com
 2404:6800:4005:80b::2001 doc-04-2g-3dwarehouse.googleusercontent.com
 2404:6800:4005:80a::2001 doc-08-2g-3dwarehouse.googleusercontent.com
@@ -1209,7 +1369,8 @@
 2404:6800:4005:80a::2001 doc-0s-2g-3dwarehouse.googleusercontent.com
 2404:6800:4005:800::2001 doc-10-2g-3dwarehouse.googleusercontent.com
 2404:6800:4005:80a::2001 doc-14-2g-3dwarehouse.googleusercontent.com
-2404:6800:4005:80a::2001 feedback.googleusercontent.com
+2404:6800:4005:800::2001 images-blogger-opensocial.googleusercontent.com
+2404:6800:4005:80a::2001 images-docs-opensocial.googleusercontent.com
 2404:6800:4005:80b::2001 images1-esmobile-opensocial.googleusercontent.com
 2404:6800:4005:80b::2001 images2-esmobile-opensocial.googleusercontent.com
 2404:6800:4005:800::2001 images3-esmobile-opensocial.googleusercontent.com
@@ -1219,6 +1380,16 @@
 2404:6800:4005:80b::2001 images7-esmobile-opensocial.googleusercontent.com
 2404:6800:4005:80a::2001 images8-esmobile-opensocial.googleusercontent.com
 2404:6800:4005:80a::2001 images9-esmobile-opensocial.googleusercontent.com
+2404:6800:4005:80a::2001 images0-focus-opensocial.googleusercontent.com
+2404:6800:4005:80b::2001 images1-focus-opensocial.googleusercontent.com
+2404:6800:4005:80a::2001 images2-focus-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 images3-focus-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 images4-focus-opensocial.googleusercontent.com
+2404:6800:4005:80a::2001 images5-focus-opensocial.googleusercontent.com
+2404:6800:4005:80a::2001 images6-focus-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 images7-focus-opensocial.googleusercontent.com
+2404:6800:4005:80b::2001 images8-focus-opensocial.googleusercontent.com
+2404:6800:4005:80a::2001 images9-focus-opensocial.googleusercontent.com
 2404:6800:4005:80a::2001 images1-hangout-opensocial.googleusercontent.com
 2404:6800:4005:800::2001 images2-hangout-opensocial.googleusercontent.com
 2404:6800:4005:800::2001 images3-hangout-opensocial.googleusercontent.com
@@ -1228,11 +1399,12 @@
 2404:6800:4005:80a::2001 images7-hangout-opensocial.googleusercontent.com
 2404:6800:4005:800::2001 images8-hangout-opensocial.googleusercontent.com
 2404:6800:4005:800::2001 images9-hangout-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 images-docs-opensocial.googleusercontent.com
-2404:6800:4005:800::2001 images-oz-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 images0-ig-opensocial.googleusercontent.com
 2404:6800:4005:800::2001 images-lso-opensocial.googleusercontent.com
-2404:6800:4005:800::2001 images-blogger-opensocial.googleusercontent.com
+2404:6800:4005:80a::2001 images-onepick-opensocial.googleusercontent.com
+2404:6800:4005:800::2001 images-oz-opensocial.googleusercontent.com
 2404:6800:4005:80b::2001 images-pos-opensocial.googleusercontent.com
+2404:6800:4005:80a::2001 feedback.googleusercontent.com
 2404:6800:4005:80b::2001 lh0.googleusercontent.com
 2404:6800:4005:800::2001 lh1.googleusercontent.com
 2404:6800:4005:800::2001 lh2.googleusercontent.com
@@ -1264,65 +1436,14 @@
 2404:6800:4005:800::2001 ytimg.googleusercontent.com
 2404:6800:4005:800::2001 code-opensocial.googleusercontent.com
 2404:6800:4005:800::2001 spreadsheets-opensocial.googleusercontent.com
-2404:6800:4005:80b::2001 www-opensocial.googleusercontent.com
-2404:6800:4005:800::2001 images-docs-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 www-gm-opensocial.googleusercontent.com
-2404:6800:4005:800::2001 www-opensocial-sandbox.googleusercontent.com
-2404:6800:4005:80a::2001 www-fc-opensocial.googleusercontent.com
-2404:6800:4005:80b::2001 *-a-fc-opensocial.googleusercontent.com
-2404:6800:4005:800::2001 4lam9a1ki27mb9p1h5q3furvvf58ss02-a-gm-opensocial.googleusercontent.com
-2404:6800:4005:808::2001 nl3atn8402ncgahndqn8rb6qi2ld2g5a-a-gm-opensocial.googleusercontent.com
-2404:6800:4005:800::2001 8fkcem1ves287v3g5lu9gep1j91p3kk1-a-fc-opensocial.googleusercontent.com
-2404:6800:4005:800::2001 r1rk9np7bpcsfoeekl0khkd2juj27q3o-a-fc-opensocial.googleusercontent.com
-2404:6800:4005:80b::2001 www-focus-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 images0-focus-opensocial.googleusercontent.com
-2404:6800:4005:80b::2001 images1-focus-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 images2-focus-opensocial.googleusercontent.com
-2404:6800:4005:800::2001 images3-focus-opensocial.googleusercontent.com
-2404:6800:4005:800::2001 images4-focus-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 images5-focus-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 images6-focus-opensocial.googleusercontent.com
-2404:6800:4005:800::2001 images7-focus-opensocial.googleusercontent.com
-2404:6800:4005:80b::2001 images8-focus-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 images9-focus-opensocial.googleusercontent.com
-2404:6800:4005:80b::2001 images*-focus-opensocial.googleusercontent.com
 2404:6800:4005:80b::2001 0-focus-opensocial.googleusercontent.com
 2404:6800:4005:800::2001 1-focus-opensocial.googleusercontent.com
 2404:6800:4005:80b::2001 2-focus-opensocial.googleusercontent.com
 2404:6800:4005:80b::2001 3-focus-opensocial.googleusercontent.com
-2404:6800:4005:800::2001 www-fusiontables-opensocial.googleusercontent.com
-2404:6800:4005:800::2001 www-kix-opensocial.googleusercontent.com
-2404:6800:4005:800::2001 images-lso-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 www-onepick-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 images-onepick-opensocial.googleusercontent.com
-2404:6800:4005:800::2001 www-open-opensocial.googleusercontent.com
-2404:6800:4005:800::2001 *-a-oz-opensocial.googleusercontent.com
 2404:6800:4005:80b::2001 0-open-opensocial.googleusercontent.com
 2404:6800:4005:80b::2001 1-open-opensocial.googleusercontent.com
 2404:6800:4005:80a::2001 2-open-opensocial.googleusercontent.com
 2404:6800:4005:80b::2001 3-open-opensocial.googleusercontent.com
-2404:6800:4005:800::2001 www-oz-opensocial.googleusercontent.com
-2404:6800:4005:800::2001 images-oz-opensocial.googleusercontent.com
-2404:6800:4005:800::2001 4fjvqid3r3oq66t548clrdj52df15coc-a-oz-opensocial.googleusercontent.com
-2404:6800:4005:80b::2001 53rd6p0catml6vat6qra84rs0del836d-a-oz-opensocial.googleusercontent.com
-2404:6800:4005:800::2001 59cbv4l9s05pbaks9v77vc3mengeqors-a-oz-opensocial.googleusercontent.com
-2404:6800:4005:800::2001 8kubpeu8314p2efdd7jlv09an9i2ljdo-a-oz-opensocial.googleusercontent.com
-2404:6800:4005:80b::2001 adstvca8k2ooaknjjmv89j22n9t676ve-a-oz-opensocial.googleusercontent.com
-2404:6800:4005:800::2001 bt26mravu2qpe56n8gnmjnpv2inl84bf-a-oz-opensocial.googleusercontent.com
-2404:6800:4005:80b::2001 debh8vg7vd93bco3prdajidmm7dhql3f-a-oz-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 hsco54a20sh11q9jkmb51ad2n3hmkmrg-a-oz-opensocial.googleusercontent.com
-2404:6800:4005:808::2001 i8brh95qor6r54nkl52hidj2ggcs4jgm-a-oz-opensocial.googleusercontent.com
-2404:6800:4005:80b::2001 k6v18tjr24doa89b55o3na41kn4v73eb-a-oz-opensocial.googleusercontent.com
-2404:6800:4005:80b::2001 ob7f2qc0i50kbjnc81vkhgmb5hsv7a8l-a-oz-opensocial.googleusercontent.com
-2404:6800:4005:80b::2001 qhie5b8u979rnch1q0hqbrmbkn9estf7-a-oz-opensocial.googleusercontent.com
-2404:6800:4005:80b::2001 r70rmsn4s0rhk6cehcbbcbfbs31pu0va-a-oz-opensocial.googleusercontent.com
-2404:6800:4005:80b::2001 rbjhe237k979f79d87gmenp3gejfonu9-a-oz-opensocial.googleusercontent.com
-2404:6800:4005:800::2001 u807isd5egseeabjccgcns005p2miucq-a-oz-opensocial.googleusercontent.com
-2404:6800:4005:800::2001 upt14k1i2veesusrda9nfotcrbp9d7p5-a-oz-opensocial.googleusercontent.com
-2404:6800:4005:800::2001 4098j3r7bdqqvlggmhbnlu6u5i8d08jq-a-oz-opensocial.googleusercontent.com
-2404:6800:4005:800::2001 images-pos-opensocial.googleusercontent.com
-2404:6800:4005:80a::2001 www-trixcopysheet-opensocial.googleusercontent.com
-2404:6800:4005:80b::2001 www-wave-opensocial.googleusercontent.com
 2404:6800:4005:80a::2001 wave-opensocial.googleusercontent.com
 2404:6800:4005:800::2001 0-wave-opensocial.googleusercontent.com
 2404:6800:4005:80a::2001 1-wave-opensocial.googleusercontent.com
@@ -1496,54 +1617,148 @@
 2606:2800:220:131d:1d30:1f1d:238b:1e56 ton.twimg.com
 2606:2800:220:131d:1d30:1f1d:238b:1e56 video.twimg.com
 2606:2800:220:131d:1d30:1f1d:238b:1e56 widgets.twimg.com
-
-## Facebook
+#Twitter START
+2001:778:0:ffff:64::b92d:52b twitter.com
+2001:778:0:ffff:64::b92d:52b www.twitter.com
+2001:778:0:ffff:64::b92d:52c api.twitter.com
+2001:778:0:ffff:64::b92d:52d about.twitter.com
+2001:778:0:ffff:64::b92d:52d ads.twitter.com
+2001:778:0:ffff:64::b92d:52d analytics.twitter.com
+2001:778:0:ffff:64::b92d:52d blog.twitter.com
+2001:778:0:ffff:64::b92d:52d business.twitter.com
+2001:778:0:ffff:64::b92d:52d dev.twitter.com
+2001:778:0:ffff:64::b92d:52d media.twitter.com
+2001:778:0:ffff:64::b92d:52d pic.twitter.com
+2001:778:0:ffff:64::b92d:52d s.twitter.com
+2001:778:0:ffff:64::b92d:52d search.twitter.com
+2001:778:0:ffff:64::b92d:52d transparency.twitter.com
+2001:778:0:ffff:64::b92d:52e api.tweetdeck.com
+2001:778:0:ffff:64::b92d:52e downloads.tweetdeck.com
+2001:778:0:ffff:64::b92d:52e tdweb.twitter.com
+2001:778:0:ffff:64::b92d:52e td.twitter.com
+2001:778:0:ffff:64::b92d:52e tweetdeck.com
+2001:778:0:ffff:64::b92d:52e tweetdeck.twitter.com
+2001:778:0:ffff:64::b92d:52e web.tweetdeck.com
+2001:778:0:ffff:64::b92d:52e www.tweetdeck.com
+2001:778:0:ffff:64::b92d:52f t.co
+2001:778:0:ffff:64::b92d:530 mobile.twitter.com
+2001:778:0:ffff:64::b92d:531 support.twitter.com
+2001:778:0:ffff:64::c710:9e6f r.twimg.com
+2001:778:0:ffff:64::b92d:532 syndication.twimg.com
+2001:778:0:ffff:64::b92d:532 cdn.syndication.twimg.com
+2001:778:0:ffff:64::b92d:532 syndication.twitter.com
+2001:778:0:ffff:64::b92d:532 syndication-o.twimg.com
+2001:778:0:ffff:64::b92d:532 syndication-o.twitter.com
+2001:778:0:ffff:64::c710:9e73 urls-real.api.twitter.com
+2001:778:0:ffff:64::b92d:533 upload.twitter.com
+2606:2800:248:2f:1d8a:787:dc7:17df cdn.api.twitter.com
+2606:2800:248:2f:1d8a:787:dc7:17df platform.twitter.com
+2606:2800:248:163:1dd5:2187:1354:23ef cdn.syndication.twitter.com
+2606:2800:248:163:1dd5:2187:1354:23ef status.twitter.com
+2606:2800:248:5f:1d30:1967:1659:bd2 widgets.platform.twitter.com
+2001:778:0:ffff:64::c710:9c2e betastream.twitter.com
+2001:778:0:ffff:64::c710:9c4c sitestream.twitter.com
+2001:778:0:ffff:64::c710:9c14 stream.twitter.com
+2001:778:0:ffff:64::c710:9c3a ton.twitter.com
+2001:778:0:ffff:64::c710:9c30 userstream.twitter.com
+2001:778:0:ffff:64::c760:3906 urls.api.twitter.com
+2001:778:0:ffff:64::c710:9d50 pay.twitter.com
+2001:778:0:ffff:64::c710:9c11 image-proxy-origin.twimg.com
+2606:2800:248:2f:1d8a:787:dc7:17df a0.twimg.com
+2606:2800:248:2f:1d8a:787:dc7:17df a1.twimg.com
+2606:2800:248:2f:1d8a:787:dc7:17df a2.twimg.com
+2606:2800:248:2f:1d8a:787:dc7:17df a3.twimg.com
+2606:2800:248:2f:1d8a:787:dc7:17df a4.twimg.com
+2606:2800:248:2f:1d8a:787:dc7:17df a5.twimg.com
+2606:2800:248:2f:1d8a:787:dc7:17df abs.twimg.com
+#2606:2800:248:2f:1d8a:787:dc7:17df abs-0.twimg.com
+2606:2800:248:2f:1d8a:787:dc7:17df amp.twimg.com
+2606:2800:248:2f:1d8a:787:dc7:17df dnt.twimg.com
+2606:2800:248:2f:1d8a:787:dc7:17df ea.twimg.com
+2606:2800:248:2f:1d8a:787:dc7:17df g.twimg.com
+2606:2800:248:2f:1d8a:787:dc7:17df g2.twimg.com
+2606:2800:248:2f:1d8a:787:dc7:17df gu.twimg.com
+2606:2800:248:2f:1d8a:787:dc7:17df hca.twimg.com
+2606:2800:248:2f:1d8a:787:dc7:17df jp.twimg.com
+2606:2800:248:2f:1d8a:787:dc7:17df ma.twimg.com
+2606:2800:248:2f:1d8a:787:dc7:17df o.twimg.com
+2606:2800:248:2f:1d8a:787:dc7:17df p.twimg.com
+2606:2800:248:2f:1d8a:787:dc7:17df pbs.twimg.com
+2606:2800:248:2f:1d8a:787:dc7:17df pbs-ec.twimg.com
+2606:2800:248:2f:1d8a:787:dc7:17df si0.twimg.com
+2606:2800:248:2f:1d8a:787:dc7:17df si1.twimg.com
+2606:2800:248:2f:1d8a:787:dc7:17df si2.twimg.com
+2606:2800:248:2f:1d8a:787:dc7:17df si3.twimg.com
+2606:2800:248:2f:1d8a:787:dc7:17df si4.twimg.com
+2606:2800:248:2f:1d8a:787:dc7:17df si5.twimg.com
+2606:2800:248:2f:1d8a:787:dc7:17df tailfeather.twimg.com
+2606:2800:248:2f:1d8a:787:dc7:17df ton.twimg.com
+2606:2800:248:2f:1d8a:787:dc7:17df video.twimg.com
+2606:2800:248:2f:1d8a:787:dc7:17df widgets.twimg.com
+#Twitter END
+## Facebook 脸谱网
 2a03:2880:f002:109:face:b00c::2 facebook.com
-2a03:2880:f002:109:face:b00c::2 www.facebook.com #star.c10r.facebook.com
-2a03:2880:f002:109:face:b00c::2 edge-chat.facebook.com #star.c10r.facebook.com
-2a03:2880:f002:109:face:b00c::2 0-edge-chat.facebook.com #star.c10r.facebook.com
-2a03:2880:f002:109:face:b00c::2 1-edge-chat.facebook.com #star.c10r.facebook.com
-2a03:2880:f002:109:face:b00c::2 2-edge-chat.facebook.com #star.c10r.facebook.com
-2a03:2880:f002:109:face:b00c::2 3-edge-chat.facebook.com #star.c10r.facebook.com
-2a03:2880:f002:109:face:b00c::2 4-edge-chat.facebook.com #star.c10r.facebook.com
-2a03:2880:f002:109:face:b00c::2 5-edge-chat.facebook.com #star.c10r.facebook.com
-2a03:2880:f002:109:face:b00c::2 6-edge-chat.facebook.com #star.c10r.facebook.com
-2a03:2880:f002:109:face:b00c::2 api.facebook.com #star.c10r.facebook.com
-2a03:2880:f002:109:face:b00c::2 api-read.facebook.com #api.facebook.com
-2a03:2880:f002:109:face:b00c::2 apps.facebook.com #star.facebook.com
-2a03:2880:f002:109:face:b00c::2 attachments.facebook.com #star.c10r.facebook.com
-2a03:2880:f002:10d:face:b00c::91 b-api.facebook.com #z-m.facebook.com
-2a03:2880:f002:10d:face:b00c::91 b-graph.facebook.com #z-m.facebook.com
-2a03:2880:f002:109:face:b00c::2 check6.facebook.com #star.c10r.facebook.com
-2a03:2880:f002:109:face:b00c::2 code.facebook.com #star.facebook.com
-2a03:2880:f002:109:face:b00c::2 connect.facebook.com #www.facebook.com
-2a03:2880:f002:109:face:b00c::2 developers.facebook.com #star.facebook.com
-2a03:2880:f002:109:face:b00c::2 graph.facebook.com #api.facebook.com
-2a03:2880:f002:109:face:b00c::2 login.facebook.com #star.facebook.com
-2a03:2880:f002:109:face:b00c::2 m.facebook.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 www.facebook.com
+2a03:2880:f002:109:face:b00c::2 edge-chat.facebook.com
+2a03:2880:f002:109:face:b00c::2 0-edge-chat.facebook.com
+2a03:2880:f002:109:face:b00c::2 1-edge-chat.facebook.com
+2a03:2880:f002:109:face:b00c::2 2-edge-chat.facebook.com
+2a03:2880:f002:109:face:b00c::2 3-edge-chat.facebook.com
+2a03:2880:f002:109:face:b00c::2 4-edge-chat.facebook.com
+2a03:2880:f002:109:face:b00c::2 5-edge-chat.facebook.com
+2a03:2880:f002:109:face:b00c::2 6-edge-chat.facebook.com
+2a03:2880:f002:109:face:b00c::2 api.facebook.com
+2a03:2880:f002:109:face:b00c::2 api-read.facebook.com
+2a03:2880:f002:109:face:b00c::2 apps.facebook.com
+2a03:2880:f002:109:face:b00c::2 attachments.facebook.com
+2a03:2880:f002:10d:face:b00c::91 b-api.facebook.com
+2a03:2880:f002:10d:face:b00c::91 b-graph.facebook.com
+2a03:2880:f002:109:face:b00c::2 check6.facebook.com
+2a03:2880:f002:109:face:b00c::2 code.facebook.com
+2a03:2880:f002:109:face:b00c::2 connect.facebook.com
+2a03:2880:f002:109:face:b00c::2 developers.facebook.com
+2a03:2880:f002:109:face:b00c::2 graph.facebook.com
+2a03:2880:f002:109:face:b00c::2 login.facebook.com
+2a03:2880:f002:109:face:b00c::2 m.facebook.com
 2a03:2880:20:8f07:face:b00c::1 mqtt.facebook.com #mqtt.vvv.facebook.com
 2a03:2880:f002:105:face:b00c::8e edge-mqtt.facebook.com
-2a03:2880:f002:109:face:b00c::2 pixel.facebook.com #star.facebook.com
-2a03:2880:f002:109:face:b00c::2 star.facebook.com #star.c10r.facebook.com
-2a03:2880:f002:109:face:b00c::2 upload.facebook.com #star.c10r.facebook.com
-2a03:2880:f002:109:face:b00c::2 zh-cn.facebook.com #star.facebook.com
-2a03:2880:f002:109:face:b00c::2 zh-tw.facebook.com #star.facebook.com
+2a03:2880:f002:109:face:b00c::2 pixel.facebook.com
+2a03:2880:f002:109:face:b00c::2 star.facebook.com
+2a03:2880:f002:109:face:b00c::2 upload.facebook.com
+2a03:2880:f002:109:face:b00c::2 zh-cn.facebook.com
+2a03:2880:f002:109:face:b00c::2 zh-tw.facebook.com
 2a03:2880:f002:109:face:b00c::2 star.c10r.facebook.com
 2a03:2880:f002:107:face:b00c::4381 snaptu-p1.facebook.com
 2a03:2880:f002:107:face:b00c::4382 snaptu-p2.facebook.com
 2a03:2880:10:ef01:face:b00c::1 vupload.facebook.com #vupload2.facebook.com
 2a03:2880:10:df01:face:b00c::1 vupload2.vvv.facebook.com
-2a03:2880:20:8f08:face:b00c::1 apps.v6.facebook.com #v6.vvv.facebook.com
-2a03:2880:20:8f08:face:b00c::1 m.v6.facebook.com #v6.vvv.facebook.com
-2a03:2880:20:8f08:face:b00c::1 pixel.v6.facebook.com #v6.vvv.facebook.com
-2a03:2880:20:8f08:face:b00c::1 www.v6.facebook.com #v6.vvv.facebook.com
+2a03:2880:20:8f08:face:b00c::1 apps.v6.facebook.com
+2a03:2880:20:8f08:face:b00c::1 m.v6.facebook.com
+2a03:2880:20:8f08:face:b00c::1 pixel.v6.facebook.com
+2a03:2880:20:8f08:face:b00c::1 www.v6.facebook.com
 2a03:2880:20:8f08:face:b00c::1 v6.vvv.facebook.com
-2a03:2880:f002:109:face:b00c::2 attachment.fbsbx.com #star.c10r.facebook.com
-2600:1417:9::b833:f93 static.ak.facebook.com #a749.dsw4.akamai.net
+2a03:2880:f002:109:face:b00c::2 attachment.fbsbx.com
+2600:1417:9::b833:f93 static.ak.facebook.com
 2600:1417:9:18e::236 s-static.ak.facebook.com #e566.dspe1.akamaiedge.net
 2610:d0:face::9 www.lisp6.facebook.com
 2610:d0:face::9 m.lisp6.facebook.com #www.lisp6.facebook.com
+2a03:2880:f002:109:face:b00c::2 www.messenger.com
+2a03:2880:f002:109:face:b00c::2 messenger.com
+2a03:2880:f002:109:face:b00c::2 edge-chat.messenger.com
+2a03:2880:f002:109:face:b00c::2 0-edge-chat.messenger.com
+2a03:2880:f002:109:face:b00c::2 1-edge-chat.messenger.com
+2a03:2880:f002:109:face:b00c::2 2-edge-chat.messenger.com
+2a03:2880:f002:109:face:b00c::2 3-edge-chat.messenger.com
+2a03:2880:f002:109:face:b00c::2 4-edge-chat.messenger.com
+2a03:2880:f002:109:face:b00c::2 5-edge-chat.messenger.com
+2a03:2880:f002:109:face:b00c::2 6-edge-chat.messenger.com
+2a03:2880:f002:109:face:b00c::2 www.fb.com
+2a03:2880:f002:109:face:b00c::2 fb.com
+2600:1417:9:192::172d investor.fb.com
+2a03:2880:f002:109:face:b00c::2 thefacebook.com
+2a03:2880:f002:109:face:b00c::2 www.thefacebook.com
 ## fbcdn.net
+2a03:2880:f002:109:face:b00c::2 fbcdn.net
 2a03:2880:f002:110:face:b00c::3 scontent-a.xx.fbcdn.net
 2a03:2880:f002:110:face:b00c::3 scontent-b.xx.fbcdn.net
 2a03:2880:f00c:b:face:b00c::3 scontent-a-sin.xx.fbcdn.net
@@ -1556,60 +1771,62 @@
 2a03:2880:f002:110:face:b00c::3 external.xx.fbcdn.net
 2a03:2880:f002:110:face:b00c::3 static.xx.fbcdn.net
 2a03:2880:f002:112:face:b00c::1823 video.xx.fbcdn.net
-2600:1417:9:18e::eed connect.facebook.net #e3821.dspe1.akamaiedge.net
-2600:1417:9::b833:fc3 creative.ak.fbcdn.net #a34.dsw4.akamai.net
-2600:1417:9::b833:fc3 external.ak.fbcdn.net #a1920.dsw4.akamai.net
-2600:1417:9::b833:fc3 platform.ak.fbcdn.net #a1814.dsw4.akamai.net
-2600:1417:9::b833:fc3 profile.ak.fbcdn.net #a2047.dspl.akamai.net
-2600:1417:9:18e::38a s-external.ak.fbcdn.net #e906.dspe1.akamaiedge.net
-2600:1417:9:18e::d19 s-static.ak.fbcdn.net #e3353.dspe1.akamaiedge.net
-2600:1417:9::b833:fc3 static.ak.fbcdn.net #a749.dsw4.akamai.net
-2600:1417:9::b833:fc3 vthumb.ak.fbcdn.net #a591.dspda2.akamai.net
-2600:1417:9::b833:f6d fbcdn-photos-a.akamaihd.net #a995.dspmm1.akamai.net
-2600:1417:9::b833:f6d fbcdn-photos-a-a.akamaihd.net #a1854.dspmm1.akamai.net
-2600:1417:9::b833:f6d fbcdn-photos-b-a.akamaihd.net #a1854.dspmm1.akamai.net
-2600:1417:9::b833:f6d fbcdn-photos-c-a.akamaihd.net #a1854.dspmm1.akamai.net
-2600:1417:9::b833:f6d fbcdn-photos-d-a.akamaihd.net #a1854.dspmm1.akamai.net
-2600:1417:9::b833:f6d fbcdn-photos-e-a.akamaihd.net #a1854.dspmm1.akamai.net
-2600:1417:9::b833:f6d fbcdn-photos-f-a.akamaihd.net #a1854.dspmm1.akamai.net
-2600:1417:9::b833:f6d fbcdn-photos-g-a.akamaihd.net #a1854.dspmm1.akamai.net
-2600:1417:9::b833:f6d fbcdn-photos-h-a.akamaihd.net #a1854.dspmm1.akamai.net
-2600:1417:9::b833:f6d fbcdn-profile-a.akamaihd.net #a2047.dspl.akamai.net
-2600:1417:9::b833:f6d fbcdn-sphotos-a.akamaihd.net #a1001.dspw40.akamai.net
-2600:1417:9::b833:f6d fbcdn-sphotos-b-a.akamaihd.net #a1402.dspw40.akamai.net
-2600:1417:9::b833:f6d fbcdn-sphotos-c-a.akamaihd.net #a1003.dspw41.akamai.net
-2600:1417:9::b833:f6d fbcdn-sphotos-d-a.akamaihd.net #a1404.dspw41.akamai.net
-2600:1417:9::b833:f6d fbcdn-sphotos-e-a.akamaihd.net #a1406.dspw42.akamai.net
-2600:1417:9::b833:f6d fbcdn-sphotos-f-a.akamaihd.net #a1406.dspw42.akamai.net
-2600:1417:9::b833:f6d fbcdn-sphotos-g-a.akamaihd.net #a1007.dspw43.akamai.net
-2600:1417:9::b833:f6d fbcdn-sphotos-h-a.akamaihd.net #a1408.dspw43.akamai.net
-2600:1417:9::b833:f6d fbcdn-video-a-a.akamaihd.net #a1281.dspda2.akamai.net
-2600:1417:9::b833:f6d fbcdn-video-b-a.akamaihd.net #a1691.dspda2.akamai.net
-2600:1417:9::b833:f6d fbcdn-video-c-a.akamaihd.net #a1372.dspda2.akamai.net
-2600:1417:9::b833:f6d fbcdn-video-d-a.akamaihd.net #a1779.dspda2.akamai.net
-2600:1417:9::b833:f6d fbcdn-video-e-a.akamaihd.net #a1125.dspda2.akamai.net
-2600:1417:9::b833:f6d fbcdn-video-f-a.akamaihd.net #a1923.dspda2.akamai.net
-2600:1417:9::b833:f6d fbcdn-video-g-a.akamaihd.net #a1960.dspda2.akamai.net
-2600:1417:9::b833:f6d fbcdn-video-h-a.akamaihd.net #a1752.dspda2.akamai.net
-2600:1417:9::b833:f6d fbcdn-video-i-a.akamaihd.net #a1882.dspda2.akamai.net
-2600:1417:9::b833:f6d fbcdn-video-j-a.akamaihd.net #a1439.dspda2.akamai.net
-2600:1417:9::b833:f6d fbcdn-video-k-a.akamaihd.net #a1475.dspda2.akamai.net
-2600:1417:9::b833:f6d fbcdn-video-l-a.akamaihd.net #a1409.dspda2.akamai.net
-2600:1417:9::b833:f6d fbcdn-video-m-a.akamaihd.net #a1261.dspda2.akamai.net
-2600:1417:9::b833:f6d fbcdn-video-n-a.akamaihd.net #a1318.dspda2.akamai.net
-2600:1417:9::b833:f6d fbcdn-video-o-a.akamaihd.net #a1020.dspda2.akamai.net
-2600:1417:9::b833:f6d fbcdn-video-p-a.akamaihd.net #a1013.dspda2.akamai.net
-2600:1417:9::b833:f6d fbcdn-vthumb-a.akamaihd.net #a591.dspda2.akamai.net
-2600:1417:9::b833:f6d fbstatic-a.akamaihd.net #a1168.dsw4.akamai.net
-2600:1417:9::b833:f6d fbexternal-a.akamaihd.net #a1531.dsw4.akamai.net
-2600:1417:9::b833:f6d fbcdn-creative-a.akamaihd.net #a1073.dsw4.akamai.net
-2600:1417:9::b833:fc3 photos-a.ak.fbcdn.net #a995.dspmm1.akamai.net
-2600:1417:9::b833:fc3 photos-b.ak.fbcdn.net #a996.dspmm1.akamai.net
-2600:1417:9::b833:fc3 photos-c.ak.fbcdn.net #a997.dspmm1.akamai.net
-2600:1417:9::b833:fc3 photos-e.ak.fbcdn.net #a995.dspmm1.akamai.net
-2600:1417:9::b833:fc3 photos-f.ak.fbcdn.net #a996.dspmm1.akamai.net
-2600:1417:9::b833:fc3 photos-g.ak.fbcdn.net #a997.dspmm1.akamai.net
-2600:1417:9::b833:fc3 photos-h.ak.fbcdn.net #a998.dspmm1.akamai.net
+2600:1417:9:18e::eed connect.facebook.net 
+2600:1417:9::b833:fc3 creative.ak.fbcdn.net
+2600:1417:9::b833:fc3 external.ak.fbcdn.net
+2600:1417:9::b833:fc3 platform.ak.fbcdn.net
+2600:1417:9::b833:fc3 profile.ak.fbcdn.net
+2600:1417:9:18e::38a s-external.ak.fbcdn.net
+2600:1417:9:18e::d19 s-static.ak.fbcdn.net
+2600:1417:9::b833:fc3 static.ak.fbcdn.net
+2600:1417:9::b833:fc3 vthumb.ak.fbcdn.net
+2600:1417:9::b833:f6d fbcdn-dragon-a.akamaihd.net
+2600:1417:9::b833:f6d fbcdn-photos-a.akamaihd.net
+2600:1417:9::b833:f6d fbcdn-photos-a-a.akamaihd.net
+2600:1417:9::b833:f6d fbcdn-photos-b-a.akamaihd.net
+2600:1417:9::b833:f6d fbcdn-photos-c-a.akamaihd.net
+2600:1417:9::b833:f6d fbcdn-photos-d-a.akamaihd.net
+2600:1417:9::b833:f6d fbcdn-photos-e-a.akamaihd.net
+2600:1417:9::b833:f6d fbcdn-photos-f-a.akamaihd.net
+2600:1417:9::b833:f6d fbcdn-photos-g-a.akamaihd.net
+2600:1417:9::b833:f6d fbcdn-photos-h-a.akamaihd.net
+2600:1417:9::b833:f6d fbcdn-profile-a.akamaihd.net
+2600:1417:9::b833:f6d fbcdn-sphotos-a.akamaihd.net
+2600:1417:9::b833:f6d fbcdn-sphotos-a-a.akamaihd.net
+2600:1417:9::b833:f6d fbcdn-sphotos-b-a.akamaihd.net
+2600:1417:9::b833:f6d fbcdn-sphotos-c-a.akamaihd.net
+2600:1417:9::b833:f6d fbcdn-sphotos-d-a.akamaihd.net
+2600:1417:9::b833:f6d fbcdn-sphotos-e-a.akamaihd.net
+2600:1417:9::b833:f6d fbcdn-sphotos-f-a.akamaihd.net
+2600:1417:9::b833:f6d fbcdn-sphotos-g-a.akamaihd.net
+2600:1417:9::b833:f6d fbcdn-sphotos-h-a.akamaihd.net
+2600:1417:9::b833:f6d fbcdn-video-a-a.akamaihd.net
+2600:1417:9::b833:f6d fbcdn-video-b-a.akamaihd.net
+2600:1417:9::b833:f6d fbcdn-video-c-a.akamaihd.net
+2600:1417:9::b833:f6d fbcdn-video-d-a.akamaihd.net
+2600:1417:9::b833:f6d fbcdn-video-e-a.akamaihd.net
+2600:1417:9::b833:f6d fbcdn-video-f-a.akamaihd.net
+2600:1417:9::b833:f6d fbcdn-video-g-a.akamaihd.net
+2600:1417:9::b833:f6d fbcdn-video-h-a.akamaihd.net
+2600:1417:9::b833:f6d fbcdn-video-i-a.akamaihd.net
+2600:1417:9::b833:f6d fbcdn-video-j-a.akamaihd.net
+2600:1417:9::b833:f6d fbcdn-video-k-a.akamaihd.net
+2600:1417:9::b833:f6d fbcdn-video-l-a.akamaihd.net
+2600:1417:9::b833:f6d fbcdn-video-m-a.akamaihd.net
+2600:1417:9::b833:f6d fbcdn-video-n-a.akamaihd.net
+2600:1417:9::b833:f6d fbcdn-video-o-a.akamaihd.net
+2600:1417:9::b833:f6d fbcdn-video-p-a.akamaihd.net
+2600:1417:9::b833:f6d fbcdn-vthumb-a.akamaihd.net
+2600:1417:9::b833:f6d fbstatic-a.akamaihd.net
+2600:1417:9::b833:f6d fbexternal-a.akamaihd.net
+2600:1417:9::b833:f6d fbcdn-creative-a.akamaihd.net
+2600:1417:9::b833:fc3 photos-a.ak.fbcdn.net
+2600:1417:9::b833:fc3 photos-b.ak.fbcdn.net
+2600:1417:9::b833:fc3 photos-c.ak.fbcdn.net
+2600:1417:9::b833:fc3 photos-e.ak.fbcdn.net
+2600:1417:9::b833:fc3 photos-f.ak.fbcdn.net
+2600:1417:9::b833:fc3 photos-g.ak.fbcdn.net
+2600:1417:9::b833:fc3 photos-h.ak.fbcdn.net
 ## Instagram
 2a03:2880:f002:113:face:b00c::43fe instagram.com
 2a03:2880:f002:113:face:b00c::43fe www.instagram.com
