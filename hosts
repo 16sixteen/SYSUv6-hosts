@@ -12,6 +12,13 @@
 2600:1417:9:192::915 cdn.odc.officeapps.live.com
 #Akamai
 2600:1417:9::6007:3628 a248.e.akamai.net
+#Apple 
+2600:1417:9:192::c77 www.apple.com
+2600:1417:9::b833:fa9 images.apple.com
+2600:1417:9:192::2a1 itunes.apple.com
+2600:1417:9:192::b22 store.apple.com
+2600:1417:9:192::1477 store.storeimages.cdn-apple.com
+2600:1417:9:192::117e www.icloud.com
 #Reddit
 2400:cb00:2048:1::c629:d188 reddit.com
 2400:cb00:2048:1::c629:d188 www.reddit.com
@@ -66,6 +73,7 @@
 2600:1417:9:192::778 shield.nvidia.com
 2600:1417:9::6007:3629 cn.download.nvidia.com
 2600:1417:9::6007:3629 international.download.nvidia.com
+2600:1417:9::6007:3629 international-gfe.download.nvidia.com
 2600:1417:9:192::7b4 www.geforce.com
 2600:1417:9:192::7b4 gfwsl.geforce.com
 2600:1417:9::6007:3629 www.geforce.cn
