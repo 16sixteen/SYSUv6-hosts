@@ -93,17 +93,10 @@
 2600:1417:9:192::b downloadcenter.intel.com
 2600:1417:9:192::b downloadmirror.intel.com
 #Dropbox(Partial) 
-2406:da00:ff00::1715:7cb1 api-content.dropbox.com
-2406:da00:ff00::1715:7cb1 dl.dropbox.com
-2406:da00:ff00::1715:7cb1 dl-web.dropbox.com
-2406:da00:ff00::36e1:f7a7 photos-1.dropbox.com
-2406:da00:ff00::36e1:f7a7 photos-2.dropbox.com
-2406:da00:ff00::36e1:f7a7 photos-3.dropbox.com
-2406:da00:ff00::36e1:f7a7 photos-4.dropbox.com
-2406:da00:ff00::36e1:f7a7 photos-5.dropbox.com
-2406:da00:ff00::36e1:f7a7 photos-6.dropbox.com
-2406:da00:ff00::36dd:e40a api-content-photos.dropbox.com
-2406:da00:ff00::1717:8a04 dl.dropboxusercontent.com
+2406:da00:ff00::36cc:1dde api-content.dropbox.com
+2406:da00:ff00::4b65:9335 dl.dropbox.com
+2406:da00:ff00::4b65:9335 dl-web.dropbox.com
+2406:da00:ff00::36cc:1dde dl.dropboxusercontent.com
 #Vine
 2406:da00:ff00::6b15:d80f vine.co
 2406:da00:ff00::6b15:d80f platform.vine.co
