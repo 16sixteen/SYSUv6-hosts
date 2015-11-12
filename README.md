@@ -1,3 +1,3 @@
 # IPv6-hosts
 
-**Access via HTTPS**
+project moved to https://github.com/lennylxx/ipv6-hosts
