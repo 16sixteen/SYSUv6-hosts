@@ -1,3 +1,3 @@
-# IPv6-hosts
+# SYSUv6-hosts
 
-project moved to https://github.com/lennylxx/ipv6-hosts
+A hosts file that helps students surf the net smoother, faster and safer in SYSU.
