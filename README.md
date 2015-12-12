@@ -1,6 +1,6 @@
 # What
 
-A hosts file that helps students surf the net smoother, faster and safer in SYSU.
+A [hosts file](https://raw.githubusercontent.com/LGA1150/SYSUv6-hosts/master/hosts) that helps students surf the net smoother, faster and safer in SYSU.
 
 # Why
 
