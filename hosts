@@ -278,6 +278,10 @@
 2001:da8:215:4131::17 p24.qhimg.com
 101.4.60.13 m.shouji.360tpcdn.com
 101.4.60.13 m.shouji.qhcdn.com
+101.4.60.106 dl.360safe.com
+101.4.60.106 dl.qhcdn.com
+101.4.60.107 down.360safe.com
+101.4.60.107 down.qhcdn.com
 #Microsoft (WHITELISTED, use in local DNS proxy or router)
 2600:1417:9:192::e59 download.microsoft.com
 2600:1417:9:192::10 store-images.microsoft.com
