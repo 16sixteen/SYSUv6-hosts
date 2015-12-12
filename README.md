@@ -18,6 +18,8 @@ Replace `%WINDIR%\system32\drivers\etc\hosts` with this hosts file.
 
 # Notice
 
+Make sure you have IPv6 access : `ping www.sysu6.edu.cn` (If you are on *nix, use `ping6` instead)
+
 If you are using an anti-virus software, you should whitelist it.
 
 You should use [HTTPS Everywhere](https://www.eff.org/https-everywhere/) (Supports Firefox and Chrome) to encrypt your connection.
