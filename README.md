@@ -21,12 +21,24 @@ You should use [HTTPS Everywhere](https://www.eff.org/https-everywhere/) (Suppor
 
 Common download tools such as QQ XuanFeng, Xunlei and Internet Download Manager are not recommended since they don't support IPv6.
 
-[Free Download Manager 5](http://www.freedownloadmanager.org/landing5.htm) : A multi-threaded download tool which supports IPV6.
+[Free Download Manager 5](http://www.freedownloadmanager.org/landing5.htm) : A multi-threaded download tool which supports IPv6.
 
 # Effects
+1.
+
 Default:
 
 ![cmcc](https://cloud.githubusercontent.com/assets/9155358/11761091/7eae6bae-a0ef-11e5-8818-759a55bce065.PNG)
 Redirect to CERNET CDN:
 
 ![cernet](https://cloud.githubusercontent.com/assets/9155358/11761092/82ec596a-a0ef-11e5-866c-aa4b8994db16.PNG)
+
+2.
+
+Default:
+
+![cmcc](https://cloud.githubusercontent.com/assets/9155358/11761130/f290c3f4-a0f0-11e5-843b-b59659dee977.PNG)
+
+Redirect to IPv6 CDN:
+
+![ipv6](https://cloud.githubusercontent.com/assets/9155358/11761131/f56fcdc2-a0f0-11e5-8b67-4bce1a5268ea.PNG)
