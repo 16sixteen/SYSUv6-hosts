@@ -13,7 +13,10 @@ But luckily, we still have CHN-UNICOM and CERNET.
 This hosts file redirect those affected websites to their CERNET/CHN-UNICOM/IPv6 CDN, to bypass the limitation of CMCC.
 
 # Usage
+
 Replace `%WINDIR%\system32\drivers\etc\hosts` with this hosts file.
+
+# Notice
 
 If you are using an anti-virus software, you should whitelist it.
 
