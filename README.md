@@ -47,3 +47,10 @@ Default:
 Redirect to IPv6 CDN:
 
 ![ipv6](https://cloud.githubusercontent.com/assets/9155358/11761131/f56fcdc2-a0f0-11e5-8b67-4bce1a5268ea.PNG)
+
+# License
+Code of this project is licensed under the [MIT license](LICENSE).  
+Content of this project is licensed under [![CC Image]][CC BY-NC-SA 3.0].
+
+[CC Image]: https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png
+[CC BY-NC-SA 3.0]: https://creativecommons.org/licenses/by-nc-sa/3.0/
