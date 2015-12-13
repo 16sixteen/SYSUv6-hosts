@@ -40,7 +40,7 @@
 222.199.191.49 static1.searchbox.baidu.com
 222.199.191.49 static2.searchbox.baidu.com
 222.199.191.49 wappass.bdimg.com
-2400:cb00:2048:1::162.159.210.45 su.baidu.com
+2400:cb00:2048:1::a29f:d22d su.baidu.com
 2400:da00::dbf:0:6666 bcscdn.baidu.com
 2400:da00::dbf:0:6666 bj.bcs.baidu.com
 2400:da00::dbf:0:6666 www.baidupcs.com
@@ -115,6 +115,8 @@
 115.25.209.49 dd.myapp.com
 115.25.209.49 down.myapp.com
 115.25.209.49 down.qq.com
+115.25.209.46 c.isdspeed.qq.com
+59.78.209.143 isdspeed.qq.com
 58.205.220.10 dldir1.qq.com
 58.205.220.60 dldir2.qq.com
 58.205.220.57 dldir3.qq.com
@@ -122,10 +124,45 @@
 58.205.214.193 dlied2.qq.com
 58.205.220.10 dlied5.qq.com
 115.25.209.49 dlied6.qq.com
+58.205.220.25 imgcache.qq.com
 58.205.220.27 lol.qq.com
 58.205.220.27 cf.qq.com
 58.205.220.7 music.qq.com
+58.205.220.7 vip.music.qq.com
 58.205.220.7 y.qq.com
+58.205.220.30 imgcache.gtimg.cn
+58.205.220.28 i.gtimg.cn
+163.177.216.28 jqmt.qq.com
+210.39.4.20 stream1.qqmusic.qq.com
+210.39.4.20 stream2.qqmusic.qq.com
+210.39.4.20 stream3.qqmusic.qq.com
+210.39.4.20 stream4.qqmusic.qq.com
+210.39.4.20 stream5.qqmusic.qq.com
+210.39.4.20 stream6.qqmusic.qq.com
+210.39.4.20 stream7.qqmusic.qq.com
+210.39.4.20 stream8.qqmusic.qq.com
+210.39.4.20 stream9.qqmusic.qq.com
+210.39.4.20 stream10.qqmusic.qq.com
+210.39.4.20 stream11.qqmusic.qq.com
+210.39.4.20 stream12.qqmusic.qq.com
+210.39.4.20 stream13.qqmusic.qq.com
+210.39.4.20 stream14.qqmusic.qq.com
+210.39.4.20 stream15.qqmusic.qq.com
+210.39.4.20 stream16.qqmusic.qq.com
+210.39.4.20 stream17.qqmusic.qq.com
+210.39.4.20 stream18.qqmusic.qq.com
+210.39.4.20 stream19.qqmusic.qq.com
+210.39.4.20 stream20.qqmusic.qq.com
+210.39.4.20 stream21.qqmusic.qq.com
+210.39.4.20 stream22.qqmusic.qq.com
+210.39.4.20 stream23.qqmusic.qq.com
+210.39.4.20 stream24.qqmusic.qq.com
+210.39.4.20 stream25.qqmusic.qq.com
+210.39.4.20 stream26.qqmusic.qq.com
+210.39.4.20 stream27.qqmusic.qq.com
+210.39.4.20 stream28.qqmusic.qq.com
+210.39.4.20 stream29.qqmusic.qq.com
+210.39.4.20 stream30.qqmusic.qq.com
 #12306
 2001:da8:215:4131::17 www.12306.cn
 2001:da8:215:4131::17 kyfw.12306.cn
@@ -194,6 +231,19 @@
 101.4.138.81 wsacdn4.miaopai.com
 222.200.129.46 wscdn.miaopai.com
 222.200.129.46 wsqncdn.miaopai.com
+#zhihu
+121.194.7.21 pic3.zhimg.com
+121.194.7.21 pic4.zhimg.com
+#tietuku
+2400:cb00:2048:1::a29f:d00b i1.tietuku.com
+2400:cb00:2048:1::a29f:d00b i2.tietuku.com
+2400:cb00:2048:1::a29f:d00b i3.tietuku.com
+2400:cb00:2048:1::a29f:d00b i4.tietuku.com
+2400:cb00:2048:1::a29f:d00b i5.tietuku.com
+2400:cb00:2048:1::a29f:d00b i6.tietuku.com
+2400:cb00:2048:1::a29f:d00b i11.tietuku.com
+2400:cb00:2048:1::a29f:d00b i12.tietuku.com
+2400:cb00:2048:1::a29f:d00b i13.tietuku.com
 #JD.com
 58.205.217.1 www.jd.com
 58.205.217.1 book.jd.com
@@ -380,6 +430,7 @@
 2406:2000:108:2::1000 secure.flickr.com
 2406:2000:108:2::1000 m.flickr.com
 2406:2000:108:2::1000 heartbeat.flickr.com
+2406:2000:108:2::1000 flic.kr
 192.0.79.32 code.flickr.com
 106.10.137.23 static.flickr.com
 106.10.137.23 farm1.staticflickr.com
@@ -404,16 +455,21 @@
 #StackExchange
 2400:cb00:2048:1::6810:24f9 stackoverflow.com
 2400:cb00:2048:1::6810:24f9 blog.stackoverflow.com
+2400:cb00:2048:1::6810:24f9 ja.stackoverflow.com
+2400:cb00:2048:1::6810:24f9 pt.stackoverflow.com
+2400:cb00:2048:1::6810:24f9 ru.stackoverflow.com
 2400:cb00:2048:1::6810:76b6 stackexchange.com
 2400:cb00:2048:1::6810:76b6 academia.stackexchange.com
 2400:cb00:2048:1::6810:76b6 android.stackexchange.com
 2400:cb00:2048:1::6810:76b6 apple.stackexchange.com
 2400:cb00:2048:1::6810:76b6 area51.stackexchange.com
 2400:cb00:2048:1::6810:76b6 astronomy.stackexchange.com
+2400:cb00:2048:1::6810:76b6 aviation.stackexchange.com
 2400:cb00:2048:1::6810:76b6 bicycles.stackexchange.com
 2400:cb00:2048:1::6810:76b6 biology.stackexchange.com
 2400:cb00:2048:1::6810:76b6 chemistry.stackexchange.com
 2400:cb00:2048:1::6810:76b6 christianity.stackexchange.com
+2400:cb00:2048:1::6810:76b6 codegolf.stackexchange.com
 2400:cb00:2048:1::6810:76b6 cooking.stackexchange.com
 2400:cb00:2048:1::6810:76b6 cs.stackexchange.com
 2400:cb00:2048:1::6810:76b6 cstheory.stackexchange.com
@@ -422,6 +478,7 @@
 2400:cb00:2048:1::6810:76b6 drupal.stackexchange.com
 2400:cb00:2048:1::6810:76b6 economics.stackexchange.com
 2400:cb00:2048:1::6810:76b6 electronics.stackexchange.com
+2400:cb00:2048:1::6810:76b6 ell.stackexchange.com
 2400:cb00:2048:1::6810:76b6 english.stackexchange.com
 2400:cb00:2048:1::6810:76b6 expressionengine.stackexchange.com
 2400:cb00:2048:1::6810:76b6 gamedev.stackexchange.com
@@ -433,24 +490,45 @@
 2400:cb00:2048:1::6810:76b6 math.stackexchange.com
 2400:cb00:2048:1::6810:76b6 mathematica.stackexchange.com
 2400:cb00:2048:1::6810:76b6 meta.stackexchange.com
+2400:cb00:2048:1::6810:76b6 meta.academia.stackexchange.com
 2400:cb00:2048:1::6810:76b6 money.stackexchange.com
 2400:cb00:2048:1::6810:76b6 movies.stackexchange.com
+2400:cb00:2048:1::6810:76b6 outdoors.stackexchange.com
+2400:cb00:2048:1::6810:76b6 parenting.stackexchange.com
+2400:cb00:2048:1::6810:76b6 philosophy.stackexchange.com
 2400:cb00:2048:1::6810:76b6 photo.stackexchange.com
 2400:cb00:2048:1::6810:76b6 physics.stackexchange.com
+2400:cb00:2048:1::6810:76b6 pm.stackexchange.com
 2400:cb00:2048:1::6810:76b6 programmers.stackexchange.com
+2400:cb00:2048:1::6810:76b6 puzzling.stackexchange.com
+2400:cb00:2048:1::6810:76b6 raspberrypi.stackexchange.com
+2400:cb00:2048:1::6810:76b6 reverseengineering.stackexchange.com
 2400:cb00:2048:1::6810:76b6 rpg.stackexchange.com
 2400:cb00:2048:1::6810:76b6 salesforce.stackexchange.com
 2400:cb00:2048:1::6810:76b6 scifi.stackexchange.com
 2400:cb00:2048:1::6810:76b6 security.stackexchange.com
 2400:cb00:2048:1::6810:76b6 sharepoint.stackexchange.com
 2400:cb00:2048:1::6810:76b6 skeptics.stackexchange.com
+2400:cb00:2048:1::6810:76b6 softwarerecs.stackexchange.com
+2400:cb00:2048:1::6810:76b6 sound.stackexchange.com
+2400:cb00:2048:1::6810:76b6 space.stackexchange.com
+2400:cb00:2048:1::6810:76b6 spanish.stackexchange.com
+2400:cb00:2048:1::6810:76b6 sports.stackexchange.com
+2400:cb00:2048:1::6810:76b6 sqa.stackexchange.com
+2400:cb00:2048:1::6810:76b6 startups.stackexchange.com
 2400:cb00:2048:1::6810:76b6 stats.stackexchange.com
+2400:cb00:2048:1::6810:76b6 sustainability.stackexchange.com
 2400:cb00:2048:1::6810:76b6 tex.stackexchange.com
+2400:cb00:2048:1::6810:76b6 tor.stackexchange.com
 2400:cb00:2048:1::6810:76b6 travel.stackexchange.com
+2400:cb00:2048:1::6810:76b6 tridion.stackexchange.com
 2400:cb00:2048:1::6810:76b6 unix.stackexchange.com
 2400:cb00:2048:1::6810:76b6 ux.stackexchange.com
+2400:cb00:2048:1::6810:76b6 vi.stackexchange.com
+2400:cb00:2048:1::6810:76b6 video.stackexchange.com
 2400:cb00:2048:1::6810:76b6 webapps.stackexchange.com
 2400:cb00:2048:1::6810:76b6 webmasters.stackexchange.com
+2400:cb00:2048:1::6810:76b6 windowsphone.stackexchange.com
 2400:cb00:2048:1::6810:76b6 wordpress.stackexchange.com
 2400:cb00:2048:1::6810:76b6 workplace.stackexchange.com
 2400:cb00:2048:1::6810:76b6 worldbuilding.stackexchange.com
@@ -462,6 +540,9 @@
 2400:cb00:2048:1::6810:70bc askubuntu.com
 2400:cb00:2048:1::6810:30e8 serverfault.com
 2400:cb00:2048:1::6810:30ec mathoverflow.net
+2400:cb00:2048:1::6819:cc12 mathjax.org
+2400:cb00:2048:1::6819:cc12 www.mathjax.org
+2400:cb00:2048:1::6819:cc12 cdn.mathjax.org
 2400:cb00:2048:1::6810:5afe i.stack.imgur.com
 2406:da00:ff00::36e1:a91d s.stack.imgur.com
 2406:da00:ff00::36e1:a91d stack.imgur.com
@@ -524,11 +605,29 @@
 2600:1417:9:192::798 secure-a.vimeocdn.com
 2600:1417:9:192::798 secure-b.vimeocdn.com
 2600:1417:9:192::798 secure-c.vimeocdn.com
+#GitHub
+2406:da00:ff00::6b15:d598 status.github.com
+2406:da00:ff00::36f3:5a75 git.io
+192.30.252.143 gist.github.com
+185.31.17.133 help.github.com
+185.31.17.133 assets-cdn.github.com
+185.31.17.133 pages.github.com
+185.31.17.133 avatars0.githubusercontent.com
+185.31.17.133 avatars1.githubusercontent.com
+185.31.17.133 avatars2.githubusercontent.com
+185.31.17.133 avatars3.githubusercontent.com
+185.31.17.133 camo.githubusercontent.com
+185.31.17.133 raw.githubusercontent.com
+185.31.17.133 cloud.githubusercontent.com
+185.31.17.249 github.global.ssl.fastly.net
+185.31.17.249 github-camo.global.ssl.fastly.net
 #DigitalOcean
-2400:cb00:2048:1::8d65:7208 digitalocean.com
+2400:cb00:2048:1::6810:507d digitalocean.com
 2400:cb00:2048:1::6810:1904 www.digitalocean.com
 2400:cb00:2048:1::6810:1904 api.digitalocean.com
 2400:cb00:2048:1::6810:1904 cloud.digitalocean.com
+185.31.17.249 cloud-cdn-digitalocean-com.global.ssl.fastly.net
+185.31.17.249 community-cdn-digitalocean-com.global.ssl.fastly.net
 #Steam
 #2600:1417:9:192::3a7 forums.steampowered.com
 #2600:1417:9:192::3a7 steamcommunity.com
@@ -565,9 +664,9 @@
 2406:da00:ff00::b849:fefa beacon.flipboard.com
 2406:da00:ff00::b849:fefa fbprod.flipboard.com
 ## Google.com
-2001:4860:4860::8888 google-public-dns-a.google.com
-2001:4860:4860::8844 google-public-dns-b.google.com
 2404:6800:4005:800::2000 abc.xyz
+202.86.162.177 google.com
+202.86.162.177 www.google.com
 2404:6800:4005:800::2000 google.com
 2404:6800:4005:800::2004 www.google.com
 2404:6800:4005:800::2000 admin.google.com
@@ -576,7 +675,7 @@
 2404:6800:4005:800::2000 bpui0.google.com
 2404:6800:4005:800::2000 clients1.google.com
 2404:6800:4005:800::2000 clients2.google.com
-#2404:6800:4005:800::2000 clients3.google.com
+2404:6800:4005:800::2000 clients3.google.com
 2404:6800:4005:800::2000 clients4.google.com
 2404:6800:4005:800::2000 clients5.google.com
 2404:6800:4005:800::2000 clients6.google.com
@@ -647,7 +746,9 @@
 2404:6800:4005:800::2008 googletagmanager.com
 2404:6800:4005:800::2008 www.googletagmanager.com #www-googletagmanager.l.google.com
 ## 谷歌香港
+202.86.162.177 google.com.hk
 2404:6800:4005:800::2000 google.com.hk
+202.86.162.177 www.google.com.hk
 2404:6800:4005:800::2000 www.google.com.hk #www-wide.l.google.com
 2404:6800:4005:800::2000 accounts.google.com.hk #accounts-cctld.l.google.com
 2404:6800:4005:800::2000 clients1.google.com.hk #clients-cctld.l.google.com
@@ -863,7 +964,6 @@
 2404:6800:4005:800::2001 webmproject.blogspot.com
 2404:6800:4005:800::2001 www.google-opensource.blogspot.com
 2404:6800:4005:800::2001 youtube-global.blogspot.com
-2404:6800:4005:800::2001 program-think.blogspot.com
 ## Books 图书
 2404:6800:4005:800::2000 books.google.com
 2404:6800:4005:800::2000 books.google.com.hk
@@ -1187,7 +1287,7 @@
 2404:6800:4005:800::2000 talkgadget.google.com #talkgadget.l.google.com
 #2404:6800:4008:c00::62 rtmp0.google.com
 #2404:6800:4008:c00::62 users.talk.google.com
-#2404:6800:4003:c02::bc mtalk.google.com mobile-gtalk.l.google.com
+2404:6800:4003:c02::bc mtalk.google.com mobile-gtalk.l.google.com
 ## Tools 工具
 2404:6800:4005:800::2000 tools.google.com #tools.l.google.com
 2404:6800:4005:800::2000 toolbar.google.com #tools.l.google.com
@@ -1271,7 +1371,7 @@
 2404:6800:4005:809::2001 gp6.googleusercontent.com
 ## GStatic Google 静态文件存储
 2404:6800:4005:808::2003 accounts.gstatic.com
-2404:6800:4005:800::2000 csi.gstatic.com csi-china.l.google.com
+2404:6800:4005:800::2003 csi.gstatic.com
 2404:6800:4005:809::2003 fonts.gstatic.com
 2404:6800:4005:809::2003 maps.gstatic.com
 2404:6800:4005:809::2003 ssl.gstatic.com
@@ -1298,10 +1398,9 @@
 2404:6800:4005:80b::2004 t3.gstatic.com
 ## Google APIs 开发接口服务
 2404:6800:4005:800::2000 apis.google.com
-#2404:6800:4005:800::2000 chart.apis.google.com
+2401:3800:4001::1 chart.apis.google.com
 2404:6800:4005:800::2000 googleapis.com
 2404:6800:4005:800::200a www.googleapis.com
-2404:6800:4005:800::200a *.googleapis.com
 2404:6800:4005:800::200a ajax.googleapis.com
 2404:6800:4005:800::200a android.googleapis.com
 2404:6800:4005:800::200a bigcache.googleapis.com
@@ -1343,11 +1442,10 @@
 ## Analytics 分析
 2404:6800:4005:800::2000 www.google-analytics.com #www-google-analytics.l.google.com
 2404:6800:4005:800::2000 ssl.google-analytics.com #ssl-google-analytics.l.google.com
-#2404:6800:4008:c00::61 *.google-analytics.com
 2404:6800:4005:800::2000 service.urchin.com #www-google-analytics.l.google.com
 2404:6800:4005:800::2000 analytics.google.com
 ## Google Art Project
-2404:6800:4005:800::2000 www.googleartproject.com
+2401:3800:4001::1 www.googleartproject.com
 2404:6800:4005:800::2011 art-project-media.appspot.com
 ## FeedBurner
 2404:6800:4005:800::2000 feedburner.google.com
@@ -1392,8 +1490,8 @@
 2001:4860:4802:38::15 blog.webmproject.org
 2001:4860:4802:38::15 www.webm-ccl.org
 ## GoogleZip 数据压缩代理
-#2001:4860:4802:32::1d check.googlezip.net
-#2404:6800:4005:80a::200c compress.googlezip.net
+2001:4860:4802:32::1d check.googlezip.net
+2404:6800:4005:80a::200c compress.googlezip.net
 2404:6800:4005:809::200c proxy.googlezip.net
 2404:6800:4005:809::200c proxy-dev.googlezip.net
 ## Chrome 相关专题网站
@@ -1403,8 +1501,8 @@
 2001:4860:4802:38::15 vr.chromeexperiments.com
 2001:4860:4802:38::15 www.20thingsilearned.com
 ## IPv6 专题
-#2404:6800:4008:c00::63 ipv6test.google.com #ipv6test.l.google.com
-#2404:6800:4008:c00::63 ipv4.google.com #ipv4.l.google.com
+202.86.162.177 ipv6test.google.com #ipv6test.l.google.com
+202.86.162.177 ipv4.google.com #ipv4.l.google.com
 2404:6800:4005:80b::2004 ds.ipv6test.google.com #ds.ipv6test.l.google.com
 2404:6800:4005:800::2000 i2.ds.ipv6-exp.l.google.com
 2607:f8b0:400e:c01::97 chrome.googleechotest.com #chromeecho.l.google.com
@@ -1435,149 +1533,27 @@
 2001:4860:4802:32::1d nic.google
 2001:4860:4802:32::1d registry.google
 2404:6800:4005:800::2000 www.registry.google
-## l.google.com
-2404:6800:4005:800::2000 www.l.google.com
-2404:6800:4003:809::2004 www2.l.google.com
-2404:6800:4005:800::2000 www3.l.google.com #www3-china.l.google.com
-2404:6800:4003:c00::76 www4.l.google.com
-2404:6800:4008:c01::54 accounts.l.google.com #accounts-china.l.google.com
-2404:6800:4005:808::2003 accounts-cctld.l.google.com
-#2404:6800:4008:c00::62 afd.l.google.com
-2404:6800:4008:c01::7d alt1.talk.l.google.com
-2404:6800:4003:c00::76 android-market.l.google.com
-2404:6800:4005:800::2000 android.l.google.com
-#2404:6800:4008:c00::64 android-china.l.google.com
-2404:6800:4008:c01::70 adwords.l.google.com #adwords-china.l.google.com
-2404:6800:4005:800::2011 appspot.l.google.com
-2404:6800:4003:c00::1a aspmx.l.google.com
-2404:6800:4005:80b::2007 b.googlemail.l.google.com
-2404:6800:4005:800::2000 bandaid-redirector.l.google.com
-2404:6800:4005:808::2009 blogger.l.google.com
-2404:6800:4005:800::2000 bloggerphotos.l.google.com
-#2607:f8b0:4007:804::100b blogspot.l.google.com
-#2404:6800:4008:c00::66 browsersync.l.google.com
-2404:6800:4005:800::2007 browserchannel-docs.l.google.com
 2401:3800:4001::1 cache.l.google.com
-2404:6800:4003:c02::8b cbk.l.google.com
-2404:6800:4005:800::2000 code.l.google.com
-#2404:6800:4008:c00::73 checkout.l.google.com
-2607:f8b0:400e:c01::97 chromeecho.l.google.com
-2404:6800:4005:800::2000 clients.l.google.com #clients-china.l.google.com
-2404:6800:4005:809::2003 clients-cctld.l.google.com
-2a00:1450:4016:802::1017 csi.l.google.com
-#2404:6800:4008:c00::68 desktop.l.google.com
-2404:6800:4008:c04::5d dl.l.google.com
-2404:6800:4003:c02::5b dl-ssl.l.google.com
-2404:6800:4005:800::2000 ds.ipv6test.l.google.com
-2404:6800:4005:800::2000 encrypted-tbn.l.google.com
-2404:6800:4005:800::2000 gadgets.l.google.com
-2404:6800:4003:c01::6c gmail-imap.l.google.com
-2404:6800:4003:c00::6c gmail-pop.l.google.com
-2607:f8b0:4001:c07::6c gmail-smtp.l.google.com
-2404:6800:4003:c01::1a gmail-smtp-in.l.google.com
-2404:6800:4003:c00::6d gmail-smtp-msa.l.google.com
-2001:4860:4802:38::15 ghs.l.google.com
-2001:4860:4802:38::15 ghs46.l.google.com
-2404:6800:4003:c00::e gmr-smtp-in.l.google.com
-2404:6800:4005:800::200a googleapis.l.google.com
-#2404:6800:4008:c00::5f googleapis-ajax.l.google.com
-2404:6800:4003:c01::52 googlecode.l.google.com
-2404:6800:4005:800::2001 googlehosted.l.google.com
-2404:6800:4005:80b::2005 googlemail.l.google.com #mail-china.l.google.com
-2404:6800:4003:c02::10 googlemail-imap.l.google.com
-2404:6800:4003:c00::10 googlemail-pop.l.google.com
-2404:6800:4003:c01::10 googlemail-smtp.l.google.com
-2404:6800:4005:800::2000 groups.l.google.com #groups-china.l.google.com
-2404:6800:4005:800::2000 history.l.google.com
-2404:6800:4005:80b::2003 id.l.google.com
-2404:6800:4005:800::2000 images.l.google.com
-#2404:6800:4008:c00::63 ipv4.l.google.com
-2404:6800:4005:800::2000 ipv6.l.google.com
-#2404:6800:4008:c00::63 ipv6test.l.google.com
-2404:6800:4008:c02::be keyhole.l.google.com
-2404:6800:4008:c04::5d kh.l.google.com
-2404:6800:4005:800::2000 khm.l.google.com
-2404:6800:4005:800::2000 khmdb.l.google.com
-2404:6800:4005:800::2000 khms.l.google.com #khms-china.l.google.com
-2404:6800:4005:80a::200f large-uploads.l.google.com
-2404:6800:4005:800::2000 lh2.l.google.com
-2404:6800:4005:800::2000 maps.l.google.com #maps-china.l.google.com
-2404:6800:4005:80b::2003 maps-cctld.l.google.com
-2404:6800:4005:808::200b mobile.l.google.com
-2404:6800:4003:c02::bc mobile-gtalk.l.google.com
-2404:6800:4005:800::2000 mt.l.google.com
-2404:6800:4005:800::2000 mts.l.google.com #mts-china.l.google.com
-2404:6800:4005:80b::2001 music-china.l.google.com
-2404:6800:4003:c02::74 music-streaming.l.google.com
-2404:6800:4003:c00::76 mw-medium.l.google.com
-2404:6800:4003:c01::76 mw-small.l.google.com
-2404:6800:4005:800::2000 news.l.google.com
-2404:6800:4003:c01::57 orkut-fe.l.google.com
-2404:6800:4003:c02::56 orkut-images.l.google.com
-2404:6800:4003:c02::57 orkut-opensocial.l.google.com
-2404:6800:4003:c01::55 orkut-promote.l.google.com
-2404:6800:4003:c02::55 orkut-static.l.google.com
-#2404:6800:4008:c00::9a pagead.l.google.com
-2404:6800:4005:800::2001 pagead-tpc.l.google.com
-2404:6800:4005:800::2001 pagead-googlehosted.l.google.com
-#2404:6800:4008:c00::9a partnerad.l.google.com
-2404:6800:4005:800::2000 picasaweb.l.google.com
-2404:6800:4005:800::2000 plus.l.google.com #plus-china.l.google.com
-#2607:f8b0:4007:804::100c photos-ugc.l.google.com
-2404:6800:4003:c00::451 sandbox.l.google.com
-2404:6800:4005:800::2000 safebrowsing.cache.l.google.com
-2a00:1450:4001:80a::1003 sb.l.google.com
-2404:6800:4003:c01::5b sb-ssl.l.google.com
-2404:6800:4005:800::2000 scholar.l.google.com
-#2404:6800:4008:c00::66 sketchup.l.google.com
-2404:6800:4005:800::2000 spreadsheets.l.google.com #spreadsheets-china.l.google.com
-2404:6800:4005:800::2000 spreadsheets-china.l.google.com
-2404:6800:4005:809::200f sslvideo-upload.l.google.com
-2404:6800:4005:800::2008 ssl-google-analytics.l.google.com
-2607:f8b0:4005:400::17 static.cache.l.google.com
-2404:6800:4005:800::2000 suggestqueries.l.google.com
-2404:6800:4005:800::2000 tbn.l.google.com
-#2607:f8b0:400e:c04::7d talk.l.google.com
-2404:6800:4005:800::2000 talkgadget.l.google.com
-2404:6800:4008:c01::7d talkx.l.google.com #alt1.talk.l.google.com
-2404:6800:4005:800::2000 toolbarqueries.l.google.com
-2404:6800:4003:808::1001 tools.l.google.com #tools-china.l.google.com
-2404:6800:4003:c00::71 video.l.google.com #video-china.l.google.com
-2404:6800:4005:800::2000 video-stats.l.google.com
-2404:6800:4003:806::1000 video-analytics.l.google.com
-2404:6800:4005:800::2000 video-thumbnails.l.google.com
-#2607:f8b0:400e:c04::7b wifi.l.google.com
-2404:6800:4005:800::2000 writely.l.google.com #writely-china.l.google.com
-#2404:6800:4008:c00::62 writely-com.l.google.com
-2404:6800:4005:800::2000 writely-china.l.google.com
-2404:6800:4005:800::2008 www-google-analytics.l.google.com
-2404:6800:4005:800::2008 www-googletagmanager.l.google.com
-2404:6800:4005:800::2000 www-wide.l.google.com
-2404:6800:4005:800::2000 youtube-ui.l.google.com #youtube-ui-china.l.google.com
-2404:6800:4005:80a::200f yt-video-upload.l.google.com
-2404:6800:4005:800::2000 ytimg.l.google.com
-2404:6800:4005:800::2000 ytstatic.l.google.com
 ## AdWords/AdSense 广告服务
-#2404:6800:4008:c00::62 www.googlesyndication.com
-#2404:6800:4008:c00::9a www.googleadservices.com #pagead.l.doubleclick.net
-#2404:6800:4008:c00::9a domains.googlesyndication.com #pagead.l.doubleclick.net
+2404:6800:4008:c00::62 www.googlesyndication.com
+2404:6800:4008:c00::9a www.googleadservices.com #pagead.l.doubleclick.net
+2404:6800:4008:c00::9a domains.googlesyndication.com #pagead.l.doubleclick.net
 2404:6800:4005:800::2000 pagead2.googlesyndication.com #pagead46.l.doubleclick.net
 2404:6800:4008:c03::70 adwords.google.com #adwords.l.google.com
 2404:6800:4008:c01::70 adwords.google.sk #adwords.l.google.com
-#2404:6800:4008:c00::9a partner.googleadservices.com #partnerad.l.doubleclick.net
-#2404:6800:4008:c00::62 pagead.google.com
-#2404:6800:4008:c00::9a pagead2.googleadservices.com #pagead.l.doubleclick.net
+2404:6800:4008:c00::9a partner.googleadservices.com #partnerad.l.doubleclick.net
+2404:6800:4008:c00::9a pagead2.googleadservices.com #pagead.l.doubleclick.net
 2404:6800:4005:800::2000 buttons.googlesyndication.com #www.google.com
 2404:6800:4001:802::100c tpc.googlesyndication.com #pagead-googlehosted.l.google.com
 ## Android Google 移动操作系统
-2404:6800:4005:800::2000 www.android.com
-2404:6800:4005:800::2000 android.com
-2404:6800:4005:800::2000 connectivitycheck.android.com
-2404:6800:4005:800::2000 developer.android.com
-2404:6800:4005:800::2000 source.android.com
-2404:6800:4005:800::2000 market.android.com #android-market.l.google.com
-2001:4860:4802:38::15 tools.android.com
-#2404:6800:4005:800::2000 android.clients.google.com #android.l.google.com
+2404:6800:4005:800::201f www.android.com
+2404:6800:4005:800::201f android.com
+2404:6800:4005:800::201f connectivitycheck.android.com
+2404:6800:4005:800::201f developer.android.com
+2404:6800:4005:800::201f source.android.com
+2404:6800:4005:800::201f market.android.com #android-market.l.google.com
+2001:4860:4802:32::15 tools.android.com
+2404:6800:4005:809::2000 android.clients.google.com #android.l.google.com
 2404:6800:4005:800::2000 play.google.com #play.l.google.com
 ## GoogleUserContent 用户自定义的Google服务 googlehosted.l.googleusercontent.com
 2404:6800:4005:800::2001 www.googleusercontent.com
@@ -1948,17 +1924,9 @@
 2404:6800:4005:800::2001 40-wave-opensocial.googleusercontent.com
 ## YouTube
 2404:6800:4005:800::2000 youtube.com
-2404:6800:4005:800::2000 www.youtube.com #youtube-ui.l.google.com
-#2404:6800:4005:800::2000 au.youtube.com #youtube-ui.l.google.com
-#2404:6800:4005:800::2000 ca.youtube.com #youtube-ui.l.google.com
-#2404:6800:4005:800::2000 de.youtube.com #youtube-ui.l.google.com
-#2404:6800:4005:800::2000 fr.youtube.com #youtube-ui.l.google.com
-#2404:6800:4005:800::2000 jp.youtube.com #youtube-ui.l.google.com
-#2404:6800:4005:800::2000 ru.youtube.com #youtube-ui.l.google.com
-#2404:6800:4005:800::2000 uk.youtube.com #youtube-ui.l.google.com
-#2404:6800:4005:800::2000 tw.youtube.com #youtube-ui.l.google.com
-#2404:6800:4005:800::2000 ads.youtube.com
+2404:6800:4005:800::2000 www.youtube.com
 2404:6800:4005:800::2000 www.youtube-nocookie.com #youtube-ui.l.google.com
+2404:6800:4005:800::2000 music.youtube.com
 2404:6800:4005:800::2000 m.youtube.com
 2404:6800:4005:800::2000 youtu.be
 2404:6800:4005:800::2000 gdata.youtube.com
@@ -2007,6 +1975,8 @@
 2400:cb00:2048:1::8d65:71e6 js.intercomcdn.com
 2400:cb00:2048:1::681c:45a www.chuantu.biz
 2400:cb00:2048:1::681c:45a chuantu.biz
+2600:1417:9:192::aef sb.scorecardresearch.com
+2607:f298:4:143:acce:55:0:1 objects.dreamhost.com
 #Twitter
 2001:778:0:ffff:64::68f4:2a01 twitter.com
 2001:778:0:ffff:64::68f4:2a01 www.twitter.com
