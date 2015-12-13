@@ -108,6 +108,7 @@
 2400:da00::dbf:0:6666 cm.dl2.baidupcs.com
 #Tencent
 115.25.209.39 www.qq.com
+115.25.209.97 t.qq.com
 2600:1417:9::b833:f99 dd.myapp.com
 2600:1417:9::b833:f99 down.myapp.com
 2600:1417:9::b833:f99 down.qq.com
@@ -117,6 +118,14 @@
 58.205.220.10 dldir1.qq.com
 58.205.220.60 dldir2.qq.com
 58.205.220.57 dldir3.qq.com
+58.205.220.63 dlied1.qq.com
+58.205.214.193 dlied2.qq.com
+58.205.220.10 dlied5.qq.com
+115.25.209.49 dlied6.qq.com
+58.205.220.27 lol.qq.com
+58.205.220.27 cf.qq.com
+58.205.220.7 music.qq.com
+58.205.220.7 y.qq.com
 #12306
 2001:da8:215:4131::17 www.12306.cn
 2001:da8:215:4131::17 kyfw.12306.cn
