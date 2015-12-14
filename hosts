@@ -244,6 +244,12 @@
 2400:cb00:2048:1::a29f:d00b i11.tietuku.com
 2400:cb00:2048:1::a29f:d00b i12.tietuku.com
 2400:cb00:2048:1::a29f:d00b i13.tietuku.com
+#tianqi.com
+2001:da8:215:4131::17 www.tianqi.com
+2001:da8:215:4131::17 img.tianqi.com
+122.13.161.237 i.tianqi.com
+#iciba
+2001:da8:215:4131::17 cdn.iciba.com
 #JD.com
 58.205.217.1 www.jd.com
 58.205.217.1 book.jd.com
@@ -406,6 +412,20 @@
 2600:1417:9:192::b22 store.apple.com
 2600:1417:9:192::1477 store.storeimages.cdn-apple.com
 2600:1417:9:192::117e www.icloud.com
+#SAMSUNG
+2600:1417:9:192::6ba www.samsung.com
+2600:1417:9:192::6ba cdn.samsung.com
+2600:1417:9:192::1e0b store.samsung.com
+2600:1417:9::6007:3620 downloadcenter.samsung.com
+#HTC
+2600:1417:9:192::af5 www.htc.com
+2600:1417:9::b833:f7c dl2.htc.com
+2600:1417:9::b833:f7c dl3.htc.com
+2600:1417:9::b833:f7c dl4.htc.com
+#XiaoMI
+2001:da8:215:4131::17 file.market.xiaomi.com
+2001:da8:215:4131::17 s1.mi.com
+121.195.115.23 bigota.d.miui.com
 #Reddit
 2400:cb00:2048:1::c629:d188 reddit.com
 2400:cb00:2048:1::c629:d188 www.reddit.com
@@ -430,7 +450,6 @@
 2406:2000:108:2::1000 secure.flickr.com
 2406:2000:108:2::1000 m.flickr.com
 2406:2000:108:2::1000 heartbeat.flickr.com
-2406:2000:108:2::1000 flic.kr
 192.0.79.32 code.flickr.com
 106.10.137.23 static.flickr.com
 106.10.137.23 farm1.staticflickr.com
