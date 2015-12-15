@@ -234,6 +234,11 @@
 #zhihu
 121.194.7.21 pic3.zhimg.com
 121.194.7.21 pic4.zhimg.com
+2001:da8:215:4131::17 z0.zhimg.com
+2001:da8:215:4131::17 z1.zhimg.com
+2001:da8:215:4131::17 z2.zhimg.com
+2001:da8:215:4131::17 z3.zhimg.com
+2001:da8:215:4131::17 z4.zhimg.com
 #tietuku
 2400:cb00:2048:1::a29f:d00b i1.tietuku.com
 2400:cb00:2048:1::a29f:d00b i2.tietuku.com
@@ -250,6 +255,15 @@
 122.13.161.237 i.tianqi.com
 #iciba
 2001:da8:215:4131::17 cdn.iciba.com
+#WooYun
+2400:cb00:2048:1::a29f:d035 wooyun.org
+2400:cb00:2048:1::a29f:d035 www.wooyun.org
+2400:cb00:2048:1::a29f:d035 drops.wooyun.org
+2400:cb00:2048:1::a29f:d035 job.wooyun.org
+2400:cb00:2048:1::a29f:d035 wiki.wooyun.org
+2400:cb00:2048:1::a29f:d035 zone.wooyun.org
+210.32.125.40 static.wooyun.org
+210.32.125.40 wooyun.b0.upaiyun.com
 #JD.com
 58.205.217.1 www.jd.com
 58.205.217.1 book.jd.com
@@ -434,6 +448,10 @@
 2400:cb00:2048:1::c629:d196 www.redditmedia.com
 2400:cb00:2048:1::6810:6c19 a.thumbs.redditmedia.com
 2400:cb00:2048:1::6810:6c19 b.thumbs.redditmedia.com
+2400:cb00:2048:1::6810:6c19 c.thumbs.redditmedia.com
+2400:cb00:2048:1::6810:6c19 d.thumbs.redditmedia.com
+2400:cb00:2048:1::6810:6c19 e.thumbs.redditmedia.com
+2400:cb00:2048:1::6810:6c19 f.thumbs.redditmedia.com
 2400:cb00:2048:1::6810:461d i.redditmedia.com
 2406:da00:ff00::1715:7ab7 pixel.redditmedia.com
 # Gravatar
@@ -616,7 +634,7 @@
 2600:1417:9:192::b software.intel.com
 2600:1417:9:192::ae6 embedded.communities.intel.com
 #Vimeo
-185.31.17.249 vimeo-hp-videos.global.ssl.fastly.net
+23.235.43.249 vimeo-hp-videos.global.ssl.fastly.net
 2600:1417:9::6007:3661 skyfiregcs-a.akamaihd.net
 2600:1417:9::6007:3661 pdlvimeocdn-a.akamaihd.net
 2600:1417:9::6007:3661 pdl.vimeocdn.com
@@ -628,25 +646,25 @@
 2406:da00:ff00::6b15:d598 status.github.com
 2406:da00:ff00::36f3:5a75 git.io
 192.30.252.143 gist.github.com
-185.31.17.133 help.github.com
-185.31.17.133 assets-cdn.github.com
-185.31.17.133 pages.github.com
-185.31.17.133 avatars0.githubusercontent.com
-185.31.17.133 avatars1.githubusercontent.com
-185.31.17.133 avatars2.githubusercontent.com
-185.31.17.133 avatars3.githubusercontent.com
-185.31.17.133 camo.githubusercontent.com
-185.31.17.133 raw.githubusercontent.com
-185.31.17.133 cloud.githubusercontent.com
-185.31.17.249 github.global.ssl.fastly.net
-185.31.17.249 github-camo.global.ssl.fastly.net
+23.235.43.133 help.github.com
+23.235.43.133 assets-cdn.github.com
+23.235.43.133 pages.github.com
+23.235.43.133 avatars0.githubusercontent.com
+23.235.43.133 avatars1.githubusercontent.com
+23.235.43.133 avatars2.githubusercontent.com
+23.235.43.133 avatars3.githubusercontent.com
+23.235.43.133 camo.githubusercontent.com
+23.235.43.133 raw.githubusercontent.com
+23.235.43.133 cloud.githubusercontent.com
+23.235.43.249 github.global.ssl.fastly.net
+23.235.43.249 github-camo.global.ssl.fastly.net
 #DigitalOcean
 2400:cb00:2048:1::6810:507d digitalocean.com
 2400:cb00:2048:1::6810:1904 www.digitalocean.com
 2400:cb00:2048:1::6810:1904 api.digitalocean.com
 2400:cb00:2048:1::6810:1904 cloud.digitalocean.com
-185.31.17.249 cloud-cdn-digitalocean-com.global.ssl.fastly.net
-185.31.17.249 community-cdn-digitalocean-com.global.ssl.fastly.net
+23.235.43.249 cloud-cdn-digitalocean-com.global.ssl.fastly.net
+23.235.43.249 community-cdn-digitalocean-com.global.ssl.fastly.net
 #Steam
 #2600:1417:9:192::3a7 forums.steampowered.com
 #2600:1417:9:192::3a7 steamcommunity.com
@@ -2075,6 +2093,7 @@
 2606:2800:248:2f:1d8a:787:dc7:17df ton.twimg.com
 2606:2800:247:22e4:1f0b:18b4:207d:15b0 video.twimg.com
 2606:2800:248:5f:1d30:1967:1659:bd2 widgets.twimg.com
+2001:778:0:ffff:64::17eb:2bf9 discourse-cdn.global.ssl.fastly.net
 ## Facebook 脸谱网
 2a03:2880:f002:11d:face:b00c::25de facebook.com
 2a03:2880:f002:11d:face:b00c::25de www.facebook.com
