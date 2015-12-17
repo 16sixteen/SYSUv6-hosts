@@ -132,6 +132,7 @@
 58.205.220.7 y.qq.com
 58.205.220.30 imgcache.gtimg.cn
 58.205.220.28 i.gtimg.cn
+58.205.220.63 dl.url.cn
 163.177.216.28 jqmt.qq.com
 210.39.4.20 stream1.qqmusic.qq.com
 210.39.4.20 stream2.qqmusic.qq.com
@@ -845,6 +846,7 @@
 2404:6800:4005:800::2011 haiticrisis.appspot.com
 2404:6800:4005:800::2011 hstspreload.appspot.com
 2404:6800:4005:800::2011 i18napis.appspot.com
+2404:6800:4005:800::2011 ld-social-stats.appspot.com
 2404:6800:4005:800::2011 lfe-alpo-gm.appspot.com
 2404:6800:4005:800::2011 m-dot-betaspike.appspot.com
 2404:6800:4005:800::2011 moderator.appspot.com
@@ -883,6 +885,7 @@
 2404:6800:4005:800::2011 insideabbeyroad.withgoogle.com
 2404:6800:4005:800::2011 interstellar.withgoogle.com
 2404:6800:4005:800::2011 kickwithchrome.withgoogle.com
+2404:6800:4005:800::2011 lightsaber.withgoogle.com
 2404:6800:4005:800::2011 mapping.withgoogle.com
 2404:6800:4005:800::2011 nikhelp.withgoogle.com
 2404:6800:4005:800::2011 projectshield.withgoogle.com
@@ -1456,15 +1459,16 @@
 2404:6800:4005:800::200a safebrowsing.googleapis.com
 2404:6800:4005:800::200a translate.googleapis.com
 2404:6800:4005:800::200a youtube.googleapis.com
-#2404:6800:4008:c00::5f googleapis-ajax.google.com
-2404:6800:4005:800::2000 mt0.googleapis.com
-2404:6800:4005:800::2000 mt1.googleapis.com
-2404:6800:4005:800::2000 mt2.googleapis.com
-2404:6800:4005:800::2000 mt3.googleapis.com
+#2404:6800:4005:800::200a googleapis-ajax.google.com
+2404:6800:4005:800::200a mt0.googleapis.com
+2404:6800:4005:800::200a mt1.googleapis.com
+2404:6800:4005:800::200a mt2.googleapis.com
+2404:6800:4005:800::200a mt3.googleapis.com
 2404:6800:4005:800::200a mts0.googleapis.com
 2404:6800:4005:804::200a mts1.googleapis.com
 2404:6800:4005:800::200a mts2.googleapis.com
 2404:6800:4005:800::200a mts3.googleapis.com
+2404:6800:4005:800::200a beyond-pa.clients6.google.com
 ## Google Hosted 托管服务
 2404:6800:4005:800::2010 storage.googleapis.com
 2404:6800:4005:800::2010 commondatastorage.googleapis.com
@@ -1575,6 +1579,7 @@
 2001:4860:4802:32::1d registry.google
 2404:6800:4005:800::2000 www.registry.google
 2401:3800:4001::1 cache.l.google.com
+2404:6800:4008:c02::7f stun.l.google.com
 ## AdWords/AdSense 广告服务
 2404:6800:4008:c00::62 www.googlesyndication.com
 2404:6800:4008:c00::9a www.googleadservices.com #pagead.l.doubleclick.net
