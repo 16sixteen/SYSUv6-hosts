@@ -134,6 +134,7 @@
 58.205.220.28 i.gtimg.cn
 58.205.220.63 dl.url.cn
 163.177.216.28 jqmt.qq.com
+210.39.4.20 ws.stream.qqmusic.qq.com
 210.39.4.20 stream1.qqmusic.qq.com
 210.39.4.20 stream2.qqmusic.qq.com
 210.39.4.20 stream3.qqmusic.qq.com
@@ -1578,6 +1579,7 @@
 2001:4860:4802:32::1d nic.google
 2001:4860:4802:32::1d registry.google
 2404:6800:4005:800::2000 www.registry.google
+2404:6800:4005:800::2000 santatracker.google.com
 2401:3800:4001::1 cache.l.google.com
 2404:6800:4008:c02::7f stun.l.google.com
 ## AdWords/AdSense 广告服务
