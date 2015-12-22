@@ -432,6 +432,7 @@
 2600:1417:9:192::b22 store.apple.com
 2600:1417:9:192::1477 store.storeimages.cdn-apple.com
 2600:1417:9:192::117e www.icloud.com
+2600:1417:9::b833:fa9 appldnld.apple.com
 #SAMSUNG
 2600:1417:9:192::6ba www.samsung.com
 2600:1417:9:192::6ba cdn.samsung.com
@@ -578,6 +579,7 @@
 2400:cb00:2048:1::6810:68cc sstatic.net
 2400:cb00:2048:1::6810:68cc cdn.sstatic.net
 2400:cb00:2048:1::6810:68cc cdn-careers.sstatic.net
+2400:cb00:2048:1::6810:68cc cdn-prom.sstatic.net
 2400:cb00:2048:1::6810:5aec stackapps.com
 2400:cb00:2048:1::6810:20c1 superuser.com
 2400:cb00:2048:1::6810:70bc askubuntu.com
@@ -589,6 +591,8 @@
 2400:cb00:2048:1::6810:5afe i.stack.imgur.com
 2406:da00:ff00::36e1:a91d s.stack.imgur.com
 2406:da00:ff00::36e1:a91d stack.imgur.com
+#PasteBin
+2400:cb00:2048:1::6814:4038 pastebin.com
 #Lenovo
 2600:1417:9:192::79b download.lenovo.com
 #NVIDIA
@@ -2174,6 +2178,7 @@
 2a03:2880:f002:109:face:b00c::2 www.thefacebook.com
 ## fbcdn.net
 2a03:2880:f002:109:face:b00c::2 fbcdn.net
+2a03:2880:f002:110:face:b00c::3 staticxx.facebook.com
 2a03:2880:f002:110:face:b00c::3 scontent-a.xx.fbcdn.net
 2a03:2880:f002:110:face:b00c::3 scontent-b.xx.fbcdn.net
 2a03:2880:f00c:b:face:b00c::3 scontent-a-sin.xx.fbcdn.net
