@@ -80,7 +80,8 @@
 2400:da00::dbf:0:6666 hot.cdn.baidupcs.com
 2400:da00::dbf:0:6666 lx.cdn.baidupcs.com
 2400:da00::dbf:0:6666 small.cdn.baidupcs.com
-2400:da00::dbf:0:6666 ws.cdn.baidupcs.com
+#2400:da00::dbf:0:6666 ws.cdn.baidupcs.com
+115.156.188.143 ws.cdn.baidupcs.com
 2400:da00::dbf:0:6666 ce.cdn.baidupcs.com
 2400:da00::dbf:0:6666 bj.poms.baidupcs.com
 2400:da00::dbf:0:6666 nb.poms.baidupcs.com
@@ -110,8 +111,6 @@
 115.25.209.39 www.qq.com
 115.25.209.97 t.qq.com
 2600:1417:9::b833:f99 dd.myapp.com
-2600:1417:9::b833:f99 down.myapp.com
-2600:1417:9::b833:f99 down.qq.com
 115.25.209.49 dd.myapp.com
 115.25.209.49 down.myapp.com
 115.25.209.49 down.qq.com
@@ -124,6 +123,7 @@
 58.205.214.193 dlied2.qq.com
 58.205.220.10 dlied5.qq.com
 115.25.209.49 dlied6.qq.com
+180.88.62.125 dl.qq.com
 58.205.220.25 imgcache.qq.com
 58.205.220.27 lol.qq.com
 58.205.220.27 cf.qq.com
@@ -134,6 +134,7 @@
 58.205.220.28 i.gtimg.cn
 58.205.220.63 dl.url.cn
 163.177.216.28 jqmt.qq.com
+58.205.220.50 tsmusic128.tc.qq.com
 121.194.13.21 cc.stream.qqmusic.qq.com
 121.192.176.199 ws.stream.qqmusic.qq.com
 121.192.176.199 stream1.qqmusic.qq.com
@@ -169,9 +170,11 @@
 #12306
 2001:da8:215:4131::17 www.12306.cn
 2001:da8:215:4131::17 kyfw.12306.cn
-61.54.219.168 hyfw.12306.cn
-210.39.4.44 mobile.12306.cn
-210.39.4.52 epay.12306.cn
+116.57.77.35 www.12306.cn
+116.57.77.35 kyfw.12306.cn
+#61.54.219.168 hyfw.12306.cn
+#210.39.4.44 mobile.12306.cn
+#210.39.4.52 epay.12306.cn
 #Sina
 2001:da8:215:4131::17 tc.sinaimg.cn
 2001:da8:215:4131::17 ww1.sinaimg.cn
@@ -753,12 +756,14 @@
 23.235.43.249 cloud-cdn-digitalocean-com.global.ssl.fastly.net
 23.235.43.249 community-cdn-digitalocean-com.global.ssl.fastly.net
 #Steam
+2600:1417:9:192::3a7 api.steampowered.com
 #2600:1417:9:192::3a7 forums.steampowered.com
 #2600:1417:9:192::3a7 steamcommunity.com
 #2600:1417:9:192::3a7 store.steampowered.com
 #2600:1417:9:192::3a7 storefront.steampowered.com
 #2600:1417:9:192::3a7 help.steampowered.com
 2600:1417:9:192::3a7 support.steampowered.com
+2600:1417:9::b833:f5b repo.steampowered.com
 2600:1417:9::b833:f5b cdn.akamai.steamstatic.com
 2600:1417:9::b833:f5b store.akamai.steamstatic.com
 2600:1417:9::b833:f5b cdn.store.steampowered.com
