@@ -27,6 +27,7 @@
 222.199.191.47 dlsw.baidu.com
 222.199.191.47 dl1sw.baidu.com
 222.199.191.47 gdown.baidu.com
+222.199.191.47 w.gdown.baidu.com
 222.199.191.48 bdimg.share.baidu.com
 222.199.191.48 tb1.bdstatic.com
 222.199.191.48 tb2.bdstatic.com
@@ -109,12 +110,14 @@
 2400:da00::dbf:0:6666 cm.dl.baidupcs.com
 2400:da00::dbf:0:6666 cm.dl2.baidupcs.com
 #Tencent
+115.25.209.39 qq.com
 115.25.209.39 www.qq.com
 115.25.209.97 t.qq.com
 2600:1417:9::b833:f99 dd.myapp.com
 115.25.209.49 dd.myapp.com
 115.25.209.49 down.myapp.com
 115.25.209.49 down.qq.com
+115.25.209.49 down-update.qq.com
 115.25.209.46 c.isdspeed.qq.com
 59.78.209.143 isdspeed.qq.com
 59.78.209.151 wspeed.qq.com
@@ -139,8 +142,17 @@
 58.205.220.28 i.gtimg.cn
 60.206.195.26 offline.gtimg.cn
 58.205.220.63 dl.url.cn
+182.254.34.77 p.qlogo.cn
+182.254.5.153 q.qlogo.cn
+182.254.5.153 q1.qlogo.cn
+182.254.5.153 q2.qlogo.cn
+182.254.5.153 q3.qlogo.cn
+182.254.5.153 q4.qlogo.cn
 182.254.33.17 offline.qq.com
 182.254.33.126 mi.gdt.qq.com
+182.254.4.146 djt.qq.com
+112.90.142.6 zyx.qq.com
+203.195.142.12 cos.myqcloud.com
 163.177.216.28 jqmt.qq.com
 115.25.209.50 lives.l.qq.com
 115.25.209.76 mcgi.v.qq.com
@@ -248,10 +260,22 @@
 101.4.138.81 wsacdn2.miaopai.com
 101.4.138.81 wsacdn3.miaopai.com
 101.4.138.81 wsacdn4.miaopai.com
+101.4.138.51 lxqncdn.miaopai.com
 115.156.188.146 wscdn.miaopai.com
+115.156.188.146 wscdn.yixia.com
 115.156.188.146 wsqncdn.miaopai.com
+121.195.115.23 kwcdn.miaopai.com
+2001:da8:215:4131::17 qncdn.miaopai.com
+2001:da8:215:4131::17 dynimg1.yixia.com
+2001:da8:215:4131::17 dynimg2.yixia.com
+2001:da8:215:4131::17 dynimg3.yixia.com
+2001:da8:215:4131::17 dynimg4.yixia.com
 123.125.105.215 stream.yixia.com
+123.125.105.215 gslb.miaopai.com
 202.205.6.13 dlcdn.yixia.com
+202.205.6.13 dlqncdn.miaopai.com
+121.194.7.216 tbapi.ixianchuan.cn
+121.194.7.234 tbvideo.ixiaochuan.cn
 #NetEase
 2001:da8:215:4131::17 www.163.com
 2001:da8:215:4131::17 imgcdn.ph.126.net
@@ -270,16 +294,17 @@
 2001:da8:215:4131::17 p3.music.126.net
 2001:da8:215:4131::17 p4.music.126.net
 101.4.138.100 m1.music.126.net
-218.197.116.216 m2.music.126.net
-218.197.116.216 m3.music.126.net
-218.197.116.216 m4.music.126.net
+121.192.176.199 m2.music.126.net
+121.192.176.199 m3.music.126.net
+121.192.176.199 m4.music.126.net
 101.4.138.100 m5.music.126.net
 202.205.6.11 m7.music.126.net
-218.197.116.216 m8.music.126.net
+121.192.176.199 m8.music.126.net
 115.25.210.46 m9.music.126.net
 115.156.188.143 m10.music.126.net
-218.197.116.216 v2.music.126.net
-218.197.116.216 v3.music.126.net
+180.88.62.121 v1.music.126.net
+121.192.176.199 v2.music.126.net
+121.192.176.199 v3.music.126.net
 115.156.188.143 v4.music.126.net
 121.195.178.2 ip.ws.126.net
 #zhihu
