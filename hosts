@@ -24,6 +24,9 @@
 222.199.191.40 s2.bdstatic.com
 222.199.191.42 alcedo.jomodns.com
 222.199.191.46 cdn.baidupcs.com
+222.199.191.46 hot.cdn.baidupcs.com
+222.199.191.46 low.cdn.baidupcs.com
+222.199.191.46 qd2.cache.baidupcs.com
 222.199.191.47 dlsw.baidu.com
 222.199.191.47 dl1sw.baidu.com
 222.199.191.47 gdown.baidu.com
@@ -76,10 +79,11 @@
 2400:da00::dbf:0:6666 nb.cache.baidupcs.com
 2400:da00::dbf:0:6666 nj.cache.baidupcs.com
 2400:da00::dbf:0:6666 qd.cache.baidupcs.com
-2400:da00::dbf:0:6666 qd2.cache.baidupcs.com
-2400:da00::dbf:0:6666 cdn.baidupcs.com
+#2400:da00::dbf:0:6666 qd2.cache.baidupcs.com
+#2400:da00::dbf:0:6666 cdn.baidupcs.com
 2400:da00::dbf:0:6666 hot.cdn.baidupcs.com
-2400:da00::dbf:0:6666 lx.cdn.baidupcs.com
+#2400:da00::dbf:0:6666 lx.cdn.baidupcs.com
+180.88.62.125 lx.cdn.baidupcs.com
 2400:da00::dbf:0:6666 small.cdn.baidupcs.com
 #2400:da00::dbf:0:6666 ws.cdn.baidupcs.com
 115.156.188.143 ws.cdn.baidupcs.com
@@ -110,8 +114,6 @@
 2400:da00::dbf:0:6666 cm.dl.baidupcs.com
 2400:da00::dbf:0:6666 cm.dl2.baidupcs.com
 #Tencent
-115.25.209.39 qq.com
-115.25.209.39 www.qq.com
 115.25.209.97 t.qq.com
 2600:1417:9::b833:f99 dd.myapp.com
 115.25.209.49 dd.myapp.com
@@ -160,7 +162,7 @@
 115.25.209.76 like.video.qq.com
 182.254.110.44 videohy.tcdn.qq.com
 58.205.220.50 tsmusic128.tc.qq.com
-121.194.13.21 cc.stream.qqmusic.qq.com
+180.88.62.121 cc.stream.qqmusic.qq.com
 121.192.176.199 ws.stream.qqmusic.qq.com
 121.192.176.199 stream1.qqmusic.qq.com
 121.192.176.199 stream2.qqmusic.qq.com
@@ -236,6 +238,9 @@
 121.194.0.50 i1.sinaimg.cn
 121.194.0.50 i2.sinaimg.cn
 121.194.0.50 i3.sinaimg.cn
+222.192.186.40 us.sinaimg.cn
+211.162.55.7 us.sinaimg.cn
+211.162.174.83 h5.sinaimg.cn
 121.194.0.50 d0.sina.com.cn
 121.194.0.50 d1.sina.com.cn
 121.194.0.50 d2.sina.com.cn
@@ -275,6 +280,7 @@
 202.205.6.13 dlcdn.yixia.com
 202.205.6.13 dlqncdn.miaopai.com
 121.194.7.216 tbapi.ixianchuan.cn
+121.194.7.216 tbfile.ixianchuan.cn
 121.194.7.234 tbvideo.ixiaochuan.cn
 #NetEase
 2001:da8:215:4131::17 www.163.com
@@ -293,18 +299,25 @@
 2001:da8:215:4131::17 p2.music.126.net
 2001:da8:215:4131::17 p3.music.126.net
 2001:da8:215:4131::17 p4.music.126.net
-101.4.138.100 m1.music.126.net
+121.192.176.199 m1.music.126.net
+211.162.55.60 m1.music.126.net
 121.192.176.199 m2.music.126.net
+211.162.55.60 m2.music.126.net
 121.192.176.199 m3.music.126.net
+211.162.55.60 m3.music.126.net
 121.192.176.199 m4.music.126.net
-101.4.138.100 m5.music.126.net
+211.162.55.60 m4.music.126.net
+180.88.62.121 m5.music.126.net
 202.205.6.11 m7.music.126.net
 121.192.176.199 m8.music.126.net
+211.162.55.60 m8.music.126.net
 115.25.210.46 m9.music.126.net
 115.156.188.143 m10.music.126.net
 180.88.62.121 v1.music.126.net
 121.192.176.199 v2.music.126.net
+211.162.55.60 v2.music.126.net
 121.192.176.199 v3.music.126.net
+211.162.55.60 v3.music.126.net
 115.156.188.143 v4.music.126.net
 121.195.178.2 ip.ws.126.net
 #zhihu
@@ -319,6 +332,10 @@
 2001:da8:215:4131::17 z2.zhimg.com
 2001:da8:215:4131::17 z3.zhimg.com
 2001:da8:215:4131::17 z4.zhimg.com
+2001:da8:215:4131::17 p1.zhimg.com
+2001:da8:215:4131::17 p2.zhimg.com
+2001:da8:215:4131::17 p3.zhimg.com
+2001:da8:215:4131::17 p4.zhimg.com
 #tietuku
 2400:cb00:2048:1::a29f:d00b i1.tietuku.com
 2400:cb00:2048:1::a29f:d00b i2.tietuku.com
@@ -332,7 +349,7 @@
 #tianqi.com
 2001:da8:215:4131::17 www.tianqi.com
 2001:da8:215:4131::17 img.tianqi.com
-122.13.161.237 i.tianqi.com
+2001:da8:215:4131::17 i.tianqi.com
 #iciba
 2001:da8:215:4131::17 cdn.iciba.com
 #WooYun
@@ -513,10 +530,12 @@
 #SAMSUNG
 2600:1417:9:192::6ba www.samsung.com
 2600:1417:9:192::6ba cdn.samsung.com
+2600:1417:9:192::1e0b shop.samsung.com
 2600:1417:9:192::1e0b store.samsung.com
 2600:1417:9::6007:3620 downloadcenter.samsung.com
 #HTC
 2600:1417:9:192::af5 www.htc.com
+2600:1417:9:192::ada start.htc.com
 2600:1417:9::b833:f7c dl2.htc.com
 2600:1417:9::b833:f7c dl3.htc.com
 2600:1417:9::b833:f7c dl4.htc.com
@@ -573,6 +592,41 @@
 2406:2000:fc:402::c:2207 c7.staticflickr.com
 2406:2000:fc:402::c:2207 c8.staticflickr.com
 2406:2000:fc:402::c:2207 c9.staticflickr.com
+#PostImage
+2400:cb00:2048:1::6819:450e www.postimage.org
+2400:cb00:2048:1::6819:450e postimage.org
+2400:cb00:2048:1::6ca2:cc3c www.postimg.org
+2400:cb00:2048:1::6ca2:cc3c postimg.org
+2400:cb00:2048:1::6ca2:cc3c s1.postimg.org
+2400:cb00:2048:1::6ca2:cc3c s2.postimg.org
+2400:cb00:2048:1::6ca2:cc3c s3.postimg.org
+2400:cb00:2048:1::6ca2:cc3c s4.postimg.org
+2400:cb00:2048:1::6ca2:cc3c s5.postimg.org
+2400:cb00:2048:1::6ca2:cc3c s6.postimg.org
+2400:cb00:2048:1::6ca2:cc3c s7.postimg.org
+2400:cb00:2048:1::6ca2:cc3c s8.postimg.org
+2400:cb00:2048:1::6ca2:cc3c s9.postimg.org
+2400:cb00:2048:1::6ca2:cc3c s10.postimg.org
+2400:cb00:2048:1::6ca2:cc3c s11.postimg.org
+2400:cb00:2048:1::6ca2:cc3c s12.postimg.org
+2400:cb00:2048:1::6ca2:cc3c s13.postimg.org
+2400:cb00:2048:1::6ca2:cc3c s14.postimg.org
+2400:cb00:2048:1::6ca2:cc3c s15.postimg.org
+2400:cb00:2048:1::6ca2:cc3c s16.postimg.org
+2400:cb00:2048:1::6ca2:cc3c s17.postimg.org
+2400:cb00:2048:1::6ca2:cc3c s18.postimg.org
+2400:cb00:2048:1::6ca2:cc3c s19.postimg.org
+2400:cb00:2048:1::6ca2:cc3c s20.postimg.org
+2400:cb00:2048:1::6ca2:cc3c s21.postimg.org
+2400:cb00:2048:1::6ca2:cc3c s22.postimg.org
+2400:cb00:2048:1::6ca2:cc3c s23.postimg.org
+2400:cb00:2048:1::6ca2:cc3c s24.postimg.org
+2400:cb00:2048:1::6ca2:cc3c s25.postimg.org
+2400:cb00:2048:1::6ca2:cc3c s26.postimg.org
+2400:cb00:2048:1::6ca2:cc3c s27.postimg.org
+2400:cb00:2048:1::6ca2:cc3c s28.postimg.org
+2400:cb00:2048:1::6ca2:cc3c s29.postimg.org
+2400:cb00:2048:1::6ca2:cc3c s30.postimg.org
 #StackExchange
 2400:cb00:2048:1::6810:24f9 stackoverflow.com
 2400:cb00:2048:1::6810:24f9 blog.stackoverflow.com
@@ -783,6 +837,8 @@
 2600:1417:9::6007:3629 www.intel.com
 2600:1417:9::6007:3629 ark.intel.com
 2600:1417:9::6007:3629 corpredirect.intel.com
+2600:1417:9::6007:3629 pcdoeswhat.intel.cn
+2600:1417:9:192::75 newsroom.intel.cn
 2600:1417:9:192::b www-ssl.intel.com
 2600:1417:9:192::b communities.intel.com
 2600:1417:9:192::b downloadcenter.intel.com
@@ -792,6 +848,7 @@
 2600:1417:9:192::b newsroom.intel.com
 2600:1417:9:192::b software.intel.com
 2600:1417:9:192::ae6 embedded.communities.intel.com
+#2406:da00:ff00::1717:91fa api.intel.com
 #Vimeo
 23.235.43.249 vimeo-hp-videos.global.ssl.fastly.net
 2600:1417:9::6007:3661 skyfiregcs-a.akamaihd.net
@@ -802,8 +859,6 @@
 2600:1417:9:192::798 secure-b.vimeocdn.com
 2600:1417:9:192::798 secure-c.vimeocdn.com
 #GitHub
-2406:da00:ff00::6b15:d598 status.github.com
-2406:da00:ff00::36f3:5a75 git.io
 192.30.252.143 gist.github.com
 23.235.43.133 help.github.com
 23.235.43.133 assets-cdn.github.com
@@ -854,12 +909,12 @@
 2406:da00:ff00::1715:465a api.vineapp.com
 2406:da00:ff00::1715:465a config.vineapp.com
 2606:1f80:a000:100::4 edge.vncdn.co
-2606:1f80:a000:100::4 mid.vncdn.co
+2606:1f80:a000:100::11 mid.vncdn.co
 2606:1f80:a000:100::5 v.cdn.vine.co
 2606:1f80:a000:100::5 mtc.cdn.vine.co
 #FlipBoard
-2406:da00:ff00::36cc:f93 flipboard.com
-2406:da00:ff00::36cc:f93 www.flipboard.com
+2406:da00:ff00::36e1:9d3f flipboard.com
+2406:da00:ff00::36e1:9d3f www.flipboard.com
 2406:da00:ff00::36f3:9440 ue.flipboard.com
 2406:da00:ff00::36f3:9440 beacon.flipboard.com
 2406:da00:ff00::36f3:9440 fbprod.flipboard.com
