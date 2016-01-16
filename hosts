@@ -344,12 +344,12 @@
 115.156.188.143 v4.music.126.net
 121.195.178.2 ip.ws.126.net
 #zhihu
-2600:1417:9:192::1723 static.zhihu.com
-2600:1417:9:192::1723 zhstatic.zhihu.com
-2600:1417:9:192::1723 pic1.zhimg.com
-2600:1417:9:192::1723 pic2.zhimg.com
-2600:1417:9:192::1723 pic3.zhimg.com
-2600:1417:9:192::1723 pic4.zhimg.com
+121.194.7.21 zhstatic.zhihu.com
+211.161.127.27 pic1.zhimg.com
+211.161.127.27 pic2.zhimg.com
+211.161.127.27 pic3.zhimg.com
+211.161.127.27 pic4.zhimg.com
+211.161.127.27 static.zhihu.com
 2001:da8:215:4131::17 z0.zhimg.com
 2001:da8:215:4131::17 z1.zhimg.com
 2001:da8:215:4131::17 z2.zhimg.com
