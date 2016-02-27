@@ -107,7 +107,7 @@
 #2400:da00::dbf:0:6666 hot.cdn.baidupcs.com
 #2400:da00::dbf:0:6666 lx.cdn.baidupcs.com
 121.194.1.82 lx.cdn.baidupcs.com
-#2400:da00::dbf:0:6666 small.cdn.baidupcs.com
+119.75.219.40 small.cdn.baidupcs.com
 #2400:da00::dbf:0:6666 ws.cdn.baidupcs.com
 115.156.188.143 ws.cdn.baidupcs.com
 222.200.129.47 video.cdn.baidupcs.com
@@ -342,11 +342,11 @@
 121.195.178.2 ip.ws.126.net
 #zhihu
 121.194.7.21 zhstatic.zhihu.com
-211.161.127.27 pic1.zhimg.com
-211.161.127.27 pic2.zhimg.com
-211.161.127.27 pic3.zhimg.com
-211.161.127.27 pic4.zhimg.com
-211.161.127.27 static.zhihu.com
+121.194.7.21 pic1.zhimg.com
+121.194.7.21 pic2.zhimg.com
+121.194.7.21 pic3.zhimg.com
+121.194.7.21 pic4.zhimg.com
+121.194.7.21 static.zhihu.com
 2001:da8:215:4131::17 z0.zhimg.com
 2001:da8:215:4131::17 z1.zhimg.com
 2001:da8:215:4131::17 z2.zhimg.com
@@ -1313,9 +1313,9 @@
 2404:6800:4005:800::2000 directory.google.com
 2404:6800:4005:800::2000 dir.google.com #directory.google.com
 ## Docs 文档
-#2404:6800:4005:800::2001 googledrive.com
-#2404:6800:4005:800::2000 docs.google.com
-#2404:6800:4005:800::2000 drive.google.com
+2404:6800:4005:800::2001 googledrive.com
+2404:6800:4005:800::2000 docs.google.com
+2404:6800:4005:800::2000 drive.google.com
 2404:6800:4005:800::2000 docs0.google.com
 2404:6800:4005:800::2000 docs1.google.com
 2404:6800:4005:800::2000 docs2.google.com
@@ -1675,7 +1675,7 @@
 2404:6800:4005:80b::2004 t3.gstatic.com
 ## Google APIs 开发接口服务
 2404:6800:4005:800::2000 apis.google.com
-2401:3800:4001::1 chart.apis.google.com
+#2401:3800:4001::1 chart.apis.google.com
 2404:6800:4005:800::2000 googleapis.com
 2404:6800:4005:800::200a www.googleapis.com
 2404:6800:4005:800::200a ajax.googleapis.com
@@ -1723,7 +1723,7 @@
 2404:6800:4005:800::2000 service.urchin.com #www-google-analytics.l.google.com
 2404:6800:4005:800::2000 analytics.google.com
 ## Google Art Project
-2401:3800:4001::1 www.googleartproject.com
+#2401:3800:4001::1 www.googleartproject.com
 2404:6800:4005:800::2011 art-project-media.appspot.com
 ## FeedBurner
 2404:6800:4005:800::2000 feedburner.google.com
@@ -2207,6 +2207,7 @@
 2404:6800:4005:800::2000 www.youtube.com
 2404:6800:4005:800::2000 www.youtube-nocookie.com #youtube-ui.l.google.com
 2404:6800:4005:800::2000 music.youtube.com
+2404:6800:4005:800::2000 gaming.youtube.com
 2404:6800:4005:800::2000 m.youtube.com
 2404:6800:4005:800::2000 youtu.be
 2404:6800:4005:800::2000 gdata.youtube.com
@@ -2338,7 +2339,7 @@
 2606:1f80:a000:100::2 ton.twimg.com
 2606:1f80:a000:100::2 video.twimg.com
 2606:2800:248:5f:1d30:1967:1659:bd2 widgets.twimg.com
-2001:778:0:ffff:64::17eb:2bf9 discourse-cdn.global.ssl.fastly.net
+2a04:4e42::c:0:0:249 discourse-cdn.global.ssl.fastly.net
 ## Facebook 脸谱网
 2a03:2880:f002:11d:face:b00c::25de facebook.com
 2a03:2880:f002:11d:face:b00c::25de www.facebook.com
