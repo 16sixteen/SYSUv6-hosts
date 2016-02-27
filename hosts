@@ -903,13 +903,13 @@
 2a04:4e42::c:0:0:249 cloud-cdn-digitalocean-com.global.ssl.fastly.net
 2a04:4e42::c:0:0:249 community-cdn-digitalocean-com.global.ssl.fastly.net
 #Steam
-2600:1417:9:192::3a7 api.steampowered.com
+#2600:1417:9:192::3a7 api.steampowered.com
 #2600:1417:9:192::3a7 forums.steampowered.com
 #2600:1417:9:192::3a7 steamcommunity.com
 #2600:1417:9:192::3a7 store.steampowered.com
 #2600:1417:9:192::3a7 storefront.steampowered.com
 #2600:1417:9:192::3a7 help.steampowered.com
-2600:1417:9:192::3a7 support.steampowered.com
+#2600:1417:9:192::3a7 support.steampowered.com
 2600:1417:9::b833:f5b repo.steampowered.com
 2600:1417:9::b833:f5b cdn.akamai.steamstatic.com
 2600:1417:9::b833:f5b store.akamai.steamstatic.com
@@ -943,8 +943,8 @@
 #2406:da00:ff00::36f3:9440 fbprod.flipboard.com
 ## Google.com
 2404:6800:4005:800::2000 abc.xyz
-202.86.162.177 google.com
-202.86.162.177 www.google.com
+59.18.46.20 google.com
+59.18.46.20 www.google.com
 2404:6800:4005:800::2000 google.com
 2404:6800:4005:800::2004 www.google.com
 2404:6800:4005:800::2000 admin.google.com
@@ -1024,9 +1024,9 @@
 2404:6800:4005:800::2008 googletagmanager.com
 2404:6800:4005:800::2008 www.googletagmanager.com #www-googletagmanager.l.google.com
 ## 谷歌香港
-202.86.162.177 google.com.hk
+59.18.46.20 google.com.hk
 2404:6800:4005:800::2000 google.com.hk
-202.86.162.177 www.google.com.hk
+59.18.46.20 www.google.com.hk
 2404:6800:4005:800::2000 www.google.com.hk #www-wide.l.google.com
 2404:6800:4005:800::2000 accounts.google.com.hk #accounts-cctld.l.google.com
 2404:6800:4005:800::2000 clients1.google.com.hk #clients-cctld.l.google.com
@@ -1782,8 +1782,8 @@
 2001:4860:4802:38::15 vr.chromeexperiments.com
 2001:4860:4802:38::15 www.20thingsilearned.com
 ## IPv6 专题
-202.86.162.177 ipv6test.google.com #ipv6test.l.google.com
-202.86.162.177 ipv4.google.com #ipv4.l.google.com
+59.18.46.20 ipv6test.google.com #ipv6test.l.google.com
+59.18.46.20 ipv4.google.com #ipv4.l.google.com
 2404:6800:4005:80b::2004 ds.ipv6test.google.com #ds.ipv6test.l.google.com
 2404:6800:4005:800::2000 i2.ds.ipv6-exp.l.google.com
 2607:f8b0:400e:c01::97 chrome.googleechotest.com #chromeecho.l.google.com
