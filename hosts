@@ -564,7 +564,7 @@
 2600:1417:9::b833:f7c dl4.htc.com
 #XiaoMI
 2001:da8:215:4131::17 file.market.xiaomi.com
-2001:da8:215:4131::17 s1.mi.com
+#2001:da8:215:4131::17 s1.mi.com
 121.195.115.23 bigota.d.miui.com
 #Reddit
 2400:cb00:2048:1::c629:d188 reddit.com
@@ -873,7 +873,7 @@
 2600:1417:9:192::ae6 embedded.communities.intel.com
 #2406:da00:ff00::1717:91fa api.intel.com
 #Vimeo
-23.235.43.249 vimeo-hp-videos.global.ssl.fastly.net
+2a04:4e42::c:0:0:249 vimeo-hp-videos.global.ssl.fastly.net
 2600:1417:9::6007:3661 skyfiregcs-a.akamaihd.net
 2600:1417:9::6007:3661 pdlvimeocdn-a.akamaihd.net
 2600:1417:9::6007:3661 pdl.vimeocdn.com
@@ -893,15 +893,15 @@
 23.235.43.133 camo.githubusercontent.com
 23.235.43.133 raw.githubusercontent.com
 23.235.43.133 cloud.githubusercontent.com
-23.235.43.249 github.global.ssl.fastly.net
-23.235.43.249 github-camo.global.ssl.fastly.net
+2a04:4e42::c:0:0:249 github.global.ssl.fastly.net
+2a04:4e42::c:0:0:249 github-camo.global.ssl.fastly.net
 #DigitalOcean
 2400:cb00:2048:1::6810:507d digitalocean.com
 2400:cb00:2048:1::6810:1904 www.digitalocean.com
 2400:cb00:2048:1::6810:1904 api.digitalocean.com
 2400:cb00:2048:1::6810:1904 cloud.digitalocean.com
-23.235.43.249 cloud-cdn-digitalocean-com.global.ssl.fastly.net
-23.235.43.249 community-cdn-digitalocean-com.global.ssl.fastly.net
+2a04:4e42::c:0:0:249 cloud-cdn-digitalocean-com.global.ssl.fastly.net
+2a04:4e42::c:0:0:249 community-cdn-digitalocean-com.global.ssl.fastly.net
 #Steam
 2600:1417:9:192::3a7 api.steampowered.com
 #2600:1417:9:192::3a7 forums.steampowered.com
