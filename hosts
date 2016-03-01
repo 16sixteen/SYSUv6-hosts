@@ -2415,8 +2415,6 @@
 2a03:2880:f00c:b:face:b00c::3 scontent-b-sin.xx.fbcdn.net
 2a03:2880:f00d:8:face:b00c::1 scontent-a-lax.xx.fbcdn.net
 2a03:2880:f00d:8:face:b00c::1 scontent-b-lax.xx.fbcdn.net
-2a03:2880:f002:110:face:b00c::3 ent-a.xx.fbcdn.net
-2a03:2880:f002:110:face:b00c::3 ent-b.xx.fbcdn.net
 2a03:2880:f002:110:face:b00c::3 scontent.xx.fbcdn.net
 2a03:2880:f002:110:face:b00c::3 external.xx.fbcdn.net
 2a03:2880:f002:110:face:b00c::3 static.xx.fbcdn.net
@@ -2487,6 +2485,7 @@
 2a03:2880:f002:113:face:b00c::43fe graph.instagram.com
 2a03:2880:f002:113:face:b00c::43fe logger.instagram.com
 2a03:2880:f002:113:face:b00c::43fe badges.instagram.com
+2a03:2880:f002:113:face:b00c::43fe platform.instagram.com
 2a03:2880:f002:113:face:b00c::43fe scontent.cdninstagram.com
 2a03:2880:f002:113:face:b00c::43fe scontent-a.cdninstagram.com
 2a03:2880:f002:113:face:b00c::43fe scontent-b.cdninstagram.com
