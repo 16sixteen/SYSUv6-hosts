@@ -4,9 +4,9 @@ A [hosts file](https://raw.githubusercontent.com/LGA1150/SYSUv6-hosts/master/hos
 
 # Why
 
-In Aug 2015, the main ISP of SYSU was replaced by CMCC, which has a heavily restricted "Internet": Speed (1.5 Mbps), Websites, etc. 
+In Aug 2015, the main ISP of SYSU East Campus was replaced by CMCC, which has a heavily restricted "Internet": Speed (4 Mbps), Websites, etc. 
 
-But luckily, we still have CHN-UNICOM and CERNET.
+But luckily, we still have GZGWBN and CERNET.
 
 # How
 
