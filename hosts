@@ -2850,4 +2850,25 @@
 # Wikipedia
 2620:0:863:ed1a::1 zh.wikipedia.org
 2620:0:863:ed1a::1:c zh.m.wikipedia.org
+# Pixiv(For CMCC and CTT)
+240c:f:1:6644::d281:7828 pixiv.net
+58.83.174.114 pixiv.net
+240c:f:1:6644::d281:7828 www.pixiv.net
+58.83.174.114 www.pixiv.net
+240c:f:1:6644::d28c:8388 i1.pixiv.net
+58.83.174.114 i1.pixiv.net
+240c:f:1:6644::d28c:8e06 i2.pixiv.net
+58.83.174.114 i2.pixiv.net
+240c:f:1:6644::d28c:8e88 i3.pixiv.net
+58.83.174.114 i3.pixiv.net
+240c:f:1:6644::d28c:9909 i4.pixiv.net
+58.83.174.114 i4.pixiv.net
+240c:f:1:6644::d28c:8390 source.pixiv.net
+58.83.174.114 source.pixiv.net
+240c:f:1:6644::d28c:8392 img-comic.pixiv.net
+58.83.174.114 img-comic.pixiv.net
+240c:f:1:6644::d28c:8391 imgaz.pixiv.net
+58.83.174.114 imgaz.pixiv.net
+240c:f:1:6644::d281:7828 spotlight.pics
+58.83.174.114 spotlight.pics
 #END
