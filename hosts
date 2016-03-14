@@ -880,16 +880,16 @@
 2600:1417:a:192::798 secure-c.vimeocdn.com
 #GitHub
 192.30.252.143 gist.github.com
-23.235.43.133 help.github.com
-23.235.43.133 assets-cdn.github.com
-23.235.43.133 pages.github.com
-23.235.43.133 avatars0.githubusercontent.com
-23.235.43.133 avatars1.githubusercontent.com
-23.235.43.133 avatars2.githubusercontent.com
-23.235.43.133 avatars3.githubusercontent.com
-23.235.43.133 camo.githubusercontent.com
-23.235.43.133 raw.githubusercontent.com
-23.235.43.133 cloud.githubusercontent.com
+43.249.73.133 help.github.com
+43.249.73.133 assets-cdn.github.com
+43.249.73.133 pages.github.com
+43.249.73.133 avatars0.githubusercontent.com
+43.249.73.133 avatars1.githubusercontent.com
+43.249.73.133 avatars2.githubusercontent.com
+43.249.73.133 avatars3.githubusercontent.com
+43.249.73.133 camo.githubusercontent.com
+43.249.73.133 raw.githubusercontent.com
+43.249.73.133 cloud.githubusercontent.com
 2a04:4e42::c:0:0:249 github.global.ssl.fastly.net
 2a04:4e42::c:0:0:249 github-camo.global.ssl.fastly.net
 #DigitalOcean
