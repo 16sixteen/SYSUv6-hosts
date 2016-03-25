@@ -942,8 +942,8 @@
 #2406:da00:ff00::36f3:9440 fbprod.flipboard.com
 ## Google.com
 2404:6800:4005:800::2000 abc.xyz
-59.18.46.20 google.com
-59.18.46.20 www.google.com
+202.86.162.172 google.com
+202.86.162.172 www.google.com
 2404:6800:4005:800::2000 google.com
 2404:6800:4005:800::2004 www.google.com
 2404:6800:4005:800::2000 admin.google.com
@@ -1023,9 +1023,9 @@
 2404:6800:4005:800::2008 googletagmanager.com
 2404:6800:4005:800::2008 www.googletagmanager.com #www-googletagmanager.l.google.com
 ## 谷歌香港
-59.18.46.20 google.com.hk
+202.86.162.172 google.com.hk
 2404:6800:4005:800::2000 google.com.hk
-59.18.46.20 www.google.com.hk
+202.86.162.172 www.google.com.hk
 2404:6800:4005:800::2000 www.google.com.hk #www-wide.l.google.com
 2404:6800:4005:800::2000 accounts.google.com.hk #accounts-cctld.l.google.com
 2404:6800:4005:800::2000 clients1.google.com.hk #clients-cctld.l.google.com
@@ -1704,6 +1704,7 @@
 2404:6800:4005:800::200a mts2.googleapis.com
 2404:6800:4005:800::200a mts3.googleapis.com
 2404:6800:4005:800::200a beyond-pa.clients6.google.com
+2404:6800:4005:800::200a ct.googleapis.com 
 2404:6800:4008:c05::ef datasaver.googleapis.com
 ## Google Hosted 托管服务
 2404:6800:4005:800::2010 storage.googleapis.com
@@ -1782,8 +1783,8 @@
 2001:4860:4802:38::15 vr.chromeexperiments.com
 2001:4860:4802:38::15 www.20thingsilearned.com
 ## IPv6 专题
-59.18.46.20 ipv6test.google.com #ipv6test.l.google.com
-59.18.46.20 ipv4.google.com #ipv4.l.google.com
+202.86.162.172 ipv6test.google.com #ipv6test.l.google.com
+202.86.162.172 ipv4.google.com #ipv4.l.google.com
 2404:6800:4005:80b::2004 ds.ipv6test.google.com #ds.ipv6test.l.google.com
 2404:6800:4005:800::2000 i2.ds.ipv6-exp.l.google.com
 2607:f8b0:400e:c01::97 chrome.googleechotest.com #chromeecho.l.google.com
@@ -1818,6 +1819,8 @@
 2401:3800:4001::1 cache.l.google.com
 2404:6800:4008:c02::7f stun.l.google.com
 2404:6800:4005:800::2000 posts.google.com
+2404:6800:4005:800::2000 certificate-transparency.org
+2404:6800:4005:800::2000 www.certificate-transparency.org
 ## AdWords/AdSense 广告服务
 2404:6800:4008:c00::62 www.googlesyndication.com
 2404:6800:4008:c00::9a www.googleadservices.com #pagead.l.doubleclick.net
